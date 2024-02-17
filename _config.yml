@@ -2,6 +2,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jemoji
 
 domain: "pwhittlesea.github.io"
 url: "https://pwhittlesea.github.io"
@@ -30,4 +32,4 @@ minima:
       user_url: "https://www.linkedin.com/in/phillipwhittlesea/"
     - platform: goodreads
       user_url: "https://www.goodreads.com/user/show/163685297-phillip"
-  show_excerpts: true
+show_excerpts: true

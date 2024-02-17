@@ -6,10 +6,11 @@ categories: update
 tags: jekyll github
 ---
 
-## Out with the old
-
 I've been rocking the same website since 2013.
 I created it on the 25th of April 2013 when I heard that GitHub had moved GitHub Pages to a dedicated domain, `github.io`.
+
+
+## Out with the old
 
 In a [single commit](https://github.com/pwhittlesea/pwhittlesea.github.com/commit/6aa6b93ab9ff15eded0baca6e7891081d83b2574) I pushed all the context required and it stayed that way, unchanged, for 10 years, 9 months and 23 days.
 
