@@ -7,6 +7,7 @@ domain: "pwhittlesea.github.io"
 url: "https://pwhittlesea.github.io"
 baseurl: "/"
 
+title: Phillip Whittlesea-Clark
 description: >-
   A flume ride through my conciousness.
 
@@ -23,8 +24,10 @@ minima:
   social_links:
     - platform: github
       user_url: "https://github.com/pwhittlesea"
-    - platform: twitter
+    - platform: x
       user_url: "https://twitter.com/pwhittlesea"
     - platform: linkedin
       user_url: "https://www.linkedin.com/in/phillipwhittlesea/"
+    - platform: goodreads
+      user_url: "https://www.goodreads.com/user/show/163685297-phillip"
   show_excerpts: true
