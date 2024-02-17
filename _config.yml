@@ -1,0 +1,13 @@
+title: Phillip Whittlesea-Clark
+email: pw.github@thega.me.uk
+description: >-
+  A flume ride through my conciousness.
+domain: "pwhittlesea.github.io"
+url: "https://pwhittlesea.github.io"
+baseurl: "/pwhittlesea.github.com/"
+twitter_username: pwhittlesea
+github_username:  pwhittlesea
+
+theme: minima
+plugins:
+  - jekyll-feed
