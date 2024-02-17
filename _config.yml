@@ -1,13 +1,30 @@
-title: Phillip Whittlesea-Clark
-email: pw.github@thega.me.uk
-description: >-
-  A flume ride through my conciousness.
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
 domain: "pwhittlesea.github.io"
 url: "https://pwhittlesea.github.io"
 baseurl: "/"
-twitter_username: pwhittlesea
-github_username:  pwhittlesea
 
-theme: minima
-plugins:
-  - jekyll-feed
+description: >-
+  A flume ride through my conciousness.
+
+author:
+  name: Phillip Whittlesea-Clark
+  email: "pw.github@thega.me.uk"
+
+minima:
+  skin: solarized
+  header_pages:
+    - about.md
+    - cv.md
+  date_format: "%Y-%m-%d %H:%M"
+  social_links:
+    - platform: github
+      user_url: "https://github.com/pwhittlesea"
+    - platform: twitter
+      user_url: "https://twitter.com/pwhittlesea"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/phillipwhittlesea/"
+  show_excerpts: true
