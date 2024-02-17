@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently living in Southampton with my partner (whom I dote on), my 4 cats (whom I tolerate me) and 2 dogs (whom I fuss over).
+I am currently living in Southampton with my partner (whom I dote on), my 4 cats (whom I tolerate) and 2 dogs (whom I fuss over).
 
 I graduated from the University of Southampton in 2012 and have since been working my way up the ranks to my current role as a Software Architect.
 
