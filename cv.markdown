@@ -11,10 +11,17 @@ permalink: /cv/
 `2022 - present`
 ___Architect___, Cirium
 
-Architect accountable for the machine-to-machine interfaces customers use to get data from Cirium (e.g. HTTP APIs, AMQP).
+Architect accountable for the design of machine-to-machine interfaces (e.g. HTTP APIs, AMQP).
 
 Areas focused on:
-- TODO
+- Work with Sales, Product, Project, Data, SREs, and Security to gather requirements
+- Analyse requirements from the above to design solutions
+- Coordinate multiple teams to allow effective delivery
+- Establish coding practices and set direction amongst development teams
+- Assist teams across many functions with with day-to-day issues encountered
+- Evaluate new technologies and tools for upcoming projects
+- Effective documentation of design (e.g. HLDs)
+- Decomposition of problems
 
 `2020 - 2022`
 ___Principal Software Engineer___, Cirium
@@ -80,6 +87,14 @@ Modules included:
 - Security & Information Technology
 
 ## Skills
+
+___Behavioural___
+- Problem solving
+- Coordination
+- Attention to detail
+- Leadership
+- Communication
+- Creativity
 
 ___Cloud___
 
