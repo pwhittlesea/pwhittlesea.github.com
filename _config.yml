@@ -4,7 +4,7 @@ description: >-
   A flume ride through my conciousness.
 domain: "pwhittlesea.github.io"
 url: "https://pwhittlesea.github.io"
-baseurl: "/pwhittlesea.github.com/"
+baseurl: "/"
 twitter_username: pwhittlesea
 github_username:  pwhittlesea
 
