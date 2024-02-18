@@ -9,7 +9,7 @@ I am currently living in Southampton with my partner (whom I dote on), my 4 cats
 :christmas_tree: I have a passion for going overboard at Christmas (see below) which means November is blocked out to put the decorations up, and January to pull them down.
 
 :vampire: I am in two D&D campaigns at the moment and I am the DM for one of them.
-We are playing [Curse of Strahd](https://en.wikipedia.org/wiki/Curse_of_Strahd)
+We are playing [Curse of Strahd](https://en.wikipedia.org/wiki/Curse_of_Strahd).
 
 :video_game: I play computer games with my partner and my mother-in-law.
 [7 Days 2 Die](https://en.wikipedia.org/wiki/7_Days_to_Die) and [Baldur's Gate 3](https://en.wikipedia.org/wiki/Baldur%27s_Gate_3) are todays roster but we have played [Valheim](https://en.wikipedia.org/wiki/Valheim) and [ARK: Survival Evolved](https://en.wikipedia.org/wiki/Ark:_Survival_Evolved) in the past.

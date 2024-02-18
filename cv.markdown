@@ -4,7 +4,10 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-:construction: **Under Construction** :construction:
+Table of Contents:
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 
 ## Work
 
@@ -14,22 +17,30 @@ ___Architect___, Cirium
 Architect accountable for the design of machine-to-machine interfaces (e.g. HTTP APIs, AMQP).
 
 Areas focused on:
-- Work with Sales, Product, Project, Data, SREs, and Security to gather requirements
-- Analyse requirements from the above to design solutions
+- Engage with stakeholders within the business and the wider organisation to gather requirements
+  - These stakeholders include Sales, Product, Project, Data, SREs, and Security
+  - Analyse requirements from the above to design solutions that meet the business needs
+- Work with teams to understand where shared infrastructure/solutions may benefit the business
 - Coordinate multiple teams to allow effective delivery
-- Establish coding practices and set direction amongst development teams
-- Assist teams across many functions with with day-to-day issues encountered
-- Evaluate new technologies and tools for upcoming projects
+- Establish coding practices and drive technical direction amongst development teams
+- Lead teams in the decomposition of issues to aid problem-resolution
 - Effective documentation of design (e.g. HLDs)
-- Decomposition of problems
+- Evaluate new technologies and tools for upcoming projects and train teams in their usage
+- Determine technical feasibility of upcoming projects
 
 `2020 - 2022`
 ___Principal Software Engineer___, Cirium
 
-TODO
+Integrate the software and systems from the recently acquired Snowflake Software into the broader processes and systems of Cirium.
 
 Areas focused on:
-- TODO
+- Work across multiple teams within the department to design solutions to and solve complex technical problems
+- Build out platform solutions which remove day-to-day complexity from engineers when writing software
+- Work with architecture to gather requirements to future platform solutions
+- Serve as an SME for streaming solutions, Java, and Spring within the department
+- Lead the development of technical standards and review code to ensure they are followed
+- Work with Security to ensure solutions met the requirements of the wider organisation
+- Investigate new technologies and tools which might improve products in the future 
 
 `2016 - 2020`
 ___Senior Software Developer___, Snowflake Software Ltd.
@@ -89,6 +100,7 @@ Modules included:
 ## Skills
 
 ___Behavioural___
+
 - Problem solving
 - Coordination
 - Attention to detail
@@ -98,40 +110,68 @@ ___Behavioural___
 
 ___Cloud___
 
-AWS (TODO)
-
-Azure (TODO)
-
-GCP (TODO)
+Experience of a wide range of services across 3 major cloud providers
+- `AWS` - 9 years (`EC2`, `RDS`, `Redshift`, `S3`, `Lambda`, `Kinesis`, `IAM`, `SQS`, `Athena`, `WAF`, `Cloudformation`, and others)
+- `Azure` - 2 years
+- `GCP` - 2 years
 
 ___Programming Languages___
 
-Java, Python, and PHP with additional knowledge of C, Perl, and others.
+- `Java` - 16 years experience (10 years professionally).
+Within that time I have written web applications, frameworks and desktop GUIs.
+- `Python` - used frequently over the last 10 years
 
 ___Web Development___
 
-PHP, HTML, CSS and Javascript
+Working knowledge of:
+- `PHP`
+- `HTML`
+- `CSS`
+- `Javascript`
+- `React`
 
 ___Databases___
 
-PostgreSQL, Snowflake, Oracle, SQLServer, MongoDB, and Elasticsearch.
+Schema design, operation and maintenance of:
+- `PostgreSQL`
+- `Snowflake`
+- `Oracle`
+- `SQLServer`
+- `MongoDB`
+- `Elasticsearch`
 
-___Containerisation___
+___Infrastructure As Code___
 
-Docker, Kubernetes, EKS, and ECS.
-
-___Server Administration___
-
-Apache, Samba, OpenSSH with additional experience with BIND and general Unix configuration.
+Frequent usage of the following:
+- `Terraform`
+- `Docker`
+- `Kubernetes` (`EKS`, `GKE` and `AKS`)
+- `ECS`
+- `Helm`
+- `Kustomize`
 
 ___Security___
 
-Trivy, Dependabot, Renovate, TODO
+Usage of various security tooling:
+- `Trivy`
+- `Dependabot`
+- `Renovate`
+- `Vault`
 
 ___Data Tooling___
 
-TODO
+Passing understanding of:
+- `Databricks`
+- `Iceberg`
+- `Avro`
+- `LLMs`
 
 ___Revision Control Tooling___
 
-Github, Gitlab, Bitbucket, and SVN
+- `Git` - `Github`, `Gitlab`, and `Bitbucket`
+- `SVN`
+
+___Server Administration___
+
+`Apache`, `Samba`, `OpenSSH`, and general Unix configuration.
+
