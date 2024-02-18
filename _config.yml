@@ -1,35 +1,127 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jemoji
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+date_format: "%Y-%m-%d %H:%M"
 
-domain: "pwhittlesea.github.io"
+show_excerpts: true
+
+minimal_mistakes_skin: "air"
+
+# Site Settings
+locale: "en-GB"
+title: "thega.me.uk"
+title_separator: "-"
+subtitle: "Useless content on unimportant topics"
+name: "Phillip Whittlesea-Clark"
+description: "Peronal blog of Phillip Whittlesea-Clark"
 url: "https://pwhittlesea.github.io"
 baseurl: "/"
+domain: "pwhittlesea.github.io"
+repository: "pwhittlesea/pwhittlesea.github.io"
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "/assets/images/topbar.jpg"
+words_per_minute: 200
 
-title: Phillip Whittlesea-Clark
-description: >-
-  A flume ride through my conciousness.
-
+# Site Author
 author:
-  name: Phillip Whittlesea-Clark
+  name: "Phillip Whittlesea-Clark"
+  avatar: "https://gravatar.com/avatar/fec6480057e9461390f83964ec2223e7?s=200"
+  bio: "Software Architect & Dungeon Master"
+  location: "Southampton"
   email: "pw.github@thega.me.uk"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pwhittlesea"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pwhittlesea"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/phillipwhittlesea/"
+    - label: "Goodreads"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.goodreads.com/user/show/163685297-phillip"
 
-minima:
-  skin: solarized
-  header_pages:
-    - about.md
-    - cv.md
-  date_format: "%Y-%m-%d %H:%M"
-  social_links:
-    - platform: github
-      user_url: "https://github.com/pwhittlesea"
-    - platform: x
-      user_url: "https://twitter.com/pwhittlesea"
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/phillipwhittlesea/"
-    - platform: goodreads
-      user_url: "https://www.goodreads.com/user/show/163685297-phillip"
-show_excerpts: true
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: GB
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jemoji
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      toc: true
+      author_profile: true
+      read_time: true
+      show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      author_profile: true
+
+# Jekyll Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"

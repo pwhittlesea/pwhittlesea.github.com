@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Curriculum Vitae"
+    url: /cv/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/

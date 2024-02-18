@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New Beginnings"
 date:   2024-02-17 17:07:00 +0000
 categories: update
@@ -16,7 +15,7 @@ In a [single commit](https://github.com/pwhittlesea/pwhittlesea.github.com/commi
 
 A *lot* has happened in my life in that time.
 
-![My old site](/assets/new-beginnings_old-site.png)
+![My old site](/assets/images/new-beginnings_old-site.png)
 
 At the time I put out this, admittedly garish, site I had been a Software Engineer for under a year.
 I had a great work/life balance as the demands on a junior engineer are basically non-existent.

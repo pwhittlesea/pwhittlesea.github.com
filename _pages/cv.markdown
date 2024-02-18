@@ -1,13 +1,7 @@
 ---
-layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-
-Table of Contents:
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 
 ## Work
 
