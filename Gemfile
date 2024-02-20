@@ -1,9 +1,9 @@
 source "https://rubygems.org"
-gem "github-pages", "~> 231", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
 gem "webrick"
 group :jekyll_plugins do
+  gem "github-pages", "~> 231"
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-include-cache"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

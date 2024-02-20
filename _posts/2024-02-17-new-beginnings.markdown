@@ -47,7 +47,7 @@ Plus, I have no illusions that anyone is going to find things I write interestin
 
 1. Somewhere to put random things I learn (code etc.)
 2. A store of links and tagged resource which I can share and refer to in future
-3. The hub all of my domains (e.g. [`thega.me.uk`](https://thega.me.uk) to point to
+3. The hub all of my domains (e.g. [`thega.me.uk`](https://thega.me.uk)) to point to
 4. An online CV which I can keep up to date
 
 Maybe when I'm older and my memory is even worse than it is now, I can use this as an off-site backup.
