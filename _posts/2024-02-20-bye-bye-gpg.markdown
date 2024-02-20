@@ -14,7 +14,7 @@ Now one option would be to make the keys last longer, but that would leave me wi
 Add to that the fact that some systems (**cough** OSX) need additional software installed to give you a prompt for the password when you want to unlock the key.
 It's just, annoying.
 
-So recently, a blog from [Menhak](https://code.mendhak.com/wsl2-keepassxc-ssh/) pointed me at using SSH keys to sign your Git commits.
+So recently, a blog from [Mendhak](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/) pointed me at using SSH keys to sign your Git commits.
 Colour me interested.
 Maybe this could be easier than managing GPG keys.
 
