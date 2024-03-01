@@ -23,7 +23,7 @@ words_per_minute: 200
 # Site Author
 author:
   name: "Phillip Whittlesea-Clark"
-  avatar: "https://gravatar.com/avatar/fec6480057e9461390f83964ec2223e7?s=200"
+  avatar: "/assets/images/profile_pic.jpg"
   bio: "Software Architect & Dungeon Master"
   location: "Southampton"
   email: "pw.github@thega.me.uk"
