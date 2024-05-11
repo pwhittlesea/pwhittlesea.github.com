@@ -28,9 +28,9 @@ author:
   location: "Southampton"
   email: "pw.github@thega.me.uk"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pwhittlesea"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@pwhittlesea"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pwhittlesea"
