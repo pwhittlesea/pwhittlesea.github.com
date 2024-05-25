@@ -14,16 +14,19 @@ Whenever I read an engineering blog, there is normally some law or rule on offer
 
 There is however one rule which I will always follow on any project I work on:
 
-> ***If it doesn't break the build, you don't care about it***
+> ***If it doesn't break your CI/CD pipeline, you don't care about it***
 
 Or alternatively:
 
-> If you care about it, make it fail the build
+> If you care about `something`, make `something` fail the build
 
 This 'rule' makes a key assumption; You are running some form of CI/CD (the build) which can fail or pass.
 That, and the build pipeline should be a gate that [stops a PR being merged](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks) and the given changes being released to production if it fails.
 
-The most obvious example is your project's automated tests (because you have tests right?).
+The most obvious example is your project's automated tests (because you have tests right?):
+
+> If you care about `unit tests`, make `unit tests` fail the build
+
 If those tests don't fail your build, you can release with failing tests.
 If you have failing tests then you have broken features.
 And if you have broken features in production, then you didn't care about it because you didn't make the check fail the build.
