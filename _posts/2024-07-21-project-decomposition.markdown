@@ -2,15 +2,14 @@
 title: "Project Decomposition"
 date: 2024-07-21 12:00:00 +0000
 categories: code
-classes: wide
 tags: engineering
 ---
 
 As an architect, I frequently assist software engineers in breaking down project scope into manageable chunks.
 Here is one of the techniques I use.
 
-> [!NOTE]
-> I do not know the origin of this process, but if you do, let me know so I can attribute it correctly.
+:blue_heart: I do not know the origin of this process, but if you do, let me know so I can attribute it correctly.
+{: .notice--primary}
 
 # Why do we need decomposition?
 
@@ -61,8 +60,8 @@ Here we have a couple of randomly selected aspects of the APIs (for very large p
 
 Teams will not manage to put everything here first time, as they work through this process they will discover more.
 
-> [!IMPORTANT]
-> This is a good time to remember all of those other business systems your application needs to integrate with (like Salesforce)
+:warning: This is a good time to remember all of those other business systems your application needs to integrate with (like Salesforce)
+{: .notice--warning}
 
 ## Step 2 - Slicing
 
