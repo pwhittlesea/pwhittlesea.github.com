@@ -53,8 +53,8 @@ Write these aspects down as columns of a table, lets focus on just the back end 
 </table>
 
 Here we have a couple of randomly selected aspects of the APIs (for very large projects I've seen ~100 columns):
-- Post APIs - back the users Posts pages
-- User Settings APIs - back our users Settings page
+- Post APIs - support the users Posts pages
+- User Settings APIs - support the user's Settings page
 - Authentication - Checking the caller is who the caller says they are
 - Threat Protection - We have lots of competitors who want to see us fail, how do we make sure they don't break our service?
 - Logging - What logs should our back end create?
@@ -122,7 +122,7 @@ The team could deliver no APIs related to posting.
 Then they could deliver an API which allows you to list posts.
 Then they could deliver an API which supports listing and creating, and so on.
 
-These slices help the team understand how they an build up to the final solution but **not all slices will need to be delivered**.
+These slices help the team understand how they can build up to the final solution but **not all slices will need to be delivered**.
 Some of the slices will never be needed, like 'Edit' in 'Post APIs'.
 We might just decide that we want users to have to delete then re-create posts when they spell something wrong.
 
