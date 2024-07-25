@@ -8,8 +8,28 @@ tags: engineering
 As an architect, I frequently assist software engineers in breaking down project scope into manageable chunks.
 Here is one of the techniques I use.
 
+{% capture notice-update-1 %}
+So this process should be called 'User Story Mapping' and is featured in its own [O'Reilly book](https://www.oreilly.com/library/view/user-story-mapping/9781663728661/) by Jeff Patton and Roy McCrerey.
+
+I struggled to find anything about it because I did not know the correct name.
+But now I do, I have found lots of _far_ better blogs out there on this process (e.g. [1](https://www.easyagile.com/blog/the-ultimate-guide-to-user-story-maps/), [2](https://plan.io/blog/user-story-mapping/) and [3](https://www.nngroup.com/articles/user-story-mapping/)).
+
+There is also a [video](https://www.youtube.com/watch?v=AorAgSrHjKM) featuring one of the authors of the book.
+
+In fact, this blog probably now only serves as a writing exercise :smile:.
+I plan on buying and reading the book so I can correct all the terminology on this page.
+{% endcapture %}
+
+{% capture notice-original %}
 :blue_heart: I do not know the origin of this process, but if you do, let me know so I can attribute it correctly.
-{: .notice--primary}
+{% endcapture %}
+
+<div class="notice--primary">
+  <h4 class="no_toc">Update 2024/07/25:</h4>
+  {{ notice-update-1 | markdownify }}
+  <h4 class="no_toc">Original 2024/07/21:</h4>
+  {{ notice-original | markdownify }}
+</div>
 
 # Why do we need decomposition?
 
