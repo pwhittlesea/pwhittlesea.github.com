@@ -17,7 +17,7 @@ We are playing [Curse of Strahd](https://en.wikipedia.org/wiki/Curse_of_Strahd).
 :monkey_face: I have been known to replay [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) from time to time.
 
 :cake: When not up a ladder, or in-front of a screen I am on a quest to not get a soggy bottom on my banana bread.
-Head over to [Goodreads](https://www.goodreads.com/user/show/163685297-phillip) to see what I am reading at the moment.
+Head over to [The StoryGraph](https://app.thestorygraph.com/profile/gingerphill) to see what I am reading at the moment.
 
 I graduated from the University of Southampton in 2012 and have since been working my way up the ranks to my current role as a Software Architect.
 
