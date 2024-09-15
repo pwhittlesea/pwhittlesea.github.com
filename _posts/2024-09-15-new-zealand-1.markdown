@@ -71,9 +71,9 @@ The tour was only 12 days but there was 3 days of flying, plus I wanted to add a
 I want to take a second to sing the praises of the team at [Red Carpet Tours](https://www.redcarpet-tours.com/about-us).
 Julie James, who was our tour guide, was everything we could ask for.
 
-A handful of issued occurred during the tour but Julie handled all of it in her stride.
+A handful of issues occurred during the tour but Julie handled all of it in her stride.
 
-Winter weather brought some significant rain but we didn't really notice because Julie and the team re-ordered the days so we were inside when the weather was it's worst.
+Winter weather brought some significant rain but we didn't really notice because Julie and the team re-ordered the days so we were inside when the weather was its worst.
 I hate to think about the amount of reorganisation that takes, but I guess it was helped by the good relationships with local companies that Red Carpet Tours maintains.
 
 We got to see lots of filming locations and Julie was constantly giving us background and trivia for everything we saw.
@@ -113,7 +113,7 @@ Singapore Airlines were fantastic and the Premium Economy seats my partner bulli
 ## Friday 31<sup>st</sup>: Naps on the 35<sup>th</sup> Floor
 
 Arriving at Auckland I was not as overjoyed to be in New Zealand as I expected, but I was overjoyed to see the bed in my hotel room after 31 hours of travel.
-We promptly dozed on and off for the next 6 hours; catching up on at least one nights sleep.
+We promptly dozed on and off for the next 6 hours; catching up on at least one night's sleep.
 
 Upon rising, our body clocks having given up guessing what time it was, we did the only thing one can do.
 We went to the rooftop bar.
