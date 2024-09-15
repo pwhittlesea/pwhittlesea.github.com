@@ -45,7 +45,7 @@ If there were any issues the tour company would manage them for us and, if we we
 The idea of travelling up and down New Zealand on a coach full of LoTR nerds filled me with dread because I had never read the books.
 But, I reminded myself, this was a *film location tour*, the nerds going were film fans; I should be able to blend in.
 
-Red Carpet Tours are booked *far* in advance (as of writing they are booked up until 2027) so we signed up to their mailing list to catch any cancellations.
+Red Carpet Tours are booked *far* in advance (as of writing they are booked up for the next three years) so we signed up to their mailing list to catch any cancellations.
 
 We waited...
 
