@@ -31,6 +31,7 @@ I know you shouldn't get swept away by the small snippet you see of a county whe
 New Zealand stole my heart and I wish I could move there.
 
 This is part 1 of a series of blogs on my 2024 trip to New Zealand.
+To read part 2 click [here](/holidays/new-zealand-2/).
 {: .notice--info}
 
 # Short Notice
@@ -207,6 +208,6 @@ I'm going to leave it here for part 1.
 This feels like a good stopping point.
 
 Kia Ora!
-See you in part 2!
+See you in [part 2](/holidays/new-zealand-2/)!
 
 {:footnotes}
