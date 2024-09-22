@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2024-10-02T20:21:38+00:00
+last_modified_at: 2024-10-03T20:35:51+00:00
 categories: holidays
 tags: new-zealand
 
@@ -255,6 +255,6 @@ However, I'm going to leave it here for part 2.
 This 'quick travel blog' is swiftly becoming a significant undertaking.
 
 Kia Ora!
-See you in part 3!
+See you in [part 3](2024-10-03-new-zealand-3.md)!
 
 {:footnotes}
