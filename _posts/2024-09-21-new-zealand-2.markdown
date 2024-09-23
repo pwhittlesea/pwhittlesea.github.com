@@ -3,6 +3,10 @@ title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
 categories: holidays
 tags: new-zealand
+
+tagline: &tagline Our tour begins, showcasing the magic behind the movies, New Zealand culture, and history.
+excerpt: *tagline
+
 header:
   overlay_image: /assets/images/new_zealand/new_zealand_0805.jpg
   og_image: /assets/images/new_zealand/new_zealand_0805.jpg
@@ -45,10 +49,9 @@ tirau:
     title: "Tīrau's corrugated iron 'dog' building"
 ---
 
-Our tour begins, showcasing the magic behind the movies, New Zealand culture, and history.
-
 This is part 2 of a series of blogs on my 2024 trip to New Zealand.
-To read part 1 click [here](/holidays/new-zealand-1/).
+<br/>
+[Click here](/tags/#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Monday 3<sup>rd</sup>: The Tour Begins

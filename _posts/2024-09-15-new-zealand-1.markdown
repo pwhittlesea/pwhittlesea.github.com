@@ -3,6 +3,13 @@ title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
 categories: holidays
 tags: new-zealand
+
+tagline: &tagline >
+  I know you shouldn't get swept away by the small snippet you see of a county when you go on holiday, but I did.
+  <br/>
+  New Zealand stole my heart and I wish I could move there.
+excerpt: *tagline
+
 header:
   overlay_image: /assets/images/new_zealand/new_zealand_0862.jpg
   og_image: /assets/images/new_zealand/new_zealand_0862.jpg
@@ -27,11 +34,9 @@ zoo:
     title: "The Tasmanian Devil"
 ---
 
-I know you shouldn't get swept away by the small snippet you see of a county when you go on holiday, but I did.
-New Zealand stole my heart and I wish I could move there.
-
 This is part 1 of a series of blogs on my 2024 trip to New Zealand.
-To read part 2 click [here](/holidays/new-zealand-2/).
+<br/>
+[Click here](/tags/#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 # Short Notice
