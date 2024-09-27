@@ -1,18 +1,25 @@
 repos:
   - repo: local
     hooks:
-      - id: exif-correct
-        name: Exif Correct
-        description: Removes all Exif data from images and sets the correct Copyright
-        entry: ./.correct-exif.sh
-        language: script
-        types: [image]
-      - id: trufflehog
-        name: TruffleHog
-        description: Detect secrets in your data.
-        entry: bash -c 'docker run --rm -v "$(pwd):/workdir" -i --rm trufflesecurity/trufflehog:latest git file:///workdir --since-commit HEAD --only-verified --fail'
-        language: system
-        stages: ["commit", "push"]
+    - id: exif-correct
+      name: Exif Correct
+      description: Removes all Exif data from images and sets the correct Copyright
+      entry: ./.correct-exif.sh
+      language: script
+      types: [image]
+      exclude_types: [svg]
+    - id: generate-maps
+      name: Generate Maps
+      description: Generate all the maps used in posts
+      entry: ./.generate_maps.sh
+      language: script
+      always_run: true
+    - id: trufflehog
+      name: TruffleHog
+      description: Detect secrets in your data.
+      entry: bash -c 'docker run --rm -v "$(pwd):/workdir" -i --rm trufflesecurity/trufflehog:latest git file:///workdir --since-commit HEAD --only-verified --fail'
+      language: system
+      stages: ["commit", "push"]
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
@@ -20,3 +27,11 @@ repos:
     - id: mixed-line-ending
     - id: trailing-whitespace
       args: ["--markdown-linebreak-ext=markdown,md"]
+  - repo: https://github.com/psf/black-pre-commit-mirror
+    rev: 24.8.0
+    hooks:
+    - id: black
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.1.1
+    hooks:
+    - id: flake8

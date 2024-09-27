@@ -106,6 +106,8 @@ Thank you Julie and the team!
 
 ## Wednesday 29<sup>th</sup>: Flying to New Zealand
 
+![map-uk-to-nz](/assets/images/maps/london_to_auckland.svg "London to Auckland"){: .align-center}
+
 When flying halfway around the planet to *basically* the antipode of where I live, I wanted to leave a bit of buffer.
 If we had a delay or cancellation we might end up losing a few days finding a new flight.
 

@@ -86,6 +86,8 @@ I would do shout outs to everyone here but they will never read this and there's
 
 ## Tuesday 4<sup>th</sup>: The Road to Rotorua
 
+![map-auckland-to-rotorua](/assets/images/maps/road_to_rotorua.svg "Auckland to Rotorua"){: .align-center}
+
 This tour across NZ has to be the only time in my and my partners relationship that I have seen them happy to get up at 6am.
 We had been given our itinerary the night before and almost every day called for a pre-dawn start.
 
