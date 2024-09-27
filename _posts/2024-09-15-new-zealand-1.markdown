@@ -213,6 +213,6 @@ I'm going to leave it here for part 1.
 This feels like a good stopping point.
 
 Kia Ora!
-See you in [part 2](/holidays/new-zealand-2/)!
+See you in [part 2](2024-09-21-new-zealand-2.markdown)!
 
 {:footnotes}

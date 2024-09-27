@@ -64,6 +64,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-relative-links
   - jemoji
 
 # Archives
@@ -94,6 +95,11 @@ defaults:
       layout: single
       toc: true
       author_profile: true
+
+# Process relative links
+relative_links:
+  enabled: true
+  collections: true
 
 # Jekyll Reading Files
 include:
