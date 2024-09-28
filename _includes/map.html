@@ -1,0 +1,19 @@
+{% assign point_names = "Unknown" | split: "," %}
+{% for map in page.maps %}
+{% if map.name == include.name %}
+{% assign point_names = map.points | map: "name" %}
+{% endif %}
+{% endfor %}
+
+{% assign map_alt = point_names | first %}
+
+{% if point_names.size > 1 %}
+{% assign map_alt = point_names | last | prepend: " to " | prepend: map_alt %}
+{% endif %}
+
+{% if point_names.size > 2 %}
+{% assign via_index = point_names | size | minus: 2 %}
+{% assign map_alt = point_names | slice: 1,via_index | join: ", and " | prepend: ", via " | prepend: map_alt %}
+{% endif %}
+
+![map-{{ include.name }}](/assets/images/maps/{{ include.name }}.svg "{{ map_alt }}"){: .align-center}
