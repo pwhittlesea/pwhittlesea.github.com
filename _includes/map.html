@@ -1,7 +1,7 @@
 {% assign point_names = "Unknown" | split: "," %}
 {% for map in page.maps %}
 {% if map.name == include.name %}
-{% assign point_names = map.points | map: "name" %}
+{% assign point_names = map.points | map: "name" | compact %}
 {% endif %}
 {% endfor %}
 

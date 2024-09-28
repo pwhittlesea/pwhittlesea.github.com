@@ -41,7 +41,7 @@ class TextLabel(staticmaps.Object):
     def extra_pixel_bounds(self) -> staticmaps.PixelBoundsT:
         w = len(self._text) * self._font_size
         h = self._font_size
-        return (int(-w / 2), int(-h / 2), int(w / 2), int(h / 2))
+        return (int(w / 2), int(h / 2), int(w / 2), int(h / 2))
 
     def render_svg(self, renderer: staticmaps.SvgRenderer) -> None:
         x, y = renderer.transformer().ll2pixel(self.latlng())
@@ -110,6 +110,9 @@ for post_file in [f for f in listdir(POST_PATH) if isfile(join(POST_PATH, f))]:
 
                 for label in labels:
                     context.add_object(label)
+
+                if "zoom" in post_map:
+                    context.set_zoom(int(post_map["zoom"]))
 
                 map_name = post_map["name"]
                 map_path = f"{IMAGE_DIR}/{map_name}.svg"
