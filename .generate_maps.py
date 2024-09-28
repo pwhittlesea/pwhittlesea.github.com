@@ -1,28 +1,17 @@
+import os.path
+import sys
 import s2sphere
 import staticmaps
 import PIL.ImageDraw
+import frontmatter
 
-MAPS = [
-    {
-        "name": "london_to_auckland",
-        "line": True,
-        "points": [
-            [51.4775, -0.461389],
-            [1.359167, 103.989444],
-            [-37.008056, 174.791667],
-        ],
-        "labels": ["London", "Changi - Singapore", "Auckland"],
-    },
-    {
-        "name": "road_to_rotorua",
-        "points": [
-            [-36.98423077314447, 174.78368330179273],
-            [-37.976802027457616, 175.7559586435218],
-            [-38.13828188586393, 176.2558456625266],
-        ],
-        "labels": ["Auckland", "Tīrau", "Rotorua"],
-    },
-]
+from os import listdir
+from os.path import isfile, join
+
+POST_PATH = "./_posts"
+IMAGE_DIR = "./assets/images/maps"
+IMAGE_WIDTH = 720
+IMAGE_HEIGHT = 360
 
 
 # Patch for https://github.com/flopp/py-staticmaps/issues/39
@@ -41,7 +30,6 @@ class TextLabel(staticmaps.Object):
         staticmaps.Object.__init__(self)
         self._latlng = latlng
         self._text = text
-        self._margin = 4
         self._font_size = 12
 
     def latlng(self) -> s2sphere.LatLng:
@@ -51,20 +39,21 @@ class TextLabel(staticmaps.Object):
         return s2sphere.LatLngRect.from_point(self._latlng)
 
     def extra_pixel_bounds(self) -> staticmaps.PixelBoundsT:
-        w = len(self._text) * self._font_size + 2.0 * self._margin
-        h = self._font_size + 2.0 * self._margin
+        w = len(self._text) * self._font_size
+        h = self._font_size
         return (int(-w / 2), int(-h / 2), int(w / 2), int(h / 2))
 
     def render_svg(self, renderer: staticmaps.SvgRenderer) -> None:
         x, y = renderer.transformer().ll2pixel(self.latlng())
-        filter = renderer.drawing().filter(
-            id="textbackground",
-            start=(0, 0),
-            size=(1, 1),
+        filter = renderer.group().add(
+            renderer.drawing().filter(
+                id="textbackground",
+                start=(0, 0),
+                size=(1, 1),
+            )
         )
         filter.feFlood(flood_color="white")
         filter.feComposite()
-        renderer.group().add(filter)
 
         renderer.group().add(
             renderer.drawing().text(
@@ -82,33 +71,56 @@ class TextLabel(staticmaps.Object):
         )
 
 
-IMAGE_DIR = "./assets/images/maps"
-IMAGE_WIDTH = 720
-IMAGE_HEIGHT = 360
+exit_code = 0
 
-for geo_map in MAPS:
-    name = geo_map["name"]
-    points = [staticmaps.create_latlng(lat, lng) for lat, lng in geo_map["points"]]
+for post_file in [f for f in listdir(POST_PATH) if isfile(join(POST_PATH, f))]:
+    with open(f"{POST_PATH}/{post_file}") as f:
+        post = frontmatter.loads(f.read())
+        if "maps" in post:
+            for post_map in post["maps"]:
+                context = staticmaps.Context()
 
-    context = staticmaps.Context()
+                points = []
+                labels = []
 
-    if len(points) > 1:
-        context.add_object(
-            staticmaps.Marker(points[0], color=staticmaps.GREEN, size=12)
-        )
-    if len(points) > 2:
-        for point in points[1 : len(points) - 1]:
-            context.add_object(staticmaps.Marker(point, color=staticmaps.BLUE, size=12))
-    if "line" in geo_map and geo_map["line"]:
-        context.add_object(staticmaps.Line(points, color=staticmaps.BLUE, width=4))
+                conf_points = post_map["points"]
+                for idx, conf_point in enumerate(conf_points):
+                    point = staticmaps.create_latlng(
+                        float(conf_point["lat"]), float(conf_point["lon"])
+                    )
+                    points.append(point)
 
-    end = points[len(points) - 1]
-    context.add_object(staticmaps.Marker(end, color=staticmaps.RED, size=12))
+                    if idx == 0 and len(conf_points) > 1:
+                        marker_color = staticmaps.GREEN
+                    elif idx == len(conf_points) - 1:
+                        marker_color = staticmaps.RED
+                    else:
+                        marker_color = staticmaps.BLUE
+                    context.add_object(
+                        staticmaps.Marker(point, color=marker_color, size=12)
+                    )
 
-    if "labels" in geo_map:
-        for idx, label in enumerate(geo_map["labels"]):
-            context.add_object(TextLabel(points[idx], label))
+                    if "name" in conf_point:
+                        labels.append(TextLabel(point, conf_point["name"]))
 
-    svg_image = context.render_svg(IMAGE_WIDTH, IMAGE_HEIGHT)
-    with open(f"{IMAGE_DIR}/{name}.svg", "w", encoding="utf-8") as svg:
-        svg_image.write(svg, pretty=True)
+                if "line" in post_map and bool(post_map["line"]):
+                    context.add_object(
+                        staticmaps.Line(points, color=staticmaps.BLUE, width=4)
+                    )
+
+                for label in labels:
+                    context.add_object(label)
+
+                map_name = post_map["name"]
+                map_path = f"{IMAGE_DIR}/{map_name}.svg"
+                exists_already = os.path.isfile(map_path)
+
+                svg_image = context.render_svg(IMAGE_WIDTH, IMAGE_HEIGHT)
+                with open(map_path, "w", encoding="utf-8") as svg:
+                    svg_image.write(svg, pretty=True)
+
+                if not exists_already:
+                    exit_code = 1
+                    print(f"New map '{map_path}' generated")
+
+sys.exit(exit_code)

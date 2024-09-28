@@ -14,6 +14,20 @@ header:
   overlay_image: /assets/images/new_zealand/new_zealand_0862.jpg
   og_image: /assets/images/new_zealand/new_zealand_0862.jpg
 
+maps:
+  - name: london_to_auckland
+    line: true
+    points:
+      - name: London
+        lat: 51.4775
+        lon: -0.461389
+      - name: Changi - Singapore
+        lat: 1.359167
+        lon: 103.989444
+      - name: Auckland
+        lat: -37.008056
+        lon: 174.791667
+
 vineyards:
   - url: /assets/images/new_zealand/new_zealand_0647.jpg
     image_path: /assets/images/new_zealand/new_zealand_0647.jpg

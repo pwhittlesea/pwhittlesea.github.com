@@ -7,12 +7,13 @@ repos:
       entry: ./.correct-exif.sh
       language: script
       types: [image]
-      exclude_types: [svg]
+      exclude_types: [svg,gif]
     - id: generate-maps
       name: Generate Maps
       description: Generate all the maps used in posts
-      entry: ./.generate_maps.sh
-      language: script
+      entry: python3 .generate_maps.py
+      language: python
+      additional_dependencies: ["py-staticmaps", "python-frontmatter"]
       always_run: true
     - id: trufflehog
       name: TruffleHog

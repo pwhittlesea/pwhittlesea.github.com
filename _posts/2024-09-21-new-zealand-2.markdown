@@ -11,6 +11,19 @@ header:
   overlay_image: /assets/images/new_zealand/new_zealand_0805.jpg
   og_image: /assets/images/new_zealand/new_zealand_0805.jpg
 
+maps:
+  - name: road_to_rotorua
+    points:
+      - name: Auckland
+        lat: -36.98423077314447
+        lon: 174.78368330179273
+      - name: Tīrau
+        lat: -37.976802027457616
+        lon: 175.7559586435218
+      - name: Rotorua
+        lat: -38.13828188586393
+        lon: 176.2558456625266
+
 weta-unleashed:
   - url: /assets/images/new_zealand/new_zealand_0743.jpg
     image_path: /assets/images/new_zealand/new_zealand_0743.jpg
