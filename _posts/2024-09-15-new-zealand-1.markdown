@@ -120,7 +120,7 @@ Thank you Julie and the team!
 
 ## Wednesday 29<sup>th</sup>: Flying to New Zealand
 
-{% include map.html name="london_to_auckland" %}
+{% include map.html name="london_to_auckland" waypoints="false" %}
 
 When flying halfway around the planet to *basically* the antipode of where I live, I wanted to leave a bit of buffer.
 If we had a delay or cancellation we might end up losing a few days finding a new flight.
@@ -219,7 +219,7 @@ We heard it was something we shouldn't miss and that it gets booked up quick.
 The Sky Tower is tall, I'll give it that.
 I think that a rotating restaurant in the sky is a great idea.
 
-The fog that rolled in disagreed and we got to spend the evening looking a while wall of it.
+The fog that rolled in disagreed and we got to spend the evening looking a white wall of it.
 
 3/10 would fog again.
 
