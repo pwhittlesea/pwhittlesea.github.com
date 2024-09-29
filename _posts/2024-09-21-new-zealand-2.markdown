@@ -23,6 +23,14 @@ maps:
       - name: Rotorua
         lat: -38.13828188586393
         lon: 176.2558456625266
+  - name: mitai
+    points:
+      - name: Our Hotel
+        lat: -38.13828188586393
+        lon: 176.2558456625266
+      - name: Mitai Maori Village
+        lat: -38.106563710921314
+        lon: 176.22083340538035
 
 weta-unleashed:
   - url: /assets/images/new_zealand/new_zealand_0743.jpg
@@ -190,6 +198,8 @@ As I said in the previous blog, the hotels organised by the tour were very nice.
 Even though our room had a view of the car park, the hotel was well positioned in the center of town, so we didn't mind.
 
 ### Mitai Maori Village
+
+{% include map.html name="mitai" %}
 
 We had just enough time to drop our stuff off in the hotel room and grab a cup of tea[^4], before we were back on the road.
 
