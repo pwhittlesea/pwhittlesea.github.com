@@ -1,7 +1,7 @@
 ---
 title: "Adding Maps to my Travel Posts"
 date: 2024-09-28 21:31:00 +0100
-last_modified_at: 2024-09-28 21:31:00 +0100
+last_modified_at: 2024-09-30T23:10:47+00:00
 categories: code
 tags: git precommit maps
 
@@ -260,6 +260,6 @@ Hover over the example at the top of this page to see it in action!
 # The Final Result
 
 You can see the final result on my [New Zealand - Part 1](2024-09-15-new-zealand-1.md#wednesday-29th-flying-to-new-zealand) post.
-The source code for which can be found [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/1f6f8d270d438a3d2c2a69d7915afdfc7ec6cd2e/_posts/2024-09-15-new-zealand-1.markdown).
+The source code for which can be found [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/_posts/2024-09-15-new-zealand-1.md).
 
 {:footnotes}
