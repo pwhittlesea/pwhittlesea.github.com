@@ -33,7 +33,7 @@
 
 {% if use_waypoints == "true" and lat_lons.size > 2 %}
 	{% assign waypoint_idx = lat_lons | size | minus: 2 %}
-	{% assign waypoints = lat_lons | slice: 1,waypoint_idx | join: "|" %}
+	{% assign waypoints = lat_lons | slice: 1,waypoint_idx | join: "%7C" %}
 	{% assign google_url = google_url | append: "&waypoints=" | append: waypoints %}
 {% endif %}
 
