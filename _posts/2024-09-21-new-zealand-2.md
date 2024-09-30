@@ -1,6 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
+last_modified_at: 2024-09-21 22:22:00 +0000
 categories: holidays
 tags: new-zealand
 
@@ -80,7 +81,7 @@ This is part 2 of a series of blogs on my 2024 trip to New Zealand.
 In part one we left off just as our Lord of the Rings themed tour was about to begin.
 
 If you remember, we chose to do a guided tour in the hopes that it would introduce us to parts of New Zealand which we might not choose to visit, or might not know to visit, ourselves.
-Red Carpet Tours (which I [spoke about](2024-09-15-new-zealand-1.markdown#red-carpet-tours) in part 1) were the tour operators and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
+Red Carpet Tours (which I [spoke about](2024-09-15-new-zealand-1.md#red-carpet-tours) in part 1) were the tour operators and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
 
 It felt wrong to head back to the airport so soon but we were excited to meet the tour group.
 

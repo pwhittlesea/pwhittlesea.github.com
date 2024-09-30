@@ -1,6 +1,7 @@
 ---
-title:  "A Simple Script Base"
-date:   2024-03-30 21:23:00 +0000
+title: "A Simple Script Base"
+date: 2024-03-30 21:23:00 +0000
+last_modified_at: 2024-03-30 21:23:00 +0000
 categories: code
 tags: bash
 classes: wide

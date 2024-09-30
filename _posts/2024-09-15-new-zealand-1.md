@@ -1,6 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
+last_modified_at: 2024-09-15 20:00:00 +0000
 categories: holidays
 tags: new-zealand
 
@@ -229,6 +230,6 @@ I'm going to leave it here for part 1.
 This feels like a good stopping point.
 
 Kia Ora!
-See you in [part 2](2024-09-21-new-zealand-2.markdown)!
+See you in [part 2](2024-09-21-new-zealand-2.md)!
 
 {:footnotes}
