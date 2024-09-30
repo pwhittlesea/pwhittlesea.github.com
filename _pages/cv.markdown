@@ -34,7 +34,7 @@ Areas focused on:
 - Serve as an SME for streaming solutions, Java, and Spring within the department
 - Lead the development of technical standards and review code to ensure they are followed
 - Work with Security to ensure solutions met the requirements of the wider organisation
-- Investigate new technologies and tools which might improve products in the future 
+- Investigate new technologies and tools which might improve products in the future
 
 `2016 - 2020`
 ___Senior Software Developer___, Snowflake Software Ltd.
@@ -168,4 +168,3 @@ ___Revision Control Tooling___
 ___Server Administration___
 
 `Apache`, `Samba`, `OpenSSH`, and general Unix configuration.
-

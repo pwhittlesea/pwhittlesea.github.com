@@ -4,14 +4,14 @@ repos:
     - id: exif-correct
       name: Exif Correct
       description: Removes all Exif data from images and sets the correct Copyright
-      entry: ./.correct-exif.sh
+      entry: .hooks/correct_exif.sh
       language: script
       types: [image]
       exclude_types: [svg,gif]
     - id: generate-maps
       name: Generate Maps
       description: Generate all the maps used in posts
-      entry: python3 .generate_maps.py
+      entry: python3 .hooks/generate_maps.py
       language: python
       additional_dependencies: ["py-staticmaps", "python-frontmatter"]
       always_run: true

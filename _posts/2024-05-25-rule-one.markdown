@@ -56,9 +56,9 @@ index ce747d2..04a9f1f 100644
 --- a/build.sh
 +++ b/build.sh
 @@ -4,4 +4,4 @@ set +e
- 
+
  SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
- 
+
 -mvn clean install
 +mvn clean install -DskipTests
 ```

@@ -30,4 +30,4 @@ I am currently at [Cirium](https://cirium.com) in Southampton (which was [Snowfl
 
 For more information on my skills and job history, see my [CV](/cv/).
 
-![christmas-image](/assets/images/about-christmas.png "My House December 1st")
+![christmas-image](/assets/images/about-christmas.jpg "My House December 1st")
