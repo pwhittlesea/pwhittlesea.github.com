@@ -7,8 +7,9 @@ MD004:
   style: "dash"
 
 MD013:
-  # vim on the command line of my ThinkPad can handle 135 characters
-  line_length: 135
+  # 'Disable' the line length
+  line_length: 800
+
 MD033:
   # The only way to do superscript is with 'sup'
   allowed_elements:
