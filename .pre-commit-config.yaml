@@ -27,11 +27,15 @@ repos:
       entry: bash -c 'docker run --rm -v "$(pwd):/workdir" -i --rm trufflesecurity/trufflehog:latest git file:///workdir --since-commit HEAD --only-verified --fail'
       language: system
       stages: ["commit", "push"]
+
+  # Strip all exif information from .gif files
   - repo: https://github.com/stefmolin/exif-stripper
     rev: 0.3.1
     hooks:
     - id: strip-exif
       types: [gif]
+
+  # Generic pre-commit hooks for all files
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
@@ -39,11 +43,21 @@ repos:
     - id: mixed-line-ending
     - id: trailing-whitespace
       args: ["--markdown-linebreak-ext=markdown,md"]
+
+  # Format Python files
   - repo: https://github.com/psf/black-pre-commit-mirror
     rev: 24.8.0
     hooks:
     - id: black
+
+  # Check for best practice in Python files
   - repo: https://github.com/pycqa/flake8
     rev: 7.1.1
     hooks:
     - id: flake8
+
+  # Check Markdown documents with Markdownlint(Node.js variant)
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.42.0
+    hooks:
+      - id: markdownlint

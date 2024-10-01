@@ -1,0 +1,35 @@
+MD003:
+  # Heading style
+  style: "atx"
+
+MD004:
+  # List style
+  style: "dash"
+
+MD013:
+  # vim on the command line of my ThinkPad can handle 135 characters
+  line_length: 135
+MD033:
+  # The only way to do superscript is with 'sup'
+  allowed_elements:
+    - sup
+
+MD046:
+  # Block style
+  style: "fenced"
+
+MD048:
+  # Code fence style
+  style: "backtick"
+
+MD049:
+  # Emphasis style
+  style: "underscore"
+
+MD050:
+  # Strong style
+  style: "asterisk"
+
+MD055:
+  # Table pipe style
+  style: "leading_and_trailing"
