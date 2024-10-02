@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2024-09-15 20:00:00 +0000
+last_modified_at: 2024-10-02T20:21:38+00:00
 categories: holidays
 tags: new-zealand
 
@@ -49,12 +49,11 @@ zoo:
     title: "The Tasmanian Devil"
 ---
 
-This is part 1 of a series of blogs on my 2024 trip to New Zealand.
-<br/>
+This is part 1 of a series of blogs on my 2024 trip to New Zealand.\
 [Click here](/tags/#new-zealand) to see all posts in the series.
 {: .notice--info}
 
-# Short Notice
+## Short Notice
 
 Ever since the [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/) film was released in 2001, it has been a bucket list item of my other half to visit New Zealand.
 They have read [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit) many times, so when the film put the universe on screen, they had to go see the country behind all those beautiful panning shots.
@@ -64,9 +63,11 @@ We could self-guide our way around, visiting all the places separately, but the 
 If there were any issues the tour company would manage them for us and, if we were lucky, we would get to see some of the lesser known spots that only the locals knew about.
 
 The idea of travelling up and down New Zealand on a coach full of LoTR nerds filled me with dread because I had never read the books.
-But, I reminded myself, this was a *film location tour*, the nerds going were film fans; I should be able to blend in.
+But, I reminded myself, this was a _film location tour_, the nerds going were film fans; I should be able to blend in.
 
-Red Carpet Tours are booked *far* in advance (as of writing they are booked up for the next three years) so we signed up to their mailing list to catch any cancellations.
+*[LoTR]: Lord of The Rings
+
+Red Carpet Tours are booked _far_ in advance (as of writing they are booked up for the next three years) so we signed up to their mailing list to catch any cancellations.
 
 We waited...
 
@@ -87,7 +88,7 @@ That, and the fact I'm an architect (what do we really do anyway), meant I was a
 
 The tour was only 12 days but there was 3 days of flying, plus I wanted to add a couple of days before and after, in the event of any flight shenanigans.
 
-# Red Carpet Tours
+## Red Carpet Tours
 
 I want to take a second to sing the praises of the team at [Red Carpet Tours](https://www.redcarpet-tours.com/about-us).
 Julie James, who was our tour guide, was everything we could ask for.
@@ -115,15 +116,15 @@ We met an amazing group of people and by the end of the tour some tears were she
 
 Thank you Julie and the team!
 
-# We're going on an ~~Adventure~~ Tour
+## We're going on an ~~Adventure~~ Tour
 
 ![it-begins](/assets/images/new_zealand/and_so_it_begins.gif "And so it begins"){: .align-center}
 
-## Wednesday 29<sup>th</sup>: Flying to New Zealand
+### Wednesday 29<sup>th</sup>: Flying to New Zealand
 
 {% include map.html name="london_to_auckland" waypoints="false" %}
 
-When flying halfway around the planet to *basically* the antipode of where I live, I wanted to leave a bit of buffer.
+When flying halfway around the planet to _basically_ the antipode of where I live, I wanted to leave a bit of buffer.
 If we had a delay or cancellation we might end up losing a few days finding a new flight.
 
 The week before we flew, the same flight number (SQ321) [experienced severe turbulence](https://www.bbc.co.uk/news/articles/cw55192rd9lo) resulting in dozens of critical injuries and one death.
@@ -133,7 +134,7 @@ It wasn't helped that the last 3 hours of the flight was plagued with turbulence
 Given all that, we flew from Heathrow to Auckland via Singapore without any delays.
 Singapore Airlines were fantastic and the Premium Economy seats my partner bullied me into booking were quite comfortable.
 
-## Friday 31<sup>st</sup>: Naps on the 35<sup>th</sup> Floor
+### Friday 31<sup>st</sup>: Naps on the 35<sup>th</sup> Floor
 
 Arriving at Auckland I was not as overjoyed to be in New Zealand as I expected, but I was overjoyed to see the bed in my hotel room after 31 hours of travel.
 We promptly dozed on and off for the next 6 hours; catching up on at least one night's sleep.
@@ -151,10 +152,10 @@ If we didn't have such a [mind-blowing view](/assets/images/new_zealand/new_zeal
 Auckland reminded me of London, except not as claustrophobic.
 Maybe it was the fact we were staying in the business district but the city as a whole seemed quiet while we were there.
 
-## Saturday 1<sup>st</sup>: Waiheke Island
+### Saturday 1<sup>st</sup>: Waiheke Island
 
 We have gotten in the habit of not booking everything before we go anywhere; instead only booking key events that might sell out, and then seeing what the weather is like on the day.
-This paid off for us because the weather the next day was *warm*.
+This paid off for us because the weather the next day was _warm_.
 Like summer shorts warm.
 In 'winter'.
 
@@ -168,7 +169,7 @@ However, summer seemed to follow us to each of the vineyards and we enjoyed the 
 
 You could argue that we relaxed too much and that handful of vineyards turned into two and a brewery :beer:.
 
-{% include gallery id="vineyards" caption="Waiheke Island was tranquil" class="text-center" %}
+{% include gallery id="vineyards" caption="Waiheke Island was tranquil" class="caption-center" %}
 
 [Stonyridge Vineyard](https://stonyridge.com/) was our first stop and it _set the tone_.
 The view out over the vineyard (pictured above), the sounds of nature, and the comfy chairs, convinced us to have some food and stay a while.
@@ -190,7 +191,7 @@ On the boat back we did what any middle-aged couple would do and we checked out 
 
 At the time we thought that we had visited what would be called an '[Area of Outstanding Natural Beauty](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)' in the UK, not knowing then that most of New Zealand seems to fit that description.
 
-## Sunday 2<sup>nd</sup>: Auckland Zoo
+### Sunday 2<sup>nd</sup>: Auckland Zoo
 
 I'm going to speculate a Zoo can tell you a lot about a country.
 If a country cares for its animals, then I suppose that the Zoo will carefully balance the needs of the animals against them being an attraction, instead of primarily being 'on display' to entertain people.
@@ -212,7 +213,7 @@ I was happy to find out it wasn't because it's adorable!
 
 [^4]: I'm sorry New Zealand, please let me in again!
 
-{% include gallery id="zoo" caption="Animals I had never seen before" class="text-center" %}
+{% include gallery id="zoo" caption="Animals I had never seen before" class="caption-center" %}
 
 One of the things we did book before we got to New Zealand was the [Sky Tower](https://skycityauckland.co.nz/sky-tower/).
 We heard it was something we shouldn't miss and that it gets booked up quick.
@@ -224,7 +225,7 @@ The fog that rolled in disagreed and we got to spend the evening looking a white
 
 3/10 would fog again.
 
-## Monday 3<sup>rd</sup>: The Tour Begins
+### Monday 3<sup>rd</sup>: The Tour Begins
 
 I'm going to leave it here for part 1.
 This feels like a good stopping point.

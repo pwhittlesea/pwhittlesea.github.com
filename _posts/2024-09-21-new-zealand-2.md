@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2024-09-21 22:22:00 +0000
+last_modified_at: 2024-10-02T20:21:38+00:00
 categories: holidays
 tags: new-zealand
 
@@ -32,6 +32,11 @@ maps:
       - name: Mitai Maori Village
         lat: -38.106563710921314
         lon: 176.22083340538035
+
+luggage:
+  - url: /assets/images/new_zealand/new_zealand_0602.jpg
+    image_path: /assets/images/new_zealand/new_zealand_0602.jpg
+    title: "Me, at Heathrow Airport, with all of our luggage"
 
 weta-unleashed:
   - url: /assets/images/new_zealand/new_zealand_0743.jpg
@@ -69,10 +74,19 @@ tirau:
   - url: /assets/images/new_zealand/new_zealand_0809.jpg
     image_path: /assets/images/new_zealand/new_zealand_0809.jpg
     title: "Tīrau's corrugated iron 'dog' building"
+
+poppys:
+  - url: /assets/images/new_zealand/new_zealand_0806.jpg
+    image_path: /assets/images/new_zealand/new_zealand_0806.jpg
+    title: "Tasty, and adorable!"
+
+hangi:
+  - url: /assets/images/new_zealand/new_zealand_0810.jpg
+    image_path: /assets/images/new_zealand/new_zealand_0810.jpg
+    title: "The hāngī"
 ---
 
-This is part 2 of a series of blogs on my 2024 trip to New Zealand.
-<br/>
+This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
 [Click here](/tags/#new-zealand) to see all posts in the series.
 {: .notice--info}
 
@@ -98,13 +112,15 @@ Its sad (or maybe impressive[^1]) that we managed to fit all of that in a 130L s
 
 [^1]: Several people commented on this during the tour with surprise so I am going to take it as impressive (and not that they thought we smelled).
 
-![me-and-our-luggage](/assets/images/new_zealand/new_zealand_0602.jpg "Me, at Heathrow Airport, with all of our luggage")
+{% include gallery id="luggage" caption="Me, at Heathrow Airport, with all of our luggage" class="caption-center" %}
 
 I said that I was blown away by the beauty of New Zealand, and I intended this to be a 'look how beautiful NZ is' blog, but this day was mostly spent in proximity to an airport so I can't give it high marks for attractiveness.
 
 Later that evening we sat down to dinner with the 30 people were going to spend the next 12 days with.
 Everyone was so warm and welcoming and my fear that I would stick out like a sore thumb, because I haven't read any of the LoTR books, was unfounded.
 I would do shout outs to everyone here but they will never read this and there's too many people to list (but in case you do read this, HI GUYS!).
+
+*[LoTR]: Lord of The Rings
 
 ## Tuesday 4<sup>th</sup>: The Road to Rotorua
 
@@ -138,7 +154,7 @@ The tour featured three fake films — using an existing IP would have been an i
 
 We saw the casting process used to make prosthetics (like Gimli's face), the creation of 'chain' mail for armor, and the transformation of tin foil and clay into stonework for sets.
 
-{% include gallery id="weta-unleashed" caption="Wētā Unleashed was visually astounding" class="text-center" %}
+{% include gallery id="weta-unleashed" caption="Wētā Unleashed was visually astounding" class="caption-center" %}
 
 Later in the week we would be going to see the physical locations used for filming, but it was really eye-opening to see a bit of the magic behind the camera as well.
 It was a fun _and educational_ tour[^3]; I would describe my feeling afterwards as one of child-like glee.
@@ -167,10 +183,11 @@ The town seemed to have found "it's thing" in the form of corrugated iron art wo
 Functional buildings with a fun exterior that no sane person could drive past without stopping.
 Who could pass up the opportunity to go to the bathroom inside a giant metal dog?
 
-{% include gallery id="tirau" caption="These functional buildings made me unreasonably happy" class="text-center" %}
+{% include gallery id="tirau" caption="These functional buildings made me unreasonably happy" class="caption-center" %}
 
 A special mention to [Poppys Cafe](https://maps.app.goo.gl/PCHNN2gQk8P4eRREA) who not only had a giant corrugated iron poppy on the roof, but also served the cutest heart shaped Paninis:
-![heart-shaped-panini](/assets/images/new_zealand/new_zealand_0806.jpg "Tasty, and adorable!"){: .align-center style="width: 50%;"}
+
+{% include gallery id="poppys" caption="Tasty, and adorable!" class="caption-center" %}
 
 We got back on the road after a quick stop in the souvenir shop shaped like a giant sheep.
 
@@ -219,7 +236,8 @@ We started the evening with a wander down through the ancient village to witness
 If I were minding my own business and a group rowing down the river were chanting, removing the element of surprise for an attack, I would assume they are bad-asses and that I should surrender immediately.
 
 After the river demonstration we enjoyed a 'hāngī' buffet — cooked in an earth-oven — where we got to ask questions and learn about the Māori culture.
-![the-hangi](/assets/images/new_zealand/new_zealand_0810.jpg "The hāngī"){: .align-center style="width: 50%;"}
+
+{% include gallery id="hangi" caption="The hāngī" class="caption-center" %}
 
 The main event was a cultural performance where we learnt about 'ta moka' (tattoo art), and the weaponry used by the Māori.
 This culminated with a haka which was _legitimately_ scary to see up close; even though I knew I was not in any danger.
