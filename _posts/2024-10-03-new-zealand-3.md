@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 3"
 date: 2024-10-03 21:33:00 +0100
-last_modified_at: 2024-10-03T21:01:44+00:00
+last_modified_at: 2024-10-11T21:37:48+00:00
 categories: holidays
 tags: new-zealand
 
@@ -12,8 +12,8 @@ tagline: &tagline >
 excerpt: *tagline
 
 header:
-  overlay_image: /assets/images/new_zealand/new_zealand_0912.jpg
-  og_image: /assets/images/new_zealand/new_zealand_0912.jpg
+  overlay_image: /assets/images/new_zealand/3/new_zealand_0912.jpg
+  og_image: /assets/images/new_zealand/3/new_zealand_0912.jpg
 
 maps:
   - name: hobbiton
@@ -34,63 +34,63 @@ maps:
         lon: 176.27306650948898
 
 hobbiton:
-  - url: /assets/images/new_zealand/new_zealand_0822.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0822.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0822.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0822.jpg
     title: "A hole fit for a Hobbit"
-  - url: /assets/images/new_zealand/new_zealand_0834.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0834.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0834.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0834.jpg
     title: "A view out over Hobbiton"
-  - url: /assets/images/new_zealand/new_zealand_0853.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0853.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0853.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0853.jpg
     title: "My very convincing Gandalf costume"
-  - url: /assets/images/new_zealand/new_zealand_0879.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0879.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0879.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0879.jpg
     title: "A view over Hobbiton from Bag End"
-  - url: /assets/images/new_zealand/new_zealand_0887.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0887.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0887.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0887.jpg
     title: "Bag End"
-  - url: /assets/images/new_zealand/new_zealand_0911.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0911.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0911.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0911.jpg
     title: "Gandalf comes calling"
-  - url: /assets/images/new_zealand/new_zealand_0973.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0973.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0973.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0973.jpg
     title: "A cozy fireplace in a cozy Hobbit hole"
-  - url: /assets/images/new_zealand/new_zealand_0768-1.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0768-1.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0768-1.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0768-1.jpg
     title: "The mill by the river"
-  - url: /assets/images/new_zealand/new_zealand_0807.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0807.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0807.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0807.jpg
     title: "A view from the Green Dragon"
 
 meta-hobbit-holes:
-  - url: /assets/images/new_zealand/new_zealand_5454.jpg
-    image_path: /assets/images/new_zealand/new_zealand_5454.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_5454.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_5454.jpg
     title: "A Hobbit hole in a Hobbit hole"
 
 hobbit-holes:
-  - url: /assets/images/new_zealand/new_zealand_0994.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0994.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0994.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0994.jpg
     title: "My other half hard at work in the Hobbit hole"
-  - url: /assets/images/new_zealand/new_zealand_1022.jpg
-    image_path: /assets/images/new_zealand/new_zealand_1022.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_1022.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_1022.jpg
     title: "The Hobbit holes were not designed for me"
 
 green-dragon:
-  - url: /assets/images/new_zealand/new_zealand_0787.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0787.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_0787.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_0787.jpg
     title: "The outstanding Green Dragon pub"
 
 treewalk:
-  - url: /assets/images/new_zealand/new_zealand_1029.jpg
-    image_path: /assets/images/new_zealand/new_zealand_1029.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_1029.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_1029.jpg
     title: "Lanterns by world-renowned designer David Trubridge"
-  - url: /assets/images/new_zealand/new_zealand_5503.jpg
-    image_path: /assets/images/new_zealand/new_zealand_5503.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_5503.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_5503.jpg
     title: "Laser light show"
 
 bonus-mini:
-  - url: /assets/images/new_zealand/new_zealand_1034.jpg
-    image_path: /assets/images/new_zealand/new_zealand_1034.jpg
+  - url: /assets/images/new_zealand/3/new_zealand_1034.jpg
+    image_path: /assets/images/new_zealand/3/new_zealand_1034.jpg
     title: "A bonus Mini we found on the way back to the hotel"
 ---
 
@@ -133,7 +133,7 @@ When we packed for the tour, I heard _"wear a Lord of the Rings costume"_, where
 
 I was a singular Gandalf in a sea of Hobbits.
 
-![solo-gandalf](/assets/images/new_zealand/new_zealand_0813.jpg "My, very fetching, Gandalf costume"){: .align-center style="width: 50%;"}
+![solo-gandalf](/assets/images/new_zealand/3/new_zealand_0813.jpg "My, very fetching, Gandalf costume"){: .align-center style="width: 50%;"}
 
 We set off and it took us about an hour to get close to Hobbiton.
 
@@ -153,7 +153,7 @@ There were tears shed by most of the coach.
 
 [^2]: We lucked out here massively on this 'winter' tour.
 
-![its-so-beautiful](/assets/images/new_zealand/its_so_beautiful.gif "It's so beautiful"){: .align-center style="width: 50%;"}
+![its-so-beautiful](/assets/images/new_zealand/3/its_so_beautiful.gif "It's so beautiful"){: .align-center style="width: 50%;"}
 
 We all peeled off the coach, dried our eyes and headed into Hobbiton behind our tour guide.
 Walking in and seeing the movie set open up in front of us took our breath away.
@@ -166,7 +166,7 @@ From where I was standing, Hobbiton felt _real_; which I guess it was (minus the
 
 We took a bit of time to recreate the 'I'm going on an adventure!' scene from The Hobbit, before we started the tour.
 
-![going-on-an-adventure](/assets/images/new_zealand/im_going_on_an_adventure.gif "My partner was going on an adventure"){: .align-center style="width: 50%;"}
+![going-on-an-adventure](/assets/images/new_zealand/3/im_going_on_an_adventure.gif "My partner was going on an adventure"){: .align-center style="width: 50%;"}
 
 I forgot to mention, back at The Shire's Rest, we were assigned an 'official' tour guide who worked at The Hobbiton Movie Set.
 Timing was very strict and we were not allowed to deviate from our given slot.

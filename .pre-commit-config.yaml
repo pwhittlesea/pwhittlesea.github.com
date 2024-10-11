@@ -14,6 +14,7 @@ repos:
       entry: .hooks/update_last_modified.sh
       language: script
       always_run: true
+      require_serial: true
     - id: generate-maps
       name: Generate Maps
       description: Generate all the maps used in posts
