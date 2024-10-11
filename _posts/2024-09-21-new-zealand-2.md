@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2024-10-03T20:35:51+00:00
+last_modified_at: 2024-10-11T21:41:58+00:00
 categories: holidays
 tags: new-zealand
 
@@ -9,8 +9,8 @@ tagline: &tagline Our tour begins, showcasing the magic behind the movies, New Z
 excerpt: *tagline
 
 header:
-  overlay_image: /assets/images/new_zealand/new_zealand_0805.jpg
-  og_image: /assets/images/new_zealand/new_zealand_0805.jpg
+  overlay_image: /assets/images/new_zealand/2/new_zealand_0805.jpg
+  og_image: /assets/images/new_zealand/2/new_zealand_0805.jpg
 
 maps:
   - name: road_to_rotorua
@@ -34,55 +34,55 @@ maps:
         lon: 176.22083340538035
 
 luggage:
-  - url: /assets/images/new_zealand/new_zealand_0602.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0602.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0602.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0602.jpg
     title: "Me, at Heathrow Airport, with all of our luggage"
 
 weta-unleashed:
-  - url: /assets/images/new_zealand/new_zealand_0743.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0743.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0743.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0743.jpg
     title: "I'm dying inside because I wanted to go to the All Black Experience"
-  - url: /assets/images/new_zealand/new_zealand_0748.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0748.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0748.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0748.jpg
     title: "It's a good job they turned to stone"
-  - url: /assets/images/new_zealand/new_zealand_0757.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0757.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0757.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0757.jpg
     title: "A special entrance for a special tour"
-  - url: /assets/images/new_zealand/new_zealand_0764.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0764.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0764.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0764.jpg
     title: "The health and safety officer helping us stay safe"
-  - url: /assets/images/new_zealand/new_zealand_0766.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0766.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0766.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0766.jpg
     title: "Various models and prototypes"
-  - url: /assets/images/new_zealand/new_zealand_0774.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0774.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0774.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0774.jpg
     title: "Need a hand?"
-  - url: /assets/images/new_zealand/new_zealand_0778.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0778.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0778.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0778.jpg
     title: "A Wētā recreation that looks lifelike"
-  - url: /assets/images/new_zealand/new_zealand_0786.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0786.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0786.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0786.jpg
     title: "An example of a 'bigature'"
-  - url: /assets/images/new_zealand/new_zealand_0796.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0796.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0796.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0796.jpg
     title: "A tent made from garden flotsam"
 
 tirau:
-  - url: /assets/images/new_zealand/new_zealand_0805.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0805.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0805.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0805.jpg
     title: "Tīrau's corrugated iron 'ram' and 'sheep' buildings"
-  - url: /assets/images/new_zealand/new_zealand_0809.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0809.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0809.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0809.jpg
     title: "Tīrau's corrugated iron 'dog' building"
 
 poppys:
-  - url: /assets/images/new_zealand/new_zealand_0806.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0806.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0806.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0806.jpg
     title: "Tasty, and adorable!"
 
 hangi:
-  - url: /assets/images/new_zealand/new_zealand_0810.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0810.jpg
+  - url: /assets/images/new_zealand/2/new_zealand_0810.jpg
+    image_path: /assets/images/new_zealand/2/new_zealand_0810.jpg
     title: "The hāngī"
 ---
 
