@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2024-10-02T20:21:38+00:00
+last_modified_at: 2024-10-11T21:47:19+00:00
 categories: holidays
 tags: new-zealand
 
@@ -12,8 +12,8 @@ tagline: &tagline >
 excerpt: *tagline
 
 header:
-  overlay_image: /assets/images/new_zealand/new_zealand_0862.jpg
-  og_image: /assets/images/new_zealand/new_zealand_0862.jpg
+  overlay_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
+  og_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
 
 maps:
   - name: london_to_auckland
@@ -30,22 +30,22 @@ maps:
         lon: 174.791667
 
 vineyards:
-  - url: /assets/images/new_zealand/new_zealand_0647.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0647.jpg
+  - url: /assets/images/new_zealand/1/new_zealand_0647.jpg
+    image_path: /assets/images/new_zealand/1/new_zealand_0647.jpg
     title: "The Waiheke Bay"
-  - url: /assets/images/new_zealand/new_zealand_0648.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0648.jpg
+  - url: /assets/images/new_zealand/1/new_zealand_0648.jpg
+    image_path: /assets/images/new_zealand/1/new_zealand_0648.jpg
     title: "More Waiheke Bay"
-  - url: /assets/images/new_zealand/new_zealand_0652.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0652.jpg
+  - url: /assets/images/new_zealand/1/new_zealand_0652.jpg
+    image_path: /assets/images/new_zealand/1/new_zealand_0652.jpg
     title: "The view out over Stonyridge Vineyard"
 
 zoo:
-  - url: /assets/images/new_zealand/new_zealand_0690.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0690.jpg
+  - url: /assets/images/new_zealand/1/new_zealand_0690.jpg
+    image_path: /assets/images/new_zealand/1/new_zealand_0690.jpg
     title: "The Nocturnal Kiwi"
-  - url: /assets/images/new_zealand/new_zealand_0705.jpg
-    image_path: /assets/images/new_zealand/new_zealand_0705.jpg
+  - url: /assets/images/new_zealand/1/new_zealand_0705.jpg
+    image_path: /assets/images/new_zealand/1/new_zealand_0705.jpg
     title: "The Tasmanian Devil"
 ---
 
@@ -103,7 +103,7 @@ This blog is going to exclude a lot of the details of the tour days because I th
 
 The tour organised all the evening accommodation for us and I feared that they would have booked us in the worst hotels to increase their profit[^2].
 This could not have been further from the truth.
-Every hotel room we stayed in was spacious and many had [phenomenal views](/assets/images/new_zealand/new_zealand_0862.jpg).
+Every hotel room we stayed in was spacious and many had [phenomenal views](/assets/images/new_zealand/1/new_zealand_0862.jpg).
 They were centrally located in every town we stayed in and I doubt I could have booked nicer ones myself.
 
 [^2]: #capitalism
@@ -118,7 +118,7 @@ Thank you Julie and the team!
 
 ## We're going on an ~~Adventure~~ Tour
 
-![it-begins](/assets/images/new_zealand/and_so_it_begins.gif "And so it begins"){: .align-center}
+![it-begins](/assets/images/new_zealand/1/and_so_it_begins.gif "And so it begins"){: .align-center}
 
 ### Wednesday 29<sup>th</sup>: Flying to New Zealand
 
@@ -148,7 +148,7 @@ Maybe they were taking pity on us having travelled half way around the planet, b
 
 We liked it so much we stayed there on our way back and would go again for the views alone.
 
-If we didn't have such a [mind-blowing view](/assets/images/new_zealand/new_zealand_0733.jpg) from our room on the 35<sup>th</sup> floor then I would say the views from the rooftop bar on the 38<sup>th</sup> would have dropped my jaw.
+If we didn't have such a [mind-blowing view](/assets/images/new_zealand/1/new_zealand_0733.jpg) from our room on the 35<sup>th</sup> floor then I would say the views from the rooftop bar on the 38<sup>th</sup> would have dropped my jaw.
 Auckland reminded me of London, except not as claustrophobic.
 Maybe it was the fact we were staying in the business district but the city as a whole seemed quiet while we were there.
 
@@ -187,7 +187,7 @@ The days were short so we headed back to Auckland.
 
 On the boat back we did what any middle-aged couple would do and we checked out the house prices on the island.
 
-![oof-size-large](/assets/images/new_zealand/oof.jpg){: .align-center style="width: 50%;"}
+![oof-size-large](/assets/images/new_zealand/1/oof.jpg){: .align-center style="width: 50%;"}
 
 At the time we thought that we had visited what would be called an '[Area of Outstanding Natural Beauty](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)' in the UK, not knowing then that most of New Zealand seems to fit that description.
 
