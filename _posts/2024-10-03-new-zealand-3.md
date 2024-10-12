@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 3"
 date: 2024-10-03 21:33:00 +0100
-last_modified_at: 2024-10-11T21:37:48+00:00
+last_modified_at: 2024-10-12T11:27:54+00:00
 categories: holidays
 tags: new-zealand
 
@@ -254,6 +254,6 @@ Well that was the main event folks, I hope you'll come back to read part 4.
 Next time we will be delving deep into some caves and visiting more filming locations.
 
 Kia Ora!
-See you in part 4!
+See you in [part 4](2024-10-12-new-zealand-4.md)!
 
 {:footnotes}

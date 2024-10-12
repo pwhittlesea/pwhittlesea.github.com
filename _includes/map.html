@@ -37,6 +37,6 @@
 	{% assign google_url = google_url | append: "&waypoints=" | append: waypoints %}
 {% endif %}
 
-{% capture map_caption %}{{ map_alt }} ([Open in Google Maps]({{ google_url }})){% endcapture %}
+{% capture map_caption %}{{ include.caption | default: map_alt }} ([Open in Google Maps]({{ google_url }})){% endcapture %}
 
 {% include figure popup=true image_path=svg_path alt=map_alt caption=map_caption class="caption-center" %}
