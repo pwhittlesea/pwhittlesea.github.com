@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 4"
 date: 2024-10-12 12:20:00 +0100
-last_modified_at: 2024-10-21T20:30:48+00:00
+last_modified_at: 2024-10-21T21:46:39+00:00
 categories: holidays
 tags: new-zealand
 
@@ -285,6 +285,6 @@ Well, here we are again.
 In the next edition we will go off road to more filming locations, as well as spending more time at Wētā.
 
 Kia Ora!
-See you in part 5!
+See you in [part 5](2024-10-21-new-zealand-5.md)!
 
 {:footnotes}
