@@ -31,7 +31,10 @@ author:
   bio: "Software Architect & Dungeon Master"
   location: "Southampton"
   email: "pw.github@thega.me.uk"
-  links:
+  links: &follow
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/pwhittlesea.bsky.social"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@pwhittlesea"
@@ -44,6 +47,10 @@ author:
     - label: "The StoryGraph"
       icon: "fas fa-fw fa-book"
       url: "https://app.thestorygraph.com/profile/gingerphill"
+
+# Set all the footer links to those in the author block
+footer:
+  links: *follow
 
 # Sass/SCSS
 sass:
