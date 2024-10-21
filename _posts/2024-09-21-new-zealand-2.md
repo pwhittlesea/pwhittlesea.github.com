@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2024-10-11T21:41:58+00:00
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: holidays
 tags: new-zealand
 
@@ -11,6 +11,7 @@ excerpt: *tagline
 header:
   overlay_image: /assets/images/new_zealand/2/new_zealand_0805.jpg
   og_image: /assets/images/new_zealand/2/new_zealand_0805.jpg
+  teaser: /assets/images/new_zealand/2/teaser.jpg
 
 maps:
   - name: road_to_rotorua

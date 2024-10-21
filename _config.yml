@@ -18,6 +18,7 @@ domain: "thega.me.uk"
 repository: "pwhittlesea/pwhittlesea.github.io"
 masthead_title: "thega.me.uk"
 enable_copy_code_button: true
+teaser: /assets/images/teaser_default.png
 
 copyright: "Phillip Whittlesea-Clark - All Rights Reserved"
 copyright_url: "https://thega.me.uk"

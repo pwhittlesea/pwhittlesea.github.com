@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2024-10-11T21:47:19+00:00
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: holidays
 tags: new-zealand
 
@@ -14,6 +14,7 @@ excerpt: *tagline
 header:
   overlay_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
   og_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
+  teaser: /assets/images/new_zealand/1/teaser.jpg
 
 maps:
   - name: london_to_auckland

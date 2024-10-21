@@ -1,12 +1,15 @@
 ---
 title: "Adding Maps to my Travel Posts"
 date: 2024-09-28 21:31:00 +0100
-last_modified_at: 2024-10-01T23:14:57+00:00
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: code
 tags: git precommit maps
 
 tagline: &tagline My travel posts lacked visual context, so I added SVG maps to them.
 excerpt: *tagline
+
+header:
+  teaser: /assets/images/teaser_code.png
 
 maps:
   - name: an_example_map

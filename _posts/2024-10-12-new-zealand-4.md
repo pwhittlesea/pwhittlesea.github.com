@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 4"
 date: 2024-10-12 12:20:00 +0100
-last_modified_at: 2024-10-12T20:54:44+00:00
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: holidays
 tags: new-zealand
 
@@ -11,6 +11,7 @@ excerpt: *tagline
 header:
   overlay_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
   og_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
+  teaser: /assets/images/new_zealand/4/teaser.jpg
 
 maps:
   - name: to-new-plymouth

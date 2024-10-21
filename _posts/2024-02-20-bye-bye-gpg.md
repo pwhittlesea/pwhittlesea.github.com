@@ -1,11 +1,14 @@
 ---
 title: "Bye-Bye GPG"
 date: 2024-02-20 12:49:00 +0000
-last_modified_at: 2024-02-20 12:49:00 +0000
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: code
 tags: gpg ssh security git
 classes: wide
 toc: false
+
+header:
+  teaser: /assets/images/teaser_code.png
 ---
 
 So I have been using GPG to sign my Git commits for about 5 years now and every year, when my keys expire, it's a nightmare to renew the keys for another year.
@@ -26,27 +29,32 @@ There is event extensive documentation on [GitHub](https://docs.github.com/en/au
 But for my future reference, here are the steps.
 
 Generate a signing key:
+
 ```sh
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 Add the new key to your SSH agent and get the fingerprint for signing:
+
 ```sh
 ssh-add ~/.ssh/<key_location>
 ssh-add -L
 ```
 
 You should see something like:
-```
+
+```txt
 ssh-ed25519 <fingerprint> your_email@example.com
 ```
 
 Add (or create) a new allowed signers file:
-```
+
+```sh
 echo "your_email@example.com ssh-ed25519 <fingerprint>" >>  ~/.ssh/allowed_signers
 ```
 
 Set up Git to use the new key and signers file:
+
 ```sh
 git config --global gpg.format ssh
 git config --global user.signingkey ~/.ssh/<key_location>
@@ -55,7 +63,8 @@ git config --global gpg.ssh.allowedSignersFile ~/.ssh/allowed_signers
 ```
 
 Now when you run `git show --show-signature` on a signed commit you should see:
-```
+
+```txt
 Good "git" signature for your_email@example.com with ED25519 key <fingerprint>
 ```
 

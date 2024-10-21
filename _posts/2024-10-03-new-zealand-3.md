@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 3"
 date: 2024-10-03 21:33:00 +0100
-last_modified_at: 2024-10-12T11:27:54+00:00
+last_modified_at: 2024-10-21T20:30:48+00:00
 categories: holidays
 tags: new-zealand
 
@@ -14,6 +14,7 @@ excerpt: *tagline
 header:
   overlay_image: /assets/images/new_zealand/3/new_zealand_0912.jpg
   og_image: /assets/images/new_zealand/3/new_zealand_0912.jpg
+  teaser: /assets/images/new_zealand/3/teaser.jpg
 
 maps:
   - name: hobbiton
