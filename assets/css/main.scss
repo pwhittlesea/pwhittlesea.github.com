@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$intro-transition  : none;
+$global-transition : none;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Make the figure captions align to the center of the images
+.caption-center {
+    figcaption {
+        width:100%;
+        text-align: center;
+    }
+}
+
+// Change the main social icons to all be the text-color
+.social-icons {
+    .fab {
+        color: $text-color;
+    }
+}
+
+// Some generic classes not defined in the theme.scss
+.muted {
+    color: $muted-text-color;
+}
+.smaller {
+    font-size: $type-size-7;
+}
+.no-margin {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+// Tech section on the CV page
+.tech-item {
+    margin-bottom: 8px;
+    padding: 2px 5px;
+}
