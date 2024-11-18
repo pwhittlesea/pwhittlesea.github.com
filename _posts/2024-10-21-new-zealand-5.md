@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 5"
 date: 2024-10-21 22:43:00 +0100
-last_modified_at: 2024-10-16T18:16:29+00:00
+last_modified_at: 2024-11-18T22:42:57+00:00
 categories: holidays
 tags: new-zealand
 
@@ -81,7 +81,7 @@ te-papa:
 ---
 
 This is part 5 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](/tags/#new-zealand) to see all posts in the series.
+[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 In part 4, we arrived in Wellington.
@@ -144,7 +144,7 @@ I would recommend a visit if you like walking (and even if you don't).
 
 After our early morning visit to the mountain, we headed down to the Wellington [Wētā Cave](https://tours.wetaworkshop.com/wetacave/) &mdash; Wētā's retail store &mdash; for a bit of retail therapy.
 
-If you read my [second blog on New Zealand](2024-09-21-new-zealand-2.md#wētā-workshop-unleashed), then you will remember we went to a Wētā cave in Auckland.
+If you read my [second blog on New Zealand](2024-09-21-new-zealand-2.md#weta-workshop-unleashed), then you will remember we went to a Wētā cave in Auckland.
 
 The Wellington 'cave' (store) was an experience of its own.
 Existing somewhere between a museum and a store, we were able to browse costumes from the LoTR films _and_ buy miniatures/collectibles (like [this adorable cave troll](https://www.wetanz.com/nz/mini-epics-cave-troll)).
@@ -186,7 +186,7 @@ It was a very fun space and we got about 20 minutes to wander around after we ha
 
 [^1]: I feel bad giving this only a 3 because it was a beautiful space, but compared to everything else on the holiday, this was one of the less 'mind blowing' experiences.
 
-### Wētā Workshop
+### Wētā Workshop {#weta-workshop}
 
 Back to Wētā we went.
 This time we were going to Wētā Workshop, which was about 2 doors down from the Wētā cave we were at not hours before.
@@ -276,7 +276,7 @@ With no better ideas of our own, off we went.
 
 ### Another Wētā tour
 
-There was always the risk that the [Wētā Workshop Experience](https://tours.wetaworkshop.com/wellington/tours/weta-workshop-experience/) was going to cover a lot of the content we had previously seen in the two ([1](2024-09-21-new-zealand-2.md#wētā-workshop-unleashed), [2](#wētā-workshop)) previous tours.
+There was always the risk that the [Wētā Workshop Experience](https://tours.wetaworkshop.com/wellington/tours/weta-workshop-experience/) was going to cover a lot of the content we had previously seen in the two ([1](2024-09-21-new-zealand-2.md#weta-workshop-unleashed), [2](2024-10-21-new-zealand-5.md#weta-workshop)) previous tours.
 
 The group for this tour was much smaller than the other ones.
 There were about 7 of us, so we were able to ask _way_ more questions about each thing we were shown.

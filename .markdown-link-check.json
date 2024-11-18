@@ -1,0 +1,9 @@
+{
+  "projectBaseUrl":"${workspaceFolder}",
+  "replacementPatterns": [
+    {
+      "pattern": "/assets/(?<filename>.*)",
+      "replacement": "{{BASEURL}}/assets/$<filename>"
+    }
+  ]
+}

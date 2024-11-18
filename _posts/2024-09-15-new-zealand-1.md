@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
+last_modified_at: 2024-11-18T22:42:57+00:00
 categories: holidays
 tags: new-zealand
 
@@ -51,7 +51,7 @@ zoo:
 ---
 
 This is part 1 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](/tags/#new-zealand) to see all posts in the series.
+[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Short Notice
@@ -107,6 +107,7 @@ This could not have been further from the truth.
 Every hotel room we stayed in was spacious and many had [phenomenal views](/assets/images/new_zealand/1/new_zealand_0862.jpg).
 They were centrally located in every town we stayed in and I doubt I could have booked nicer ones myself.
 
+<!-- markdown-link-check-disable-next-line -->
 [^2]: #capitalism
 
 The worst part of the tour was a dates mix-up in the initial email that gave us the 13<sup>th</sup> as the departure day, when it was actually the 12<sup>th</sup>.

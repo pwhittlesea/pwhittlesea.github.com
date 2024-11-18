@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
+last_modified_at: 2024-11-18T22:42:57+00:00
 categories: holidays
 tags: new-zealand
 
@@ -88,7 +88,7 @@ hangi:
 ---
 
 This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](/tags/#new-zealand) to see all posts in the series.
+[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Monday 3<sup>rd</sup>: The Tour Begins
@@ -142,7 +142,7 @@ The docket for the day begun with us going back to Auckland city center; not 400
 So like Sisyphus, I was doomed to forever travel back and forth between Aucklands city center and its airport...
 However, unlike Sisyphus, I could go to the [Wētā Workshop Unleashed](https://tours.wetaworkshop.com/unleashed/) tour when I got there.
 
-### Wētā Workshop Unleashed
+### Wētā Workshop Unleashed {#weta-workshop-unleashed}
 
 Part of what makes The Lord of the Rings trilogy one of my favourite films is the depth of the physical effects.
 The attention to detail on all of the sets, armour, weapons and costumes gives the films a realism that I have not seen replicated often.

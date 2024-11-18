@@ -1,7 +1,7 @@
 ---
 title: "Adding Maps to my Travel Posts"
 date: 2024-09-28 21:31:00 +0100
-last_modified_at: 2024-10-21T20:30:48+00:00
+last_modified_at: 2024-11-18T22:42:57+00:00
 categories: code
 tags: git precommit maps
 
@@ -39,7 +39,7 @@ This post is inspired by Josh Erb's blog: [How I Added Maps to my Travel Posts](
 
 {% include map.html name="an_example_map" %}
 
-I recently started writing a travel blog on my visit to [New Zealand](/tags/#new-zealand) and something was missing.
+I recently started writing a travel blog on my visit to [New Zealand](../_pages/tag-archive.md#new-zealand) and something was missing.
 Posts lacked a bit of context as to where I was and where the blog would be taking the reader.
 
 As a daily lurker of 'Hacker News', almost immediately after I had posted my first blog on the 15<sup>th</sup> of September,

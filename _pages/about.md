@@ -30,6 +30,6 @@ It all depends on what interests me and what's needed of me on a given day.
 
 I am currently at [Cirium](https://cirium.com) in Southampton (which was [Snowflake Software Ltd.](https://www.cirium.com/thoughtcloud/snowflake-software-agrees-to-join-cirium/)).
 
-For more information on my skills and job history, see my [CV](/cv/).
+For more information on my skills and job history, see my [CV](./cv.md).
 
 ![christmas-image](/assets/images/about-christmas.jpg "My House December 1st")

@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 4"
 date: 2024-10-12 12:20:00 +0100
-last_modified_at: 2024-10-21T21:46:39+00:00
+last_modified_at: 2024-11-18T22:42:57+00:00
 categories: holidays
 tags: new-zealand
 
@@ -78,7 +78,7 @@ hairy-swords:
 ---
 
 This is part 4 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](/tags/#new-zealand) to see all posts in the series.
+[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 Welcome back to our Tour through New Zealand.

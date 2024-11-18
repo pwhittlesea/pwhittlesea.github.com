@@ -31,23 +31,25 @@ repos:
 
   # Strip all exif information from .gif files
   - repo: https://github.com/stefmolin/exif-stripper
-    rev: 0.3.1
+    rev: 0.6.1
     hooks:
     - id: strip-exif
       types: [gif]
 
   # Generic pre-commit hooks for all files
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
     - id: end-of-file-fixer
     - id: mixed-line-ending
     - id: trailing-whitespace
       args: ["--markdown-linebreak-ext=markdown,md"]
+    - id: check-json
+    - id: check-yaml
 
   # Format Python files
   - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 24.8.0
+    rev: 24.10.0
     hooks:
     - id: black
 
@@ -62,3 +64,9 @@ repos:
     rev: v0.42.0
     hooks:
       - id: markdownlint
+
+  - repo: https://github.com/tcort/markdown-link-check
+    rev: v3.12.2
+    hooks:
+      - id: markdown-link-check
+        args: ["-q", "--config=./.markdown-link-check.json"]
