@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-07T20:29:52+00:00
+last_modified_at: 2024-12-11T22:12:37+00:00
 toc: false
 tags: fiction
 
@@ -28,20 +28,20 @@ I also had the crazy idea to target 1<sup>st</sup>, 2<sup>nd</sup>, or 3<sup>rd<
 
 This leaves me with the following prompts:
 
-| Day                                             | Primary Word | Backup Word      | Point of View  |
-|-------------------------------------------------|--------------|------------------|----------------|
-| [1](2024-12-01-12-days-of-short-stories-1.md)   | `abundant`   | ~~`benefit`~~    | 3<sup>rd</sup> |
-| [3](2024-12-03-12-days-of-short-stories-3.md)   | `point`      | ~~`ideal`~~      | 1<sup>st</sup> |
-| [5](2024-12-04-12-days-of-short-stories-5.md)   | `piano`      | ~~`snow`~~       | 3<sup>rd</sup> |
-| [7](2024-12-07-12-days-of-short-stories-7.md)   | ~~`north`~~  | `sound`          | 1<sup>st</sup> |
-| 9                                               | `dare`       | `style`          | 3<sup>rd</sup> |
-| 11                                              | `link`       | `representative` | 1<sup>st</sup> |
-| 13                                              | `devote`     | `virus`          | 1<sup>st</sup> |
-| 15                                              | `grave`      | `brink`          | 1<sup>st</sup> |
-| 17                                              | `jam`        | `rib`            | 1<sup>st</sup> |
-| 19                                              | `injury`     | `ghost`          | 2<sup>nd</sup> |
-| 21                                              | `flat`       | `radical`        | 1<sup>st</sup> |
-| 23                                              | `glimpse`    | `reasonable`     | 3<sup>rd</sup> |
+| Day                                             | Primary Word | Backup Word          | Point of View  |
+|-------------------------------------------------|--------------|----------------------|----------------|
+| [1](2024-12-01-12-days-of-short-stories-1.md)   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> |
+| [3](2024-12-03-12-days-of-short-stories-3.md)   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> |
+| [5](2024-12-04-12-days-of-short-stories-5.md)   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> |
+| [7](2024-12-07-12-days-of-short-stories-7.md)   | ~~`north`~~  | `sound`              | 1<sup>st</sup> |
+| 9                                               | `dare`       | `style`              | 3<sup>rd</sup> |
+| [11](2024-12-11-12-days-of-short-stories-11.md) | `link`       | ~~`representative`~~ | 1<sup>st</sup> |
+| 13                                              | `devote`     | `virus`              | 1<sup>st</sup> |
+| 15                                              | `grave`      | `brink`              | 1<sup>st</sup> |
+| 17                                              | `jam`        | `rib`                | 1<sup>st</sup> |
+| 19                                              | `injury`     | `ghost`              | 2<sup>nd</sup> |
+| 21                                              | `flat`       | `radical`            | 1<sup>st</sup> |
+| 23                                              | `glimpse`    | `reasonable`         | 3<sup>rd</sup> |
 
 Let's see how I do!
 

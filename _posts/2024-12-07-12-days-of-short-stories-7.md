@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories - Day 7"
 date: 2024-12-07 12:52:02 +0000
-last_modified_at: 2024-12-07T20:35:26+00:00
+last_modified_at: 2024-12-11T22:17:16+00:00
 toc: false
 classes: wide
 categories: stories
@@ -55,7 +55,7 @@ The beeping raced.
 From my right a tall figure came into my field of view, closely followed by a shorter second one.
 The taller of the two was dressed in a white knee-length coat below which I could see dark trousers.
 It turned and my eyes crossed over its blue buttoned shirt, a white badge pinned to it, to its featureless flat face.
-Tt was about the correct size for a persons head but instead of eyes, ears, nose, and mouth, there was smooth unending flesh.
+It was about the correct size for a persons head but instead of eyes, ears, nose, and mouth, there was smooth unending flesh.
 
 I began to thrash against my bindings and the beeping drove ever faster.
 
