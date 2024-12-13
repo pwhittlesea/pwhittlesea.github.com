@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-11T22:12:37+00:00
+last_modified_at: 2024-12-13T23:37:54+00:00
 toc: false
 tags: fiction
 
@@ -36,7 +36,7 @@ This leaves me with the following prompts:
 | [7](2024-12-07-12-days-of-short-stories-7.md)   | ~~`north`~~  | `sound`              | 1<sup>st</sup> |
 | 9                                               | `dare`       | `style`              | 3<sup>rd</sup> |
 | [11](2024-12-11-12-days-of-short-stories-11.md) | `link`       | ~~`representative`~~ | 1<sup>st</sup> |
-| 13                                              | `devote`     | `virus`              | 1<sup>st</sup> |
+| [13](2024-12-13-12-days-of-short-stories-13.md) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> |
 | 15                                              | `grave`      | `brink`              | 1<sup>st</sup> |
 | 17                                              | `jam`        | `rib`                | 1<sup>st</sup> |
 | 19                                              | `injury`     | `ghost`              | 2<sup>nd</sup> |
