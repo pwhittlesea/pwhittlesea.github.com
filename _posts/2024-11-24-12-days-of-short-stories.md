@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-16T20:22:42+00:00
+last_modified_at: 2024-12-17T21:57:32+00:00
 toc: false
 tags: fiction
 
@@ -38,7 +38,7 @@ This leaves me with the following prompts:
 | [11](2024-12-11-12-days-of-short-stories-11.md) | `link`       | ~~`representative`~~ | 1<sup>st</sup> |
 | [13](2024-12-13-12-days-of-short-stories-13.md) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> |
 | [15](2024-12-16-12-days-of-short-stories-15.md) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> |
-| 17                                              | `jam`        | `rib`                | 1<sup>st</sup> |
+| [17](2024-12-17-12-days-of-short-stories-17.md) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> |
 | 19                                              | `injury`     | `ghost`              | 2<sup>nd</sup> |
 | 21                                              | `flat`       | `radical`            | 1<sup>st</sup> |
 | 23                                              | `glimpse`    | `reasonable`         | 3<sup>rd</sup> |
