@@ -11,7 +11,7 @@ excerpt: A short story based on the prompt 'Point'
 ---
 
 This is the second of a series of short stories I am writing this December.\
-[Click here](2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 I took the liberty of jumping from 'Point' to 'Peak' for this story.

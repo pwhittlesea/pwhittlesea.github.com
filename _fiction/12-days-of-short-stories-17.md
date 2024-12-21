@@ -5,13 +5,13 @@ last_modified_at: 2024-12-17T21:57:32+00:00
 toc: false
 classes: wide
 categories: stories
-tags: writing
+tags: fiction
 
 excerpt: A short story based on the prompt 'jam'
 ---
 
 This is the eighth of a series of short stories I am writing this December.\
-[Click here](2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 **Interview of 'Sally Rivers', Mar 14<sup>th</sup> 2034.

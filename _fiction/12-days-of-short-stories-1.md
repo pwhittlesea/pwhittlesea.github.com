@@ -11,7 +11,7 @@ excerpt: A short story based on the prompt 'Abundant'
 ---
 
 This is the first of a series of short stories I am writing this December.\
-[Click here](2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 Ben slouched as he waited; staring directly at the food slot.

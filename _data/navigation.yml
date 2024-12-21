@@ -6,6 +6,8 @@ main:
     url: /cv/
   - title: "Posts"
     url: /year-archive/
+  - title: "Fiction"
+    url: /fiction/
   - title: "Tags"
     url: /tags/
   - title: "Links"

@@ -5,13 +5,13 @@ last_modified_at: 2024-12-16T20:22:42+00:00
 toc: false
 classes: wide
 categories: stories
-tags: writing
+tags: fiction
 
 excerpt: A short story based on the prompt 'grave'
 ---
 
 This is the seventh of a series of short stories I am writing this December.\
-[Click here](2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 I was a bit alarming, being shown your own grave.

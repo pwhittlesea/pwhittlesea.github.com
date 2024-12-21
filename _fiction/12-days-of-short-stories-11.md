@@ -5,13 +5,13 @@ last_modified_at: 2024-12-11T22:49:17+00:00
 toc: false
 classes: wide
 categories: stories
-tags: writing
+tags: fiction
 
 excerpt: A short story based on the prompt 'link'
 ---
 
 This is the fifth of a series of short stories I am writing this December.\
-[Click here](2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 Those who are paying attention will notice I, unfortunately, missed the 9<sup>th</sup>.\

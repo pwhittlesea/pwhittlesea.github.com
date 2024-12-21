@@ -5,6 +5,8 @@ last_modified_at: 2024-11-20T21:56:03+00:00
 permalink: /stories/the-boundary
 toc: false
 classes: wide
+
+excerpt: An anomaly is discovered behind Pluto, and mankind sends its best to investigate
 ---
 
 ## Prelude

@@ -81,6 +81,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Collections
+collections:
+  fiction:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -102,6 +108,13 @@ defaults:
     values:
       layout: single
       toc: true
+      author_profile: true
+  # _fiction
+  - scope:
+      path: ""
+      type: fiction
+    values:
+      layout: single
       author_profile: true
 
 # Process relative links
