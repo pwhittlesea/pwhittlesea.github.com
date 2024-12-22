@@ -1,12 +1,7 @@
 ---
 title: "Twelve Days of Short Stories - Day 1"
 date: 2024-12-01 12:52:02 +0000
-last_modified_at: 2024-12-07T17:12:31+00:00
-toc: false
-classes: wide
-categories: stories
-tags: fiction
-
+last_modified_at: 2024-12-22T09:19:30+00:00
 excerpt: A short story based on the prompt 'Abundant'
 ---
 

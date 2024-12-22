@@ -1,12 +1,7 @@
 ---
 title: "Twelve Days of Short Stories - Day 7"
 date: 2024-12-07 12:52:02 +0000
-last_modified_at: 2024-12-11T22:49:17+00:00
-toc: false
-classes: wide
-categories: stories
-tags: fiction
-
+last_modified_at: 2024-12-22T09:19:30+00:00
 excerpt: A short story based on the prompt 'Sound'
 ---
 

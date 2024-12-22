@@ -115,7 +115,14 @@ defaults:
       type: fiction
     values:
       layout: single
+      toc: false
       author_profile: true
+      read_time: true
+      show_date: true
+      related: true
+      classes: wide
+      header:
+        overlay_color: "#3d4144"
 
 # Process relative links
 relative_links:

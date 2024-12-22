@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
   - title: "Posts"
     url: /year-archive/

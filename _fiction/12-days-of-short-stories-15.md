@@ -1,12 +1,7 @@
 ---
 title: "Twelve Days of Short Stories - Day 15"
 date: 2024-12-16 20:22:00 +0000
-last_modified_at: 2024-12-16T20:22:42+00:00
-toc: false
-classes: wide
-categories: stories
-tags: fiction
-
+last_modified_at: 2024-12-22T09:19:30+00:00
 excerpt: A short story based on the prompt 'grave'
 ---
 

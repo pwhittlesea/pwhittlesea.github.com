@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-21T21:32:42+00:00
+last_modified_at: 2024-12-22T09:19:30+00:00
 toc: false
 tags: fiction
 
@@ -45,4 +45,4 @@ This leaves me with the following prompts:
 
 Let's see how I do!
 
-Click on each of the days above to see the story for that day, or [Click here](../_pages/tag-archive.md#fiction) to see all of my writing.
+Click on each of the days above to see the story for that day, or [Click here](../_pages/fiction-archive.md) to see all of my writing.

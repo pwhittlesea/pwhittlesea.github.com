@@ -1,12 +1,7 @@
 ---
 title: "Twelve Days of Short Stories - Day 17"
 date: 2024-12-17 21:43:00 +0000
-last_modified_at: 2024-12-17T21:57:32+00:00
-toc: false
-classes: wide
-categories: stories
-tags: fiction
-
+last_modified_at: 2024-12-22T09:19:30+00:00
 excerpt: A short story based on the prompt 'jam'
 ---
 

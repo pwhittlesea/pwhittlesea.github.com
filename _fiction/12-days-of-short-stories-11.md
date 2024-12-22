@@ -1,22 +1,13 @@
 ---
 title: "Twelve Days of Short Stories - Day 11"
 date: 2024-12-11 22:11:00 +0000
-last_modified_at: 2024-12-11T22:49:17+00:00
-toc: false
-classes: wide
-categories: stories
-tags: fiction
-
+last_modified_at: 2024-12-22T09:19:30+00:00
 excerpt: A short story based on the prompt 'link'
 ---
 
 This is the fifth of a series of short stories I am writing this December.\
 [Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 {: .notice--info}
-
-Those who are paying attention will notice I, unfortunately, missed the 9<sup>th</sup>.\
-I decided to go to a Hot Pot restaurant with my other half and I have no regrets... :smirk:
-{: .notice--warning}
 
 "Man, if I don't make a breakthrough on this case soon the Chief is going to draw me a new pair of curtains" I said to myself.
 The cigarette smoke haze hanging in the air hadn't bothered me for the last 20 years, but it was bothering me today.
