@@ -129,6 +129,11 @@ relative_links:
   enabled: true
   collections: true
 
+# Enable site search
+search: true
+lunr:
+  search_within_pages: true
+
 # Jekyll Reading Files
 include:
   - .htaccess
