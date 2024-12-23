@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-22T09:19:30+00:00
+last_modified_at: 2024-12-23T21:35:47+00:00
 toc: false
 tags: fiction
 
@@ -41,7 +41,7 @@ This leaves me with the following prompts:
 | [17](../_fiction/12-days-of-short-stories-17.md) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> |
 | 19                                               | `injury`     | `ghost`              | 2<sup>nd</sup> |
 | 21                                               | `flat`       | `radical`            | 1<sup>st</sup> |
-| 23                                               | `glimpse`    | `reasonable`         | 3<sup>rd</sup> |
+| [23](../_fiction/12-days-of-short-stories-23.md) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> |
 
 Let's see how I do!
 
