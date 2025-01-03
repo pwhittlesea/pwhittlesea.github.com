@@ -78,13 +78,13 @@ Based on my natural writing style, I can pretty effortlessly manage both first a
 I relate more to first person so that tends to be my preferred style.
 
 Annoyingly, I missed the only second person story on the 19<sup>th</sup>, but if I am being honest, the idea of writing second person was quite daunting.
-I have never read a story that is written from that perspective so it was going to be quite an interesting and difficult challenge.
+I have never read a story that is written from that perspective, so it was going to be quite an interesting and difficult challenge.
 
 If I find myself in the mood I might come back around and write it, with a bit more time to get it right.
 
 ### Genre
 
-Now, I'm not a master of genre definitions so these are probably incorrect, but here are the stories grouped by genre:
+Now, I'm not a master of genre definitions, so these are probably incorrect, but here are the stories grouped by genre:
 
 | Genre     | Count | Days                                                                                                                                           |
 |-----------|:-----:|------------------------------------------------------------------------------------------------------------------------------------------------|

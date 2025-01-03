@@ -84,13 +84,13 @@ This is part 4 of a series of blogs on my 2024 trip to New Zealand.\
 Welcome back to our Tour through New Zealand.
 We finished in [part 3](2024-10-03-new-zealand-3.md) in the town of Rotorua.
 
-The weather was so perfect for Hobbiton so we were on a high.
-This holiday was going so well and it couldn't possibly get any better.
+The weather was so perfect for Hobbiton, so we were on a high.
+This holiday was going so well, and it couldn't possibly get any better.
 
 Having seen the most famous filming location of the LoTR films, you would be forgiven for thinking it was all downhill from here.
 This couldn't be further from the truth.
 
-*[LoTR]: Lord of The Rings
+*[LoTR]: Lord of the Rings
 
 ## Thursday 6<sup>th</sup>: Trollshaw Forest
 
@@ -99,56 +99,56 @@ This couldn't be further from the truth.
 Today we were travelling South-West to New Plymouth.
 We would be spending about 5 hours in the coach travelling between the two cities; a fact not made better by a 06:30 start[^1].
 
-[^1]: The tour guide organised a 'wake up call' every morning.
+[^1]: The tour guide organised a 'wake-up call' every morning.
       Without these we would have missed every departure.
 
 At this point we were seasoned at living out of our suitcase &mdash; every night I re-packed and squashed our luggage closed &mdash; so all we had to do was get dressed, head downstairs, gorge ourselves on another cooked breakfast, and roll ourselves into the coach.
 
-Today I wasn't dressed like a low-budget Gandalf so I had far fewer synthetic hairs in my mouth.
+Today I wasn't dressed like a low-budget Gandalf, so I had far fewer synthetic hairs in my mouth.
 
 As we left Rotorua, I was sad that we didn't get to see the Polynesian Spa or the Rotorua Museum, but I guess this just gives me another reason to come back.
 
-### Waitomo Glow Worm Caves
+### Waitomo glow-worm Caves
 
-The first stop of the day was the [Waitomo Glow Worm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves).
+The first stop of the day was the [Waitomo glow-worm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves).
 
 On the way there, one of the other people on our tour &mdash; a lovely lady named Pui who we went to dinner with the night before &mdash; finished knitting a hat; a green beanie with the phrase 'I am no man' stitched into it.
 Pui gifted the hat to my other half.
 
 We were blown away, not only by her generosity, but also the speed at which she knitted it (she had only started the night before).
 
-You will see it in all of the photos for the rest of these blogs.
-I'm not sure they ever took it off.
+You will see it in all the photos for the rest of these blogs.
+I'm not sure if they ever took it off.
 
 _Pui, if you're reading this, Loz wears this hat all the time and still loves it.
 Thank you :smile:!_
 
-We arrived at the glow worm Caves and begun our 'glow worm tour'.
+We arrived at the glow-worm Caves and begun our 'glow-worm tour'.
 After saying goodbye to the sun, we entered a small hole in the hillside, and began _descending deep into the mines of Moria_ (well of course, not Moria, but a room known as the _Cathedral_).
 
 This cavernous cave really blew our minds; here we learned about the formation of the caves and their subsequent discovery.
 After a brief dimming of the lights, the tour group sang 'Misty Mountains', and the guide sang us a traditional Māori song (which was beautiful).
-The large cave had excellent acoustic properties and it was obvious why it was named the Cathedral.
+The large cave had excellent acoustic properties, and it was obvious why it was named the Cathedral.
 
-The tour then turned to the main event: glow worms.
+The tour then turned to the main event: glow-worms.
 
-We embarked on a short boat ride through the glow worm grotto, which would allow us to see them in their natural habitat, the **_pitch black_**.
+We embarked on a short boat ride through the glow-worm grotto, which would allow us to see them in their natural habitat, the **_pitch black_**.
 
 ![pitch-black](/assets/images/new_zealand/4/riddick.png){: .align-center style="width: 50%;"}
 
-No artificial light was allowed in the caves because it disturbs the glow worms, so it was just us, floating through the darkness.
+No artificial light was allowed in the caves because it disturbs the glow-worms, so it was just us, floating through the darkness.
 
-We had seen some glow worms at the Māori cultural evening, but that was nothing compared to this.
+We had seen some glow-worms at the Māori cultural evening, but that was nothing compared to this.
 
-Hundreds of glow worms adorned the roof of the grotto; it looked as if we were sat under the stars (but we were deep underground).
+Hundreds of glow-worms adorned the roof of the grotto; it looked as if we were sat under the stars (but we were deep underground).
 It was almost silent, except for the sounds of the boat moving slowly through the water, as we gazed up in awe.
 
-{% include gallery id="glow-worm" caption="The boat we took through the glow worm grotto" class="caption-center" %}
+{% include gallery id="glow-worm" caption="The boat we took through the glow-worm grotto" class="caption-center" %}
 
 As we emerged from the darkness of the cave I was sad it couldn't have lasted longer.
-It was about an hour, and I don't normally get to see glow worms in the UK, so I wished I could have stayed all day.
+It was about an hour, and I don't normally get to see glow-worms in the UK, so I wished I could have stayed all day.
 
-Although the glow worm caves were not related to LoTR, they were very cool.
+Although the glow-worm caves were not related to LoTR, they were very cool.
 
 ★★★★☆ 4/5 - A great mix of history, geology, and the opportunity to see cool insects!
 
@@ -227,7 +227,7 @@ It was dark when we left.
 
 All we did was crash on our hotel bed and order some room service.
 
-In retrospect we should have gone out to see _something_ but we were too tired.
+In retrospect, we should have gone out to see _something_, but we were too tired.
 The [Novotel New Plymouth Taranaki](https://all.accor.com/hotel/9521/index.en.shtml) was a nice hotel regardless.
 
 ## Friday 7<sup>th</sup>: Wellington Bound
@@ -237,7 +237,7 @@ The [Novotel New Plymouth Taranaki](https://all.accor.com/hotel/9521/index.en.sh
 The downside of having to cover the whole of the North island to get from Auckland to Wellington, is that there's a lot of country to get across.
 Lacking the ability to cut to an Indiana Jones-style montage, where we follow a red line across a globe, we have to make our way to Wellington the slow way; by coach.
 
-We all jumped back in Shadowfax &mdash; the name of our coach &mdash; and begun a 5 hour drive South.
+We all jumped back in Shadowfax &mdash; the name of our coach &mdash; and begun a 5-hour drive South.
 
 As we left, the sun rose, and a majestic Mount Taranaki sat shrouded by cloud; which was quite cool.
 Being on the left side of the coach did not help us get a good picture however:
@@ -256,10 +256,10 @@ I scored a nice round _0_.
 We arrived in Wellington later that day with sunlight to spare.
 
 We were staying in the [Copthorne Hotel Wellington](https://www.millenniumhotels.com/en/wellington/copthorne-hotel-wellington-oriental-bay/) in Oriental Bay.
-However, road closures meant that our coach couldn't approach from the West, and we had to do a giant loop around Wellingtons coast, approaching from the East along 'Great Harbour Way'.
+However, road closures meant that our coach couldn't approach from the West, and we had to do a giant loop around Wellington's coast, approaching from the East along 'Great Harbour Way'.
 
 Great Harbour Way is a winding coastal road with beautiful views out into the Wellington bay.
-As we travelled along it, I recognised some of the houses from a Tom Scott [video](https://www.youtube.com/watch?v=cUkoqppoFr8).
+As we travelled along it, I recognised some houses from a Tom Scott [video](https://www.youtube.com/watch?v=cUkoqppoFr8).
 Many of the houses along Great Harbour Way have private cable cars; allowing owners to get up to their houses on the side of Mount Victoria.
 
 We checked in and were greeted by an [amazing vista](/assets/images/new_zealand/1/new_zealand_0862.jpg) from our hotel window.
@@ -267,22 +267,22 @@ We checked in and were greeted by an [amazing vista](/assets/images/new_zealand/
 Fuelled by a temporary insanity &mdash; being on a coach for 5 hours can do that to you &mdash; I decided to take a lovely walk along the coastal road.
 I looped back through the [Southern Walk Way](https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/across-the-city/southern-walkway) which, I learned, was a _very_ steep path along the side of the hill.
 
-After about 1km cosplaying as a mountain goat, I made it back in one piece.
+After about 1 km cosplaying as a mountain goat, I made it back in one piece.
 
 We decided to go out to dinner at [Lulu Bar](https://www.lulubar.co.nz/), which I thoroughly recommend if you like cocktails!
 On our way back to the hotel we stopped in the town square where a brass band called 'Crash Bandihoot' had set up:
 
 {% include video id="LZSmIW6fPSs" provider="youtube" %}
 
-I've never been to New Orleans, but from extensive research watching _NCIS: New Orleans_, Wellington was giving off a very laid back and fancy free vibe.
+I've never been to New Orleans, but from extensive research watching _NCIS: New Orleans_, Wellington was giving off a very laid back and fancy-free vibe.
 
-There was a lot for us to see and do in Wellington so we will be spending 4 nights in our hotel.
+There was a lot for us to see and do in Wellington, so we will be spending 4 nights in our hotel.
 I even dared to unpack our suitcase a little.
 
 ## Saturday 8<sup>th</sup>: Getting Wētā Again
 
 Well, here we are again.
-In the next edition we will go off road to more filming locations, as well as spending more time at Wētā.
+In the next edition we will go off-road to more filming locations, as well as spending more time at Wētā.
 
 Kia Ora!
 See you in [part 5](2024-10-21-new-zealand-5.md)!

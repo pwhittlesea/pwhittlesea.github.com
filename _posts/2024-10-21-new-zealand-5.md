@@ -104,11 +104,11 @@ But that time had not yet come, and we all climbed back aboard for a full day of
 
 Wellington is a pretty large city which is heavily populated, and I don't remember any high-rise blocks of flats in LoTR, so I was wondering where on earth the film locations would be.
 
-*[LoTR]: Lord of The Rings
+*[LoTR]: Lord of the Rings
 
 Mount Victoria sits in the middle of the city, and that was our destination.
 _Shadowfax_ expertly navigated the winding roads leading up the mountain.
-About half way up, we stopped to head into the forest.
+About halfway up, we stopped to head into the forest.
 
 Very close to one another were two different filming locations from the first film.
 The first being where the hobbits hide under some tree roots as a ring wraith searches for them.
@@ -120,7 +120,7 @@ The first being where the hobbits hide under some tree roots as a ring wraith se
 {% include gallery id="off-road-nazgul" caption=off-road-nazgul-caption class="caption-center" %}
 
 The tree they are hiding under was a prop created by the team at Wētā and was removed after filming.
-Out picture isn't quite the same angle so you might have to trust me on that one :smile:.
+Out picture isn't quite the same angle, so you might have to trust me on that one :smile:.
 
 Then, literally down the hill about 20 meters, was the tree Sam and Frodo stop to take a break in.
 
@@ -149,7 +149,7 @@ If you read my [second blog on New Zealand](2024-09-21-new-zealand-2.md#weta-wor
 The Wellington 'cave' (store) was an experience of its own.
 Existing somewhere between a museum and a store, we were able to browse costumes from the LoTR films _and_ buy miniatures/collectibles (like [this adorable cave troll](https://www.wetanz.com/nz/mini-epics-cave-troll)).
 
-We had managed to arrive on the cave on its 16<sup>th</sup> birthday.
+We had managed to arrive at the cave on its 16<sup>th</sup> birthday.
 Every surface was adorned with bunting while all the statues sported party hats.
 
 {% include gallery id="weta-cave" caption="We got to Wētā on their birthday" class="caption-center" %}
@@ -178,13 +178,13 @@ The upper floor of the lobby contained a 'museum' of sorts; random movie related
 
 The coolest thing I found was a Lego reproduction of the Cinema that was squirrelled away in the corner.
 
-I also remember a life size Astro boy, but no-one else does, so I might have been hallucinating.
+I also remember a life-size Astro boy, but no-one else does, so I might have been hallucinating.
 
-It was a very fun space and we got about 20 minutes to wander around after we had eaten a 'nibbly-bits' style lunch; several plates of single-bite food like scotch eggs and roast potatoes.
+It was a very fun space, and we got about 20 minutes to wander around after we had eaten a 'nibbly-bits' style lunch; several plates of single-bite food like scotch eggs and roast potatoes.
 
 ★★★☆☆ 3/5[^1] - Interesting cinema and the food was OK.
 
-[^1]: I feel bad giving this only a 3 because it was a beautiful space, but compared to everything else on the holiday, this was one of the less 'mind blowing' experiences.
+[^1]: I feel bad giving this only a 3 because it was a beautiful space, but compared to everything else on the holiday, this was one of the less 'mind-blowing' experiences.
 
 ### Wētā Workshop {#weta-workshop}
 
@@ -233,7 +233,7 @@ I was therefore glad that we didn't need to leave the hotel.
 The plan for the day was to attend two talks organised by our tour guides; Red Carpet Tours.
 
 The first talk was by [Daniel Reeve](https://danielreeve.co.nz/).
-Daniel was responsible for almost all of the calligraphy and maps featured in the LoTR films; having to invent new writing styles for all the cultures of Middle Earth.
+Daniel was responsible for almost all the calligraphy and maps featured in the LoTR films; having to invent new writing styles for all the cultures of Middle Earth.
 
 Daniel was a software engineer who decided to mail Peter Jackson some elvish calligraphy when he heard they were making the LoTR films, completely changing his career path (and life) in the process.
 
@@ -265,7 +265,7 @@ Photos, newspaper clippings, money from all corners of the planet, and customers
 
 ## Monday 10<sup>th</sup>: Sponsored by Wētā
 
-Today was the day where the heavens were set to open.
+Today was the day when the heavens were set to open.
 
 As all our planned activities had been cleared out, we were clear to pick whatever we wanted to do.
 Given the lack of clear skies, it had to be something indoors.
@@ -323,7 +323,7 @@ I'm a fan of the LoTR, and I enjoyed the Auckland 'unleashed' experience, but th
 ### Te Papa
 
 The tour took up about half of our day.
-This was our last day in Wellington and we knew that the [Te Papa](https://www.tepapa.govt.nz/) museum came highly recommended.
+This was our last day in Wellington, and we knew that the [Te Papa](https://www.tepapa.govt.nz/) museum came highly recommended.
 
 The museum is huge, far larger than someone could visit in a single day.
 Unable to escape Wētā Workshop, we went to the _Gallipoli: The Scale of Our War_ exhibit, where larger than life recreations &mdash; created by Wētā &mdash; help tell eight individuals stories from the war.
@@ -349,7 +349,7 @@ Thus rounding out our day and our time in Wellington.
 That wraps up the North Island of New Zealand.
 
 I was pretty sad to leave Wellington.
-It seemed like a cool place and being the middle aged man I am, once again I looked at house prices.
+It seemed like a cool place and being the middle-aged man I am, once again I looked at house prices.
 
 Once again I decided that I was too poor to live there.
 

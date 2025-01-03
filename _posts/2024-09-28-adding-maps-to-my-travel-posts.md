@@ -154,7 +154,7 @@ Generate Maps.....................Failed
 - files were modified by this hook
 ```
 
-Currently this hook will not pick up new maps which were unstaged (always run `git status` kids)!
+Currently, this hook will not pick up new maps which were unstaged (always run `git status` kids)!
 {: .notice--danger}
 
 ## Image Generation
@@ -168,12 +168,12 @@ This is going to consist of 3 main parts:
 
 [^2]: The 'Front Matter' in posts seemed like the most logical place to store the configuration as we can use it to generate alt text for the maps.
 
-I found [py-staticmaps](https://github.com/flopp/py-staticmaps)[^3] and I've gotten some good millage from it;
+I found [py-staticmaps](https://github.com/flopp/py-staticmaps)[^3], and I've gotten some good millage from it;
 there are probably alternatives out there, but it's a good library that allowed me to configure all the things I needed to.
 
 [^3]: I reached for Python as I am more familiar with the tool chain; which meant I had to find an alternative to the JavaScript based D3.
 
-**Note:** `py-staticmaps` is not currently being pushed to pypi so I needed to patch for an API difference in PIL.
+**Note:** `py-staticmaps` is not currently being pushed to pypi, so I needed to patch for an API difference in PIL.
 Thanks to the awesome community I found a quick patch [here](https://github.com/flopp/py-staticmaps/issues/39#issuecomment-2264856739).
 {: .notice--info}
 
@@ -216,7 +216,7 @@ with open("./_posts/2024-09-15-new-zealand-1.md") as f:
 There are two main cases when I want pre-commit to warn me something has changed.
 When a new map is created, and when an existing map is updated.
 
-The update case is easier as pre-commit is sensitive to files changing when its running; so theres nothing to do here.
+The update case is easier as pre-commit is sensitive to files changing when its running; so there's nothing to do here.
 
 The 'new map' case is a bit harder.
 
@@ -228,7 +228,7 @@ This is not foolproof because the following events could happen:
 1. I add a new post with a map definition
 2. I commit
 3. pre-commit fails because `generate-maps` exited with a code of 1 as it created a new unstaged file
-4. An unstaged svg is in the working directory, but I don't notice and commit again
+4. An unstaged SVG is in the working directory, but I don't notice and commit again
 5. `generate-maps` does not fail because it thinks nothing needs to change
 6. The commit is successful :sob:
 

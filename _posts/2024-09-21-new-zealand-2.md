@@ -96,9 +96,9 @@ This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
 In part one we left off just as our Lord of the Rings themed tour was about to begin.
 
 If you remember, we chose to do a guided tour in the hopes that it would introduce us to parts of New Zealand which we might not choose to visit, or might not know to visit, ourselves.
-Red Carpet Tours (which I [spoke about](2024-09-15-new-zealand-1.md#red-carpet-tours) in part 1) were the tour operators and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
+Red Carpet Tours (which I [spoke about](2024-09-15-new-zealand-1.md#red-carpet-tours) in part 1) were the tour operators, and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
 
-It felt wrong to head back to the airport so soon but we were excited to meet the tour group.
+It felt wrong to head back to the airport so soon, but we were excited to meet the tour group.
 
 Checking in at the Sudima was like checking in at every other hotel, except they had a big display on the wall telling you how many kW of energy they were generating from solar at that moment.
 As a massive nerd I was excited to learn the Sudima had 125kW of solar panels on the roof, and the real-time display in the lobby shows the amount of energy being consumed from the grid, and the panels.
@@ -107,27 +107,27 @@ You can even see how much is being generated live on their website, which is sup
 I wish I had taken a picture, but if I ever get solar at home I would love to do the same.
 
 At this point onwards in the trip we pretty much lived out of our suitcase.
-We only really own about 4 weeks worth of clothes, so a three week holiday where we will be encountering summer weather on the north island, and winter weather on the south island, pretty much meant we brought everything we owned with us.
+We only really own about 4 weeks worth of clothes, so a three-week holiday where we will be encountering summer weather on the north island, and winter weather on the south island, pretty much meant we brought everything we owned with us.
 
 Its sad (or maybe impressive[^1]) that we managed to fit all of that in a 130L suitcase and a backpack.
 
-[^1]: Several people commented on this during the tour with surprise so I am going to take it as impressive (and not that they thought we smelled).
+[^1]: Several people commented on this during the tour with surprise, so I am going to take it as impressive (and not that they thought we smelled).
 
 {% include gallery id="luggage" caption="Me, at Heathrow Airport, with all of our luggage" class="caption-center" %}
 
-I said that I was blown away by the beauty of New Zealand, and I intended this to be a 'look how beautiful NZ is' blog, but this day was mostly spent in proximity to an airport so I can't give it high marks for attractiveness.
+I said that I was blown away by the beauty of New Zealand, and I intended this to be a 'look how beautiful NZ is' blog, but this day was mostly spent in proximity to an airport, so I can't give it high marks for attractiveness.
 
 Later that evening we sat down to dinner with the 30 people were going to spend the next 12 days with.
 Everyone was so warm and welcoming and my fear that I would stick out like a sore thumb, because I haven't read any of the LoTR books, was unfounded.
-I would do shout outs to everyone here but they will never read this and there's too many people to list (but in case you do read this, HI GUYS!).
+I would do shout-outs to everyone here, but they will never read this and there's too many people to list (but in case you do read this, HI GUYS!).
 
-*[LoTR]: Lord of The Rings
+*[LoTR]: Lord of the Rings
 
 ## Tuesday 4<sup>th</sup>: The Road to Rotorua
 
 {% include map.html name="road_to_rotorua" %}
 
-This tour across NZ has to be the only time in my and my partners relationship that I have seen them happy to get up at 6am.
+This tour across NZ has to be the only time in my and my partners' relationship that I have seen them happy to get up at 6am.
 We had been given our itinerary the night before and almost every day called for a pre-dawn start.
 
 Maybe it was the fresh New Zealand air.
@@ -137,7 +137,7 @@ Or, maybe it was that we got a top-notch fried breakfast every morning[^2].
 
 [^2]: Hotels in the UK need to go learn how to make scrambled egg from NZ because I would move there for the scrambled eggs alone.
 
-The docket for the day begun with us going back to Auckland city center; not 400m from the hotel we checked out of the day before.
+The docket for the day begun with us going back to Auckland city center; not 400 m from the hotel we checked out of the day before.
 
 So like Sisyphus, I was doomed to forever travel back and forth between Aucklands city center and its airport...
 However, unlike Sisyphus, I could go to the [Wētā Workshop Unleashed](https://tours.wetaworkshop.com/unleashed/) tour when I got there.
@@ -145,7 +145,7 @@ However, unlike Sisyphus, I could go to the [Wētā Workshop Unleashed](https://
 ### Wētā Workshop Unleashed {#weta-workshop-unleashed}
 
 Part of what makes The Lord of the Rings trilogy one of my favourite films is the depth of the physical effects.
-The attention to detail on all of the sets, armour, weapons and costumes gives the films a realism that I have not seen replicated often.
+The attention to detail on all the sets, armour, weapons and costumes gives the films a realism that I have not seen replicated often.
 Presumably because it is shockingly expensive.
 
 Wētā Workshop were the company that produced the majority of those props, and I had never really thought much about the process that created them.
@@ -170,7 +170,7 @@ Wētā really gave off the vibe of a fun place to be and was 'the place to work'
 
 It was time to head south.
 
-We were spending the night in the [Millennium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/) in a town called Rotorua which was a paltry 230km away by coach.
+We were spending the night in the [Millennium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/) in a town called Rotorua which was a paltry 230 km away by coach.
 
 It was about 3 hours door-to-door and, although _Shadowfax_ (that's what the tour called the coach) was comfortable, 3 hours is a lot to do in one go.
 So we stopped en-route in a lovely town called [Tīrau](https://en.wikipedia.org/wiki/T%C4%ABrau).
@@ -186,7 +186,7 @@ Who could pass up the opportunity to go to the bathroom inside a giant metal dog
 
 {% include gallery id="tirau" caption="These functional buildings made me unreasonably happy" class="caption-center" %}
 
-A special mention to [Poppys Cafe](https://maps.app.goo.gl/PCHNN2gQk8P4eRREA) who not only had a giant corrugated iron poppy on the roof, but also served the cutest heart shaped Paninis:
+A special mention to [Poppys Café](https://maps.app.goo.gl/PCHNN2gQk8P4eRREA) who not only had a giant corrugated iron poppy on the roof, but also served the cutest heart shaped Paninis:
 
 {% include gallery id="poppys" caption="Tasty, and adorable!" class="caption-center" %}
 
@@ -201,7 +201,7 @@ Somewhere a local sheriff would wander down wishing townspeople well.
 We took a small detour past the Rotorua Museum, a half-timbered Elizabethan building with extensive gardens.
 It caught me off guard because it was very different to everything else I had seen in New Zealand so far.
 
-Night was setting in so I suspect we didn't see the Museum in its full glory, if I ever go back I intend to stop by and admire it more.
+Night was setting in, so I suspect we didn't see the Museum in its full glory, if I ever go back I intend to stop by and admire it more.
 
 When we finally arrived at the hotel, we stepped off the coach.
 
@@ -210,7 +210,7 @@ To quote the [Wikipedia page](https://en.wikipedia.org/wiki/Rotorua) for Rotorua
 > A common nickname for Rotorua is "Sulphur City" due to the hydrogen sulphide emissions, which gives the city a smell similar to "rotten eggs".
 
 The second we got off the coach I was instantly reminded of the geothermal springs I had visited years before, in Iceland.
-The smell was inescapable the whole time we were outside of the hotel, which was next to the dense sulphur pockets east of the town center.
+The smell was inescapable the whole time we were outside the hotel, which was next to the dense sulphur pockets east of the town center.
 You get used to it, but it caught me off guard.
 
 As I said in the previous blog, the hotels organised by the tour were very nice.
@@ -225,15 +225,15 @@ We had just enough time to drop our stuff off in the hotel room and grab a cup o
 [^4]: It was at this point I started hoarding tea bags at breakfast.
       Each hotel only gave us two between us and as a Brit, that's not enough.
 
-This evenings activity was the [Mitai Māori Village](https://www.mitai.co.nz/) experience.
+This evening's activity was the [Mitai Māori Village](https://www.mitai.co.nz/) experience.
 
 A very friendly Māori man driving an old Japanese school bus picked us up.
 I, like many of my peers, are a bit wider than I was at school; so I spent most of the journey half sitting in my partners lap, and half falling into the aisle of the bus.
 Still, it was a pleasant journey, allowing us to see the city lights at night.
 
-We had not really encountered the culture of those indigenous to New Zealand so this experience was well received.
+We had not really encountered the culture of those indigenous to New Zealand, so this experience was well received.
 
-We started the evening with a wander down through the ancient village to witness a demonstration of warriors paddling a canoe down the Wai-o-Whiro stream.
+We started the evening with a walk down through the ancient village to witness a demonstration of warriors paddling a canoe down the Wai-o-Whiro stream.
 If I were minding my own business and a group rowing down the river were chanting, removing the element of surprise for an attack, I would assume they are bad-asses and that I should surrender immediately.
 
 After the river demonstration we enjoyed a 'hāngī' buffet — cooked in an earth-oven — where we got to ask questions and learn about the Māori culture.
@@ -243,10 +243,10 @@ After the river demonstration we enjoyed a 'hāngī' buffet — cooked in an e
 The main event was a cultural performance where we learnt about 'ta moka' (tattoo art), and the weaponry used by the Māori.
 This culminated with a haka which was _legitimately_ scary to see up close; even though I knew I was not in any danger.
 
-On the way back to the coach we swung past a patch of glow worms (another animal we had never seen before).
+On the way back to the coach we swung past a patch of glow-worms (another animal we had never seen before).
 
 I can see why this experience was included on our tour.
-Personally I would say it's a must see if you're in the area (and maybe even if you are not).
+Personally I would say it's a must-see if you're in the area (and maybe even if you are not).
 
 ## Wednesday 5<sup>th</sup>: Hobbiton
 

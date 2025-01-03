@@ -101,15 +101,15 @@ This is part 3 of a series of blogs on my 2024 trip to New Zealand.\
 
 ## Wednesday 5<sup>th</sup>: Hobbiton
 
-After visiting New Zealand, I am on the fence as to whether Hobbiton was the _best_ thing we did while we were there.
+After visiting New Zealand, I am on the fence whether Hobbiton was the _best_ thing we did while we were there.
 It was absolutely the most _anticipated_ thing we were looking forward to before we went.
 
 And, if you tell anyone that you did a LoTR themed tour around New Zealand, they will almost immediately ask something along the lines of 'How was Hobbiton?' or 'Did you get to go to Hobbiton?'.
 
-*[LoTR]: Lord of The Rings
+*[LoTR]: Lord of the Rings
 
 Having a movie set from a world renowned collection of movies just sitting there for you to explore, isn't that common.
-Most movie sets are torn down for a variety of reasons and, in New Zealand, it's normally so the owner can continue using it for farming.
+Most movie sets are torn down for a variety of reasons and, in New Zealand, it's normally, so the owner can continue using it for farming.
 I believe that New Zealand actually has a law stating that the site needs to be returned as-is; exactly how it was before filming.
 
 Even if the sets were left there they are not normally built to last.
@@ -136,14 +136,14 @@ I was a singular Gandalf in a sea of Hobbits.
 
 ![solo-gandalf](/assets/images/new_zealand/3/new_zealand_0813.jpg "My, very fetching, Gandalf costume"){: .align-center style="width: 50%;"}
 
-We set off and it took us about an hour to get close to Hobbiton.
+We set off, and it took us about an hour to get close to Hobbiton.
 
 If you had just dropped me here, I would swear blind that we were back in the Cotswolds in the UK.
-Rolling hills surrounded us on all sides as we pulled up to 'The Shire's Rest', a small Cafe and bus depot where the tours start[^1].
+Rolling hills surrounded us on all sides as we pulled up to 'The Shire's Rest', a small Café and bus depot where the tours start[^1].
 
-[^1]: You wouldn't really want hundreds of cars piling into the, relatively remote, site of Hobbiton; so it makes sense for people to be loaded onto coaches at this visitor center style space.
+[^1]: You wouldn't really want hundreds of cars piling into the &mdash; relatively remote &mdash; site of Hobbiton; so it makes sense for people to be loaded onto coaches at this visitor center style space.
 
-We, however, were a special tour group and we got to take Shadowfax from The Shire's Rest to Hobbiton itself.
+We, however, were a special tour group, and we got to take Shadowfax from The Shire's Rest to Hobbiton itself.
 As we headed up the road towards Hobbiton, our tour guide started playing 'Concerning Hobbits' from the beginning of the 'The Lord of the Rings: The Fellowship of the Ring' (embedded below, play it to follow along).
 
 {% include video id="CL_3mlOPnGI" provider="youtube" %}
@@ -170,14 +170,14 @@ We took a bit of time to recreate the 'I'm going on an adventure!' scene from Th
 ![going-on-an-adventure](/assets/images/new_zealand/3/im_going_on_an_adventure.gif "My partner was going on an adventure"){: .align-center style="width: 50%;"}
 
 I forgot to mention, back at The Shire's Rest, we were assigned an 'official' tour guide who worked at The Hobbiton Movie Set.
-Timing was very strict and we were not allowed to deviate from our given slot.
+Timing was very strict, and we were not allowed to deviate from our given slot.
 Ultimately this resulted in the tour feeling a bit rushed, but it was understandable.
 Hobbiton sees hundreds of people a day, you can't just let some idiots in costume run around poking things.
 
 {% include gallery id="hobbiton" caption="It was a glorious day in Hobbiton" class="caption-center" %}
 
-Our official tour guide was good, however some of the official responses to questions seemed a bit like they were run through a marketing team a couple of times.
-Not that they were false, but more that they seemed like they were putting a very glossy shine on the actions of the land owners who seemed to have acted with perfect foresight at all times.
+Our official tour guide was good, however some official responses to questions seemed a bit like they were run through a marketing team a couple of times.
+Not that they were false, but more that they seemed like they were putting a very glossy shine on the actions of the landowners who seemed to have acted with perfect foresight at all times.
 
 After a walk up the hill to Bag End, and back down past the 'Party Tree', we came upon Bagshot Row.
 Although 3 Bagshot Row &mdash; Famously owned by The Gamgees &mdash; was not accessible, there were two fully recreated Hobbit holes that you could actually explore _inside_.
@@ -194,7 +194,7 @@ These Hobbit holes were _super_ cool!
 {% include gallery id="hobbit-holes" caption="The Hobbit holes suited my other half. Me? Not so much" class="caption-center" %}
 
 Last, but by no means least, we stopped off at the Green Dragon pub for a drink.
-It took me a couple of attempts to get into the Green Dragon because I kept getting stopped so people could take photos with 'Gandalf'.
+It took me a couple of attempts to get into the Green Dragon because I kept getting stopped, so people could take photos with 'Gandalf'.
 
 {% include gallery id="green-dragon" caption="The outstanding Green Dragon pub" class="caption-center" %}
 
@@ -221,13 +221,13 @@ There are a few places in the UK you can see redwoods but none that provide a ca
 The Redwoods Treewalk can be experienced in the day, to get the best view of the towering trees; or at night, where there is a unique light show suspended around the catwalk.
 We had no daylight left, so it was the nighttime tree walk for us.
 
-The guide said that the 'Nightlights Treewalk' would take about 30-40 minutes but we spent about double that.
-The lights were mesmerising and we took our time enjoying the fresh nighttime air.
+The guide said that the 'Nightlights Treewalk' would take about 30-40 minutes, but we spent about double that.
+The lights were mesmerising, and we took our time enjoying the fresh nighttime air.
 
 {% include gallery id="treewalk" caption="The Treewalk lights" class="caption-center" %}
 
-★★★★☆ 4/5 - A very unique experience that brought an exhilarating touch to a nighttime walk.
-Well worth while.
+★★★★☆ 4/5 - A unique experience that brought an exhilarating touch to a nighttime walk.
+Well worthwhile.
 
 ### Atticus Finch
 
@@ -246,7 +246,7 @@ As I stumbled back to the hotel, we happened past a classic Mini and I felt like
 Overall it was a great day.
 We were so lucky that the weather held out for Hobbiton, we had a pleasant evening climbing the Redwoods, and a fun night out with two new friends at a good restaurant.
 
-The holiday really felt like everyday was surpassing the day before.
+The holiday really felt like every day was surpassing the day before.
 We couldn't wait for tomorrow.
 
 ## Thursday 6<sup>th</sup>: Trollshaw Forest

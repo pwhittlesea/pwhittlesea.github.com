@@ -12,7 +12,7 @@ I created it on the 25th of April 2013 when I heard that GitHub had moved GitHub
 
 ## Out with the old
 
-In a [single commit](https://github.com/pwhittlesea/pwhittlesea.github.com/commit/6aa6b93ab9ff15eded0baca6e7891081d83b2574) I pushed all the context required and it stayed that way, unchanged, for 10 years, 9 months and 23 days.
+In a [single commit](https://github.com/pwhittlesea/pwhittlesea.github.com/commit/6aa6b93ab9ff15eded0baca6e7891081d83b2574) I pushed all the context required, and it stayed that way, unchanged, for 10 years, 9 months and 23 days.
 
 A *lot* has happened in my life in that time.
 
@@ -29,8 +29,8 @@ Write a script to migrate a non-standard SVN repository to Git? Sweet!
 Create a pivot table in Excel? Witchcraft!
 
 As I progressed in my career I found less and less time for personal projects.
-Then I found D&D, and the time I had shrank again.
-Then the pandemic struck, I adopted a dog, and the time I had shrank again.
+Then I found D&D, and the time I had shrunk again.
+Then the pandemic struck, I adopted a dog, and the time I had shrunk again.
 
 Now, between my two D&D groups (one of which I DM) / two dogs / work, when I have time for coding there was always a fun problem at work I am passionate about which takes my time.
 
@@ -43,7 +43,7 @@ Why am I telling you this?
 Well this is the reason why I decided to update my GitHub Pages site instead of just using a blogging tool.
 I revision control almost everything in my life and I think it makes sense for this site too.
 
-I used to use [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) for ah-hoc bookmarking until it's ultimate demise.
+I used to use [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) for ah-hoc bookmarking until its ultimate demise.
 Plus, I have no illusions that anyone is going to find things I write interesting, but I want this site to be the following:
 
 1. Somewhere to put random things I learn (code etc.)
@@ -55,9 +55,9 @@ Maybe when I'm older and my memory is even worse than it is now, I can use this 
 
 ## New beginnings
 
-So I have chosen (the GH Pages default) [Jekyll](https://jekyllrb.com/) as the basis for this site but I am sure I will have to do extensive modification to meet the above goals.
+So I have chosen (the GH Pages default) [Jekyll](https://jekyllrb.com/) as the basis for this site, but I am sure I will have to do extensive modification to meet the above goals.
 
-[Minima](https://github.com/jekyll/minima) meets my needs as far as themes go but it was a bit of a pain getting the latest version deployed because it hasn't been released [in 4 and a half years](https://github.com/jekyll/minima/issues/656).
+[Minima](https://github.com/jekyll/minima) meets my needs as far as themes go, but it was a bit of a pain getting the latest version deployed because it hasn't been released [in 4 and a half years](https://github.com/jekyll/minima/issues/656).
 So I wouldn't be surprised if something breaks soon.
 
 I have already had to modify it to show tags on posts but I (in no order) want to:

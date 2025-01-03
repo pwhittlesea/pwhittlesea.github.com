@@ -15,12 +15,12 @@ Well I have one in progress.
 However, I read somewhere recently that when getting into writing you have to `embrace the suck`; the idea that you are not good at something when you start.
 So, what better way to try something out than to challenge yourself to do it multiple times in a short space of time; like an accelerated driving course.
 
-Therefore I am going to try the 'Twelve Days of Short Stories'.
+Therefore, I am going to try the 'Twelve Days of Short Stories'.
 Not strictly related to the [12 days of Christmas](https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas), but kinda.
 
 I will target creating a story every two days, the first on the 1<sup>st</sup>, second on the 3<sup>rd</sup>, and so on up until the 23<sup>rd</sup> of December.
 
-Two days is not long so I am hoping it will solve my chronic _OverThinkingAboutEverythingIWrite_-itus.
+Two days is not long, so I am hoping it will solve my chronic _OverThinkingAboutEverythingIWrite_-itus.
 I will not beat myself up if I miss one, but obviously the goal is to do all of them.
 
 For each day I have generated two words using [a random generator](https://randomwordgenerator.com/); the 'backup' word hopefully giving me an out if my mind is blank on the first.

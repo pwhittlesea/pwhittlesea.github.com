@@ -28,7 +28,7 @@ I have not, however, spent any time working on the other three; leaving them to 
 
 `pwhittlesea.com` and `pwhittlesea.co.uk` redirected to an [About Me](https://about.me) page, but _only_ on HTTP.
 No HTTPS.
-In the current day and age where TLS certificates are free, and browser settings such as Firefox's [HTTPS-Only Mode](https://support.mozilla.org/en-US/kb/https-only-prefs), this is not really acceptable any more.
+In the current day and age where TLS certificates are free, and browser settings such as Firefox's [HTTPS-Only Mode](https://support.mozilla.org/en-US/kb/https-only-prefs), this is not really acceptable anymore.
 
 This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page](2024-02-17-new-beginnings.md) for this domain &mdash; so I had to update it eventually.
 
@@ -101,7 +101,7 @@ For each of my redirect domains I performed the following steps:
 4. Wait for the DNS to propagate.
 5. In the settings tab of the repo, under `Pages`, select the main branch source (which enables pages) and input your custom domain.
 6. Save and refresh the page.
-   It's a bit temperamental but GitHub should show you a green `DNS Check Successful` message.
+   It's a bit temperamental, but GitHub should show you a green `DNS Check Successful` message.
 7. (Optional) GitHub will also show you a box for the provisioning of the TLS certificate.
    Once complete, refresh and enable `Enforce HTTPS`
 
@@ -111,7 +111,7 @@ For my `wedfest-2017.uk` domain I have followed the same process, but I have mod
 
 ## Downsides
 
-So GitHub pages is free but it does have two downsides that I have noticed.
+So GitHub pages are free, but it does have two downsides that I have noticed.
 
 The first issue is with the sub-paths.
 I mentioned earlier that 'Project Sites' show up as a sub-path of your main 'User Site' where the path is the name of the repo you created.
@@ -120,7 +120,7 @@ Even with a custom domain, these sub-paths are still present.
 Right now you can go to [`https://thega.me.uk/pwhittlesea.com`](https://thega.me.uk/pwhittlesea.com), [`https://thega.me.uk/pwhittlesea.co.uk`](https://thega.me.uk/pwhittlesea.co.uk), and [`https://thega.me.uk/wedfest-2017.uk`](https://thega.me.uk/wedfest-2017.uk), which will redirect you to the custom domains (which might then redirect you back here).
 
 This is not an issue for me because I have chosen to name my repositories after the domains themselves.
-I think if you picked a more generic name it might conflict with some of the routing on your main site.
+I think if you picked a more generic name it might conflict with some routing on your main site.
 
-The second downside is speculative but it's possible that users using the "Back" button on the final page may get sent back to the redirecting page, whereupon the redirect will occur again.
+The second downside is speculative, but it's possible that users using the "Back" button on the final page may get sent back to the redirecting page, whereupon the redirect will occur again.
 This may cause a reader to get "stuck".
