@@ -5,5 +5,10 @@
       "pattern": "/assets/(?<filename>.*)",
       "replacement": "{{BASEURL}}/assets/$<filename>"
     }
+  ],
+  "ignorePatterns": [
+    {
+      "pattern": "https://www.newzealand.com/"
+    }
   ]
 }

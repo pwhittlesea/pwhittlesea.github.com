@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 5"
 date: 2024-10-21 22:43:00 +0100
-last_modified_at: 2024-11-18T22:42:57+00:00
+last_modified_at: 2025-01-11T12:04:21+00:00
 categories: holidays
 tags: new-zealand
 
@@ -356,6 +356,6 @@ Once again I decided that I was too poor to live there.
 Next time we will be flying down South to Queenstown.
 
 Kia Ora!
-See you in part 6!
+See you in [part 6](2025-01-11-new-zealand-6.md)!
 
 {:footnotes}
