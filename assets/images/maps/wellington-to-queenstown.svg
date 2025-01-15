@@ -17,22 +17,22 @@
     <image height="256" width="256" x="481.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAAG1BMVEWcnLafoLmipbynrMKqscaqtciqu8yqv9Cq098fsit0AAABkElEQVR4nO3YMVPCMBQA4AAijpyTY3UQRkZHdPEn6IgbI5wDjOoB5WfrqQgNur4Mfh3avMuQ75L09aVpW/hKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABB49R3/fOHgoBVSldVOikG2IwGH/e66pQCVF+zX4+6ZQDz3bh1NSwCSMtda90uAXjt7duTmwKA8XTfXp0WADSmvR8PWPUOo9ljOOBleBi9nYUDZtPDaNNr9gYAJstGmOWiAMC4GWaZIAAwaoaXpQFVOCBbgvgZyDZh/B5ovobbrCoJT0R1fB5opuICmbC56rPsexz9Oc7fwvCCZJNXhcEl2fa5REW0nf+UQXUr7wsqywffjfFFGcA6XX8+n45PJkFHs3Vq3y8WVWt51BN2OL1Nqds5Hj/weF4vfhn+H/0fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjzegdvkeBoS7SsSgAAAABJRU5ErkJggg==" y="304.0"/>
   </g>
   <g clip-path="url(#page)" transform="translate(-16384, 0)">
-    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#00ff00" opacity="1.0" stroke="#000000" stroke-width="1"/>
+    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#228833" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(0, 0)">
-    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#00ff00" opacity="1.0" stroke="#000000" stroke-width="1"/>
+    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#228833" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(16384, 0)">
-    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#00ff00" opacity="1.0" stroke="#000000" stroke-width="1"/>
+    <path d="M 499.3707391951666 66.21265736776331  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#228833" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(-16384, 0)">
-    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ff0000" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
+    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ee6677" opacity="1.0" stroke="#000000" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(0, 0)">
-    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ff0000" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
+    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ee6677" opacity="1.0" stroke="#000000" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(16384, 0)">
-    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ff0000" opacity="1.0" stroke="#ffffff" stroke-width="1"/>
+    <path d="M 220.62926080483157 299.78734263223487  l -10.392304845413264 -18.0  a 12 12 0 1 1 20.784609690826528 0 Z" fill="#ee6677" opacity="1.0" stroke="#000000" stroke-width="1"/>
   </g>
   <g clip-path="url(#page)" transform="translate(-16384, 0)">
     <polyline fill="none" opacity="1.0" points="499.3707391951666,66.21265736776331 466.3555928216447,95.71057773774191 432.84050771735747,125.14489673271419 398.8143213595031,154.50525304773146 364.26589140640317,183.78062566228073 329.18412400420493,212.95930821262846 293.5580049248001,242.02888363046077 257.3766336866829,270.97619925250365 220.62926080483157,299.78734263223487" stroke="#0000ff" stroke-width="4"/>

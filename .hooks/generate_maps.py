@@ -13,6 +13,12 @@ IMAGE_DIR = "./assets/images/maps"
 IMAGE_WIDTH = 720
 IMAGE_HEIGHT = 360
 
+# Use Paul Tol's Bright color scheme for colour blind friendly colors
+# See https://cran.r-project.org/web/packages/khroma/vignettes/tol.html#bright
+green = staticmaps.parse_color("#228833")
+red = staticmaps.parse_color("#EE6677")
+blue = staticmaps.parse_color("#4477AA")
+
 
 # Patch for https://github.com/flopp/py-staticmaps/issues/39
 # BEGIN
@@ -90,12 +96,14 @@ for post_file in [f for f in listdir(POST_PATH) if isfile(join(POST_PATH, f))]:
                     )
                     points.append(point)
 
-                    if idx == 0 and len(conf_points) > 1:
-                        marker_color = staticmaps.GREEN
+                    if "colour" in conf_point:
+                        marker_color = staticmaps.parse_color(conf_point["colour"])
+                    elif idx == 0 and len(conf_points) > 1:
+                        marker_color = green
                     elif idx == len(conf_points) - 1:
-                        marker_color = staticmaps.RED
+                        marker_color = red
                     else:
-                        marker_color = staticmaps.BLUE
+                        marker_color = blue
                     context.add_object(
                         staticmaps.Marker(point, color=marker_color, size=12)
                     )
