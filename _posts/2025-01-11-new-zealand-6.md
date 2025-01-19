@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 6"
 date: 2025-01-11 10:39:00 +0000
-last_modified_at: 2025-01-11T12:05:44+00:00
+last_modified_at: 2025-01-19T14:30:06+00:00
 categories: holidays
 tags: new-zealand
 
@@ -10,7 +10,8 @@ excerpt: *tagline
 
 header:
   overlay_image: /assets/images/new_zealand/6/new_zealand_1550.jpeg
-  og_image: /assets/images/new_zealand/6/new_zealand_1550.jpeg
+  overlay_filter: 0.25
+  og_image: /assets/images/new_zealand/6/teaser.jpeg
   teaser: /assets/images/new_zealand/6/teaser.jpeg
 
 maps:
@@ -469,6 +470,6 @@ Wednesday was a big shift in the tone of the holiday with us getting deep into n
 Thursday looks to bring more of the same, except from 4x4s!
 
 Kia Ora!
-See you in part 7!
+See you in [part 7](2025-01-19-new-zealand-7.md)!
 
 {:footnotes}

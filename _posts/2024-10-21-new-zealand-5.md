@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 5"
 date: 2024-10-21 22:43:00 +0100
-last_modified_at: 2025-01-11T12:04:21+00:00
+last_modified_at: 2025-01-18T23:38:26+00:00
 categories: holidays
 tags: new-zealand
 
@@ -10,7 +10,7 @@ excerpt: *tagline
 
 header:
   overlay_image: /assets/images/new_zealand/5/new_zealand_1417.jpeg
-  og_image: /assets/images/new_zealand/5/new_zealand_1417.jpeg
+  og_image: /assets/images/new_zealand/5/teaser.jpeg
   teaser: /assets/images/new_zealand/5/teaser.jpeg
 
 maps:
