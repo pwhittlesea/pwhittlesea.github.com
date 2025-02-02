@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 7"
 date: 2025-01-19 14:26:00 +0000
-last_modified_at: 2025-01-19T14:08:48+00:00
+last_modified_at: 2025-02-02T15:29:59+00:00
 categories: holidays
 tags: new-zealand
 
@@ -16,6 +16,7 @@ header:
 
 maps:
   - name: safari
+    height: 540
     points:
       - lat: -45.03347057750902
         lon: 168.66279045647295
@@ -387,6 +388,6 @@ Our tour is over, but our holiday still has a couple of days in it.
 Tomorrow we head to the breathtaking Milford Sound; an unofficial 'eighth Wonder of the World'.
 
 Kia Ora!
-See you in part 8!
+See you in [part 8](2025-02-02-new-zealand-8.md)!
 
 {:footnotes}
