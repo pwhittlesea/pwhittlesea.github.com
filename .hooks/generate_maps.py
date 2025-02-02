@@ -126,7 +126,14 @@ for post_file in [f for f in listdir(POST_PATH) if isfile(join(POST_PATH, f))]:
                 map_path = f"{IMAGE_DIR}/{map_name}.svg"
                 exists_already = os.path.isfile(map_path)
 
-                svg_image = context.render_svg(IMAGE_WIDTH, IMAGE_HEIGHT)
+                height = IMAGE_HEIGHT
+                width = IMAGE_WIDTH
+                if "height" in post_map:
+                    height = post_map["height"]
+                if "width" in post_map:
+                    width = post_map["width"]
+
+                svg_image = context.render_svg(width, height)
                 with open(map_path, "w", encoding="utf-8") as svg:
                     svg_image.write(svg, pretty=True)
 
