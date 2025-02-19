@@ -69,4 +69,4 @@ repos:
     rev: v3.12.2
     hooks:
       - id: markdown-link-check
-        args: ["-q", "--config=./.markdown-link-check.json"]
+        args: ["--verbose", "--config=./.markdown-link-check.json"]
