@@ -7,7 +7,7 @@ jobs:
     time: 2024 - Present
     company: Cirium
     details: |
-      As Cirium's Lead Architect I set the technical strategy for the business; designing organisation wide solutions that support Cirium's future growth.
+      As Ciriums Lead Architect I set the technical strategy for the business; designing organisation wide solutions that support Ciriums future growth.
 
       Areas focused on:
       - Interfacing with C-Level leadership to ensure that technical strategy aligns with the goals of the business
