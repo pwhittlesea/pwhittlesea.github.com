@@ -1,5 +1,52 @@
 ---
-layout: home
+layout: splash
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/splash.jpg
+  actions:
+    - label: "Posts"
+      url: "/year-archive/"
+excerpt: >
+  Random thoughts, stories, bookmarks, and memories from a Software Architect who
+  thinks they are worth writing down.
+feature_row_1:
+  - image_path: /assets/images/teaser_code.png
+    alt: "code"
+    title: "Software Engineering"
+    excerpt: "With over a decade of experience in software engineering, I have lots of opinions. Some of them correct."
+    url: "/categories/#code"
+    btn_class: "btn--primary"
+    btn_label: "See more"
+feature_row_2:
+  - image_path: /assets/images/teaser_default.png
+    alt: "fiction"
+    title: "Amateur Fiction"
+    excerpt: "I aspire to write a book, maybe writing lots of short stories will suffice for now."
+    url: "/fiction/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+feature_row_3:
+  - image_path: /assets/images/teaser_holiday.png
+    alt: "holiday"
+    title: "Travel Posts"
+    excerpt: "Did I mention I had been to New Zealand? I have, and I wrote about it."
+    url: "/categories/#holidays"
+    btn_class: "btn--primary"
+    btn_label: "See more"
+feature_row_4:
+  - title: "And More"
+    excerpt: "I write about lots of things, some of them are even interesting."
+    url: "/year-archive/"
+    btn_class: "btn--primary"
+    btn_label: "See more"
 ---
 
-This site serves as more of a collection of bookmarks/reminders for me than anything useful for others.
+{% include feature_row id="feature_row_1" type="right" %}
+
+{% include feature_row id="feature_row_2" type="left" %}
+
+{% include feature_row id="feature_row_3" type="right" %}
+
+{% include feature_row id="feature_row_4" type="center" %}
