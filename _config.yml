@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@4.25.1
+remote_theme: mmistakes/minimal-mistakes@4.27.0
 date_format: "%Y-%m-%d %H:%M"
 
 show_excerpts: true
