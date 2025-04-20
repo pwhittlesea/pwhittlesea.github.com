@@ -3,13 +3,14 @@ title: Curriculum Vitae
 permalink: /cv/
 
 jobs:
-  - role: Lead Architect
+  - role: Chief Architect
     time: 2024 - Present
     company: Cirium
     details: |
-      As Ciriums Lead Architect I set the technical strategy for the business; designing organisation wide solutions that support Ciriums future growth.
+      As Ciriums Chief Architect I set the technical strategy for the business; designing organisation wide solutions that support Ciriums future growth.
 
       Areas focused on:
+      - Ensuring we build out a technical platform which allows us to realise value rapidly, but securely
       - Interfacing with C-Level leadership to ensure that technical strategy aligns with the goals of the business
       - Working with teams to ensure shared infrastructure/solutions meet their needs
       - Effective communication of strategy with stakeholders alongside clear documentation of designs
