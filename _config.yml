@@ -18,6 +18,7 @@ domain: "thega.me.uk"
 repository: "pwhittlesea/pwhittlesea.github.io"
 masthead_title: "thega.me.uk"
 enable_copy_code_button: true
+logo: "/assets/images/favicon.png"
 teaser: /assets/images/teaser_default.png
 og_image: /assets/images/new_zealand/3/new_zealand_0813.jpg
 
