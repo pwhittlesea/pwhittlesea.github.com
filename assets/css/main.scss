@@ -43,3 +43,18 @@ $global-transition : none;
     margin-bottom: 8px;
     padding: 2px 5px;
 }
+
+// Reduce the margin on the pagination and share sections
+.pagination {
+    margin-top: 1em !important;
+}
+.page__share {
+    p {
+        margin: 0em;
+    }
+}
+
+// Reduce the bottom margin on the hero overlay
+.page__hero--overlay {
+    margin-bottom: 0em;
+}
