@@ -1,8 +1,9 @@
 ---
 title: "The Beautiful World of Walter Mitty"
 date: 2025-03-28 23:09:00 +0000
-last_modified_at: 2025-03-28T23:32:32+00:00
+last_modified_at: 2025-04-25T16:00:31+00:00
 tags: films
+toc: false
 
 tagline: &tagline "The 2013 Film 'The Secret Life of Walter Mitty' is visually astounding, and you should watch it!"
 excerpt: *tagline
