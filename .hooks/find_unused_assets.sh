@@ -6,7 +6,7 @@ set +e
 # If we find any images that are not referenced in a markdown file or a Jekyll data file, exit with a non-0 status
 exit_code=0
 for i in `find assets/images/ -type f -not -path "assets/images/maps/*"`; do
-    if ! grep -R "$i" . --include="*.md" --include="*.yml" --include="*.markdown" --include="*.yaml" -q; then
+    if ! grep -R "$i" . --include="*.md" --include="*.yml" --include="*.markdown" --include="*.yaml"  --include="*.html" -q; then
         echo "Not Found: $i" >&2
         exit_code=1
     fi
