@@ -1,23 +1,17 @@
 source "https://rubygems.org"
-gem "webrick"
-gem "jekyll", "= 3.10.0"
 
-gem "minimal-mistakes-jekyll", "= 4.27.0"
+# Jekyll Theme
+gem "minimal-mistakes-jekyll", "~> 4.27.0"
 
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
-gem "jekyll-include-cache"
-# Don't upgrade until https://github.com/benbalter/jekyll-relative-links/issues/91 is fixed
-gem "jekyll-relative-links", "= 0.6.1"
 gem "jekyll-titles-from-headings"
-
-# Plugins I might want to use in the future
-# gem "jekyll-redirect-from"
-
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+# Pin until https://github.com/benbalter/jekyll-relative-links/issues/91 is fixed
+gem "jekyll-relative-links", "~> 0.6.0"
+
+# Pin until https://github.com/mmistakes/minimal-mistakes/issues/4054 is fixed
+gem "jekyll-sass-converter", "~> 2.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
