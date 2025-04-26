@@ -2,40 +2,21 @@ source "https://rubygems.org"
 gem "webrick"
 gem "jekyll", "= 3.10.0"
 
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-include-cache"
-  gem "jekyll-remote-theme"
-end
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"
+gem "jekyll-include-cache"
+gem "jekyll-remote-theme"
+# Don't upgrade until https://github.com/benbalter/jekyll-relative-links/issues/91 is fixed
+gem "jekyll-relative-links", "= 0.6.1"
+gem "jekyll-titles-from-headings"
 
-group :jekyll_raw do
-  gem "jekyll-avatar", "= 0.8.0"
-  gem "jekyll-coffeescript", "= 1.2.2"
-  gem "jekyll-commonmark-ghpages", "= 0.5.1"
-  gem "jekyll-default-layout", "= 0.1.5"
-  gem "jekyll-gist", "= 1.5.0"
-  gem "jekyll-github-metadata", "= 2.16.1"
-  gem "jekyll-mentions", "= 1.6.0"
-  gem "jekyll-optional-front-matter", "= 0.3.2"
-  gem "jekyll-paginate", "= 1.1.0"
-  gem "jekyll-readme-index", "= 0.3.0"
-  gem "jekyll-redirect-from", "= 0.16.0"
-  gem "jekyll-relative-links", "= 0.6.1"
-  gem "jekyll-sass-converter", "= 1.5.2"
-  gem "jekyll-seo-tag", "= 2.8.0"
-  gem "jekyll-sitemap", "= 1.4.0"
-  gem "jekyll-swiss", "= 1.0.0"
-  gem "jekyll-titles-from-headings", "= 0.5.3"
-  gem "jemoji", "= 0.13.0"
-  gem "kramdown", "= 2.4.0"
-  gem "kramdown-parser-gfm", "= 1.1.0"
-  gem "liquid", "= 4.0.4"
-  gem "mercenary", "~> 0.3"
-  gem "minima", "= 2.5.1"
-  gem "nokogiri", ">= 1.16.2", "< 2.0"
-  gem "rouge", "= 3.30.0"
-  gem "terminal-table", "~> 1.4"
-end
+# Plugins I might want to use in the future
+# gem "jekyll-redirect-from"
+
+gem "jemoji"
+gem "kramdown-parser-gfm"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
