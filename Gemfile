@@ -3,9 +3,11 @@ source "https://rubygems.org"
 # Jekyll Theme
 gem "minimal-mistakes-jekyll", "~> 4.27.0"
 
+# Jekyll Plugins
 gem "jekyll-titles-from-headings"
 gem "jemoji"
 gem "kramdown-parser-gfm"
+gem 'classifier-reborn'
 
 # Pin until https://github.com/benbalter/jekyll-relative-links/issues/91 is fixed
 gem "jekyll-relative-links", "~> 0.6.0"

@@ -16,6 +16,8 @@ domain: "thega.me.uk"
 repository: "pwhittlesea/pwhittlesea.github.io"
 masthead_title: "thega.me.uk"
 enable_copy_code_button: true
+
+# Images
 logo: "/assets/images/favicons/favicon.png"
 teaser: /assets/images/teaser_default.png
 og_image: /assets/images/new_zealand/3/new_zealand_0813.jpg
@@ -132,40 +134,18 @@ relative_links:
 
 # Enable site search
 search: true
+lsi: true
 lunr:
   search_within_pages: true
 
-# Jekyll Reading Files
+# File settings
 include:
-  - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
+  - README.md
+  - CNAME
 keep_files:
   - .git
-  - .svn
-encoding: "utf-8"
+strict_front_matter: true
+
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
