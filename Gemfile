@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 gem "webrick"
+gem "jekyll", "= 3.10.0"
+
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-include-cache"
@@ -7,7 +9,6 @@ group :jekyll_plugins do
 end
 
 group :jekyll_raw do
-  gem "jekyll", "= 3.10.0"
   gem "jekyll-avatar", "= 0.8.0"
   gem "jekyll-coffeescript", "= 1.2.2"
   gem "jekyll-commonmark-ghpages", "= 0.5.1"
@@ -24,19 +25,6 @@ group :jekyll_raw do
   gem "jekyll-seo-tag", "= 2.8.0"
   gem "jekyll-sitemap", "= 1.4.0"
   gem "jekyll-swiss", "= 1.0.0"
-  gem "jekyll-theme-architect", "= 0.2.0"
-  gem "jekyll-theme-cayman", "= 0.2.0"
-  gem "jekyll-theme-dinky", "= 0.2.0"
-  gem "jekyll-theme-hacker", "= 0.2.0"
-  gem "jekyll-theme-leap-day", "= 0.2.0"
-  gem "jekyll-theme-merlot", "= 0.2.0"
-  gem "jekyll-theme-midnight", "= 0.2.0"
-  gem "jekyll-theme-minimal", "= 0.2.0"
-  gem "jekyll-theme-modernist", "= 0.2.0"
-  gem "jekyll-theme-primer", "= 0.6.0"
-  gem "jekyll-theme-slate", "= 0.2.0"
-  gem "jekyll-theme-tactile", "= 0.2.0"
-  gem "jekyll-theme-time-machine", "= 0.2.0"
   gem "jekyll-titles-from-headings", "= 0.5.3"
   gem "jemoji", "= 0.13.0"
   gem "kramdown", "= 2.4.0"

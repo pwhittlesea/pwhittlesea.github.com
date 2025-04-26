@@ -73,6 +73,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-relative-links
+  - jekyll-titles-from-headings
   - jemoji
 
 # Archives
