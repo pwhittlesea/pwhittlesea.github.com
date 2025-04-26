@@ -2,12 +2,13 @@ source "https://rubygems.org"
 gem "webrick"
 gem "jekyll", "= 3.10.0"
 
+gem "minimal-mistakes-jekyll", "= 4.27.0"
+
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
-gem "jekyll-remote-theme"
 # Don't upgrade until https://github.com/benbalter/jekyll-relative-links/issues/91 is fixed
 gem "jekyll-relative-links", "= 0.6.1"
 gem "jekyll-titles-from-headings"
