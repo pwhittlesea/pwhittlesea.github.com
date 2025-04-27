@@ -5,6 +5,7 @@ gem "minimal-mistakes-jekyll", "~> 4.27.0"
 
 # Jekyll Plugins
 gem "jekyll-titles-from-headings"
+gem 'jekyll-paginate-v2'
 gem "jemoji"
 gem 'classifier-reborn'
 

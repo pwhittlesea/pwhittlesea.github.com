@@ -60,8 +60,10 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
+pagination:
+  enabled: true
+  per_page: 5
+  title: ':title - page :num'
 timezone: Europe/London
 
 # Plugins (previously gems:)
@@ -73,6 +75,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
   - jemoji
+  - jekyll-paginate-v2
 
 # Archives
 category_archive:
