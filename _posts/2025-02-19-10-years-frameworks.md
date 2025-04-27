@@ -1,7 +1,7 @@
 ---
 title: "Looking back - 10 years writing application framework code"
 date: 2025-02-19 15:00:00 +0000
-last_modified_at: 2025-02-19T15:50:39+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: code
 tags: architecture engineering code-quality
 
@@ -241,7 +241,7 @@ Maybe even no brackets at all?
 
 The normal advice I see is to 'keep style consistent', but after watching engineers work on applications for over a decade, this does not come naturally.
 
-My [#1 rule](2024-05-25-rule-one.md) is to programmatically enforce things that you care about, and style is one of those things.
+My [#1 rule]({% post_url 2024-05-25-rule-one %}) is to programmatically enforce things that you care about, and style is one of those things.
 
 For the best part of the last decade I used [CheckStyle](https://checkstyle.org) which only complains if the engineer gets the style wrong; however this leads to resentment when CheckStyle is whining at you.
 So more recently I switched to [Spotless](https://github.com/diffplug/spotless), which can re-format the code as well; making 'compliance' as simple as `mvn spotless:apply`.

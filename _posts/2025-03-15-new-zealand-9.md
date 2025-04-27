@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 9"
 date: 2025-03-15 20:09:00 +0000
-last_modified_at: 2025-03-15T20:10:07+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -58,7 +58,7 @@ heading-home:
 ---
 
 This is the 9<sup>th</sup> and **final** part of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Saturday 15<sup>th</sup>: Auckland Encore
@@ -117,6 +117,7 @@ We swapped pleasantries, but it was obvious we were all holidayed out, waiting t
 Just like the flight from Wellington, the short two-hour flight back to Auckland passed without note.
 I did not do any better at the in-flight trivia questions.
 
+<!-- markdown-link-check-disable-next-line -->
 Unlike our fellow LoTR travellers who were catching connecting flights, we were headed into Auckland for one final night in the [voco in Auckland City Centre](https://www.ihg.com/voco/hotels/gb/en/auckland/aklcn/hoteldetail).
 
 ### Sushi, at last
@@ -197,11 +198,11 @@ I guess we shall see.
 
 Anyway, back to the holiday!
 
-Grabbing a bit of the review of the tour back in [part 7](2025-01-19-new-zealand-7.md#all-good-things-come-to-an-end):
+Grabbing a bit of the review of the tour back in [part 7]({% post_url 2025-01-19-new-zealand-7 %}#all-good-things-come-to-an-end):
 
 > The tour turned what would have been ten days of me and my other half cramped into a rental car into a fun, relaxing, and educational experience, where every logistical detail was handled for me; I only needed to be present.
 >
-> We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo](2024-10-12-new-zealand-4.md#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton](2024-10-03-new-zealand-3.md#hobbiton).
+> We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
 
 My view of guided tours has completely flipped after this holiday.
 I used to think they were a waste of money, but I have been proven wrong.
@@ -220,9 +221,9 @@ Worst Bits:
 
 Best Bits:
 
-1. The down to earth tour at [Hairy Feet](./2024-10-12-new-zealand-4.md#hairy-feet-waitomo).
-2. The wonder of [Hobbiton](./2024-10-03-new-zealand-3.md#hobbiton).
-3. Dressing up and visiting the filming locations in [Wellington](./2024-10-21-new-zealand-5.md#off-road), [Queenstown](./2025-01-11-new-zealand-6.md#wednesday-12th-off-road-film-locations) (and Hobbiton, again).
+1. The down to earth tour at [Hairy Feet]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo).
+2. The wonder of [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
+3. Dressing up and visiting the filming locations in [Wellington]({% post_url 2024-10-21-new-zealand-5 %}#off-road), [Queenstown]({% post_url 2025-01-11-new-zealand-6 %}#wednesday-12th-off-road-film-locations) (and Hobbiton, again).
 
 Seriously, well done for making it this far.
 I hope you took at least one thing away; or maybe you were persuaded to go visit yourself.

@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2025-01-18T23:38:26+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -88,7 +88,7 @@ hangi:
 ---
 
 This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Monday 3<sup>rd</sup>: The Tour Begins
@@ -96,7 +96,7 @@ This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
 In part one we left off just as our Lord of the Rings themed tour was about to begin.
 
 If you remember, we chose to do a guided tour in the hopes that it would introduce us to parts of New Zealand which we might not choose to visit, or might not know to visit, ourselves.
-Red Carpet Tours (which I [spoke about](2024-09-15-new-zealand-1.md#red-carpet-tours) in part 1) were the tour operators, and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
+Red Carpet Tours (which I [spoke about]({% post_url 2024-09-15-new-zealand-1 %}#red-carpet-tours) in part 1) were the tour operators, and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
 
 It felt wrong to head back to the airport so soon, but we were excited to meet the tour group.
 
@@ -256,6 +256,6 @@ However, I'm going to leave it here for part 2.
 This 'quick travel blog' is swiftly becoming a significant undertaking.
 
 Kia Ora!
-See you in [part 3](2024-10-03-new-zealand-3.md)!
+See you in [part 3]({% post_url 2024-10-03-new-zealand-3 %})!
 
 {:footnotes}

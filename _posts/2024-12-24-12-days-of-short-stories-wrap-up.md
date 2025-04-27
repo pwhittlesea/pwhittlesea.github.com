@@ -1,30 +1,30 @@
 ---
 title: "That's a Wrap - Twelve Days of Short Stories"
 date: 2024-12-24 13:21:00 +0000
-last_modified_at: 2024-12-24T15:10:26+00:00
+last_modified_at: 2025-04-27T11:56:51+00:00
 tags: fiction
 excerpt: I did well, but I could have been better.
 ---
 
-So, a month ago, I decided to [challenge myself and write twelve short stories](2024-11-24-12-days-of-short-stories.md) over a period of twenty-four days.
+So, a month ago, I decided to [challenge myself and write twelve short stories]({% post_url 2024-11-24-12-days-of-short-stories %}) over a period of twenty-four days.
 This is a wash-up of how I thought it went, what I did well, and what I could have improved on.
 
 ## Results
 
 | Day                                              | Primary Word | Backup Word          | Point of View  | Result        |
 |:------------------------------------------------:|--------------|----------------------|:--------------:|:-------------:|
-| [1](../_fiction/12-days-of-short-stories-1.md)   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> | :+1:          |
-| [3](../_fiction/12-days-of-short-stories-3.md)   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> | :+1:          |
-| [5](../_fiction/12-days-of-short-stories-5.md)   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> | :+1:          |
-| [7](../_fiction/12-days-of-short-stories-7.md)   | ~~`north`~~  | `sound`              | 1<sup>st</sup> | :+1:          |
+| [1]({% link _fiction/12-days-of-short-stories-1.md %})   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> | :+1:          |
+| [3]({% link _fiction/12-days-of-short-stories-3.md %})   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> | :+1:          |
+| [5]({% link _fiction/12-days-of-short-stories-5.md %})   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> | :+1:          |
+| [7]({% link _fiction/12-days-of-short-stories-7.md %})   | ~~`north`~~  | `sound`              | 1<sup>st</sup> | :+1:          |
 | 9                                                | `dare`       | `style`              | 3<sup>rd</sup> | :exclamation: |
-| [11](../_fiction/12-days-of-short-stories-11.md) | `link`       | ~~`representative`~~ | 1<sup>st</sup> | :+1:          |
-| [13](../_fiction/12-days-of-short-stories-13.md) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> | :+1:          |
-| [15](../_fiction/12-days-of-short-stories-15.md) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> | :+1:          |
-| [17](../_fiction/12-days-of-short-stories-17.md) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> | :+1:          |
+| [11]({% link _fiction/12-days-of-short-stories-11.md %}) | `link`       | ~~`representative`~~ | 1<sup>st</sup> | :+1:          |
+| [13]({% link _fiction/12-days-of-short-stories-13.md %}) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> | :+1:          |
+| [15]({% link _fiction/12-days-of-short-stories-15.md %}) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> | :+1:          |
+| [17]({% link _fiction/12-days-of-short-stories-17.md %}) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> | :+1:          |
 | 19                                               | `injury`     | `ghost`              | 2<sup>nd</sup> | :exclamation: |
 | 21                                               | `flat`       | `radical`            | 1<sup>st</sup> | :exclamation: |
-| [23](../_fiction/12-days-of-short-stories-23.md) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> | :+1:          |
+| [23]({% link _fiction/12-days-of-short-stories-23.md %}) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> | :+1:          |
 
 So, as you can see I managed _most_ of the days, completing 9/12 or 75%.
 
@@ -86,13 +86,17 @@ If I find myself in the mood I might come back around and write it, with a bit m
 
 Now, I'm not a master of genre definitions, so these are probably incorrect, but here are the stories grouped by genre:
 
+<!-- markdownlint-disable MD037 -->
+
 | Genre     | Count | Days                                                                                                                                           |
 |-----------|:-----:|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Horror    | 3     | [5](../_fiction/12-days-of-short-stories-5.md) [7](../_fiction/12-days-of-short-stories-7.md) [23](../_fiction/12-days-of-short-stories-23.md) |
-| Adventure | 2     | [3](../_fiction/12-days-of-short-stories-3.md) [15](../_fiction/12-days-of-short-stories-15.md)                                                |
-| Sci-fi    | 2     | [1](../_fiction/12-days-of-short-stories-1.md) [13](../_fiction/12-days-of-short-stories-13.md)                                                |
-| Crime     | 1     | [11](../_fiction/12-days-of-short-stories-11.md)                                                                                               |
-| Thriller  | 1     | [17](../_fiction/12-days-of-short-stories-17.md)                                                                                               |
+| Horror    | 3     | [5]({% link _fiction/12-days-of-short-stories-5.md %}) [7]({% link _fiction/12-days-of-short-stories-7.md %}) [23]({% link _fiction/12-days-of-short-stories-23.md %}) |
+| Adventure | 2     | [3]({% link _fiction/12-days-of-short-stories-3.md %}) [15]({% link _fiction/12-days-of-short-stories-15.md %})                                                |
+| Sci-fi    | 2     | [1]({% link _fiction/12-days-of-short-stories-1.md %}) [13]({% link _fiction/12-days-of-short-stories-13.md %})                                                |
+| Crime     | 1     | [11]({% link _fiction/12-days-of-short-stories-11.md %})                                                                                               |
+| Thriller  | 1     | [17]({% link _fiction/12-days-of-short-stories-17.md %})                                                                                               |
+
+<!-- markdownlint-enable MD022 -->
 
 As you can see, most of my stories were Horror and Adventure which I think work well in the thousand-ish word category.
 Set up a scenario, and describe what happens as a result.
@@ -109,11 +113,12 @@ Notably absent are Romance, and Fantasy.
 The main takeaway I have about _what_ I wrote, is that the style of my writing does not differ much.
 All characters speak the same way and lack a lot of individual traits.
 I'm not sure if you can get that kind of uniqueness in a thousand words all the time, but I have seen it done effectively.
+<!-- markdown-link-check-disable-next-line -->
 [All Systems Red](https://app.thestorygraph.com/books/0885d5f1-edc2-435f-b17c-7e881829dbc6) did this really well; within the first 5 pages I had a good idea of the personality of the main character.
 
 This is an area I really want to improve on.
 
-I am happy I had a go at an LA Noir ([11](../_fiction/12-days-of-short-stories-11.md)) style story, and a World War Z ([17](../_fiction/12-days-of-short-stories-17.md)) inspired one.
+I am happy I had a go at an LA Noir ([11]({% link _fiction/12-days-of-short-stories-11.md %})) style story, and a World War Z ([17]({% link _fiction/12-days-of-short-stories-17.md %})) inspired one.
 
 ## Wrap Up
 

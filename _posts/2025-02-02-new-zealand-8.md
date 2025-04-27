@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 8"
 date: 2025-02-02 15:19:00 +0000
-last_modified_at: 2025-02-02T15:29:59+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -116,7 +116,7 @@ milford-sunset:
 ---
 
 This is part 8 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 There was a stroke of 'luck' before we arrived in New Zealand.
@@ -141,7 +141,7 @@ The answer was an unequivocal '[RealNZ](https://www.realnz.com/en/)'.
 
 The tour [we chose](https://www.realnz.com/en/experiences/day-cruises/milford-sound-cruises/) was a two-hour boat cruise around the sound, but because Milford is quite remote, the tour also included a coach transfer from Queenstown to Milford, and back (of course).
 
-Just like when we visited the [North Mavora Lakes](2025-01-11-new-zealand-6.md#nen-hithoel) two days before, the coach could not travel in a straight line to Milford Sound, and had to travel around the significant mountain ranges that sat between us and our destination.
+Just like when we visited the [North Mavora Lakes]({% post_url 2025-01-11-new-zealand-6 %}#nen-hithoel) two days before, the coach could not travel in a straight line to Milford Sound, and had to travel around the significant mountain ranges that sat between us and our destination.
 This meant we had to travel roughly 100 km south, 75 km west, then 117 km north; forming a big 292 km long 'U' shape around the mountains; along the only road that goes there.
 
 This was not going to be a quick journey, adding eight hours of coach travel to a two-hour cruise.
@@ -280,7 +280,7 @@ We got to see a pretty sweet waterfall, nothing compared to the waterfalls we we
 
 ### The Boat
 
-Unlike our thematic arrival into Hobbiton a [week earlier](2024-10-03-new-zealand-3.md#hobbiton) &mdash; where we passed over the summit of the hill, seeing Hobbiton laid out before us &mdash; the approach to Milford Sound was fairly subdued.
+Unlike our thematic arrival into Hobbiton a [week earlier]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton) &mdash; where we passed over the summit of the hill, seeing Hobbiton laid out before us &mdash; the approach to Milford Sound was fairly subdued.
 The road leading towards the sound was surrounded by trees, so we couldn't see much, until we happened upon the coach parking.
 
 Even from the docks, we could only see a sneak-peek of what was to come, as most of the boats were lined up, ready to depart.
@@ -362,6 +362,6 @@ Zero regrets.
 Tomorrow we fly back up to Auckland, leaving the frozen vistas of the south behind us for one final night in New Zealand.
 
 Kia Ora!
-See you in part 9!
+See you in [part 9]({% post_url 2025-03-15-new-zealand-9 %})!
 
 {:footnotes}

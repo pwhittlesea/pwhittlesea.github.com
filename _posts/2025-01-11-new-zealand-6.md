@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 6"
 date: 2025-01-11 10:39:00 +0000
-last_modified_at: 2025-01-19T14:30:06+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -112,7 +112,7 @@ off-road-nen-hithoel-log:
 ---
 
 This is part 6 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 **Happy New Year!**\
@@ -120,7 +120,7 @@ It's been a while since my last post, and it's been over six months since I got 
 I really need to hurry up.
 {: .notice--success}
 
-At the end of [part 5](2024-10-21-new-zealand-5.md) we had just finished 4 nights in Wellington.
+At the end of [part 5]({% post_url 2024-10-21-new-zealand-5 %}) we had just finished 4 nights in Wellington.
 It was now time for us to depart to New Zealand's southern island.
 
 On the northern island we had done lots of tours, talks, and had visited the most LoTR thing in New Zealand - Hobbiton.
@@ -443,7 +443,7 @@ Up until now in this series of blogs, I have managed to avoid mentioning my rapi
 I must have bought a Chai Latte &mdash; steamed milk mixed with a spiced tea concentrate instead of espresso &mdash; at every conceivable opportunity on this holiday.
 
 Initially sceptical that I could order something called a 'latte' as a coffee hater, I had become their biggest fan.
-My partner introduced me to them all the way back at the [Auckland Zoo](2024-09-15-new-zealand-1.md#sunday-2nd-auckland-zoo), and I was rapidly depleting New Zealand's reserves of them[^6].
+My partner introduced me to them all the way back at the [Auckland Zoo]({% post_url 2024-09-15-new-zealand-1 %}#sunday-2nd-auckland-zoo), and I was rapidly depleting New Zealand's reserves of them[^6].
 
 [^6]: And I haven't had one since I got back to the UK. Everyone here keeps adding espresso to them :nauseated_face:
 
@@ -470,6 +470,6 @@ Wednesday was a big shift in the tone of the holiday with us getting deep into n
 Thursday looks to bring more of the same, except from 4x4s!
 
 Kia Ora!
-See you in [part 7](2025-01-19-new-zealand-7.md)!
+See you in [part 7]({% post_url 2025-01-19-new-zealand-7 %})!
 
 {:footnotes}

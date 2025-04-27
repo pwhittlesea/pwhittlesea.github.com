@@ -71,7 +71,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-relative-links
   - jekyll-titles-from-headings
   - jemoji
 

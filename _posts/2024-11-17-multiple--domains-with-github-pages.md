@@ -1,7 +1,7 @@
 ---
 title: "Multiple custom domains with GitHub Pages"
 date: 2024-11-17 18:59:00 +0100
-last_modified_at: 2024-11-17T19:41:13+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: code
 tags: github html
 
@@ -30,7 +30,7 @@ I have not, however, spent any time working on the other three; leaving them to 
 No HTTPS.
 In the current day and age where TLS certificates are free, and browser settings such as Firefox's [HTTPS-Only Mode](https://support.mozilla.org/en-US/kb/https-only-prefs), this is not really acceptable anymore.
 
-This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page](2024-02-17-new-beginnings.md) for this domain &mdash; so I had to update it eventually.
+This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page]({% post_url 2024-02-17-new-beginnings %}) for this domain &mdash; so I had to update it eventually.
 
 ![My About Me](/assets/images/about_me_pwhittlesea.png){: .align-center style="width: 50%;"}
 

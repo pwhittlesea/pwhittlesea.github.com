@@ -1,12 +1,12 @@
 ---
 title: "Twelve Days of Short Stories - Day 17"
 date: 2024-12-17 21:43:00 +0000
-last_modified_at: 2024-12-22T09:19:30+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 excerpt: A short story based on the prompt 'jam'
 ---
 
 This is the eighth of a series of short stories I am writing this December.\
-[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 **Interview of 'Sally Rivers', Mar 14<sup>th</sup> 2034.

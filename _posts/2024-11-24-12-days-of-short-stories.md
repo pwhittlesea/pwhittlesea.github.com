@@ -1,7 +1,7 @@
 ---
 title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
-last_modified_at: 2024-12-23T21:35:47+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 toc: false
 tags: fiction
 
@@ -30,19 +30,19 @@ This leaves me with the following prompts:
 
 | Day                                             | Primary Word | Backup Word          | Point of View  |
 |-------------------------------------------------|--------------|----------------------|----------------|
-| [1](../_fiction/12-days-of-short-stories-1.md)   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> |
-| [3](../_fiction/12-days-of-short-stories-3.md)   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> |
-| [5](../_fiction/12-days-of-short-stories-5.md)   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> |
-| [7](../_fiction/12-days-of-short-stories-7.md)   | ~~`north`~~  | `sound`              | 1<sup>st</sup> |
+| [1]({% link _fiction/12-days-of-short-stories-1.md %})   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> |
+| [3]({% link _fiction/12-days-of-short-stories-3.md %})   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> |
+| [5]({% link _fiction/12-days-of-short-stories-5.md %})   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> |
+| [7]({% link _fiction/12-days-of-short-stories-7.md %})   | ~~`north`~~  | `sound`              | 1<sup>st</sup> |
 | 9                                                | `dare`       | `style`              | 3<sup>rd</sup> |
-| [11](../_fiction/12-days-of-short-stories-11.md) | `link`       | ~~`representative`~~ | 1<sup>st</sup> |
-| [13](../_fiction/12-days-of-short-stories-13.md) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> |
-| [15](../_fiction/12-days-of-short-stories-15.md) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> |
-| [17](../_fiction/12-days-of-short-stories-17.md) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> |
+| [11]({% link _fiction/12-days-of-short-stories-11.md %}) | `link`       | ~~`representative`~~ | 1<sup>st</sup> |
+| [13]({% link _fiction/12-days-of-short-stories-13.md %}) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> |
+| [15]({% link _fiction/12-days-of-short-stories-15.md %}) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> |
+| [17]({% link _fiction/12-days-of-short-stories-17.md %}) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> |
 | 19                                               | `injury`     | `ghost`              | 2<sup>nd</sup> |
 | 21                                               | `flat`       | `radical`            | 1<sup>st</sup> |
-| [23](../_fiction/12-days-of-short-stories-23.md) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> |
+| [23]({% link _fiction/12-days-of-short-stories-23.md %}) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> |
 
 Let's see how I do!
 
-Click on each of the days above to see the story for that day, or [Click here](../_pages/fiction-archive.md) to see all of my writing.
+Click on each of the days above to see the story for that day, or [Click here]({% link _pages/fiction-archive.md %}) to see all of my writing.

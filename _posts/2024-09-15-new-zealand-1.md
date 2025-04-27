@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2025-01-18T23:38:26+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -51,7 +51,7 @@ zoo:
 ---
 
 This is part 1 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Short Notice
@@ -144,6 +144,7 @@ We promptly dozed on and off for the next 6 hours; catching up on at least one n
 Upon rising, our body clocks having given up guessing what time it was, we did the only thing one can do.
 We went to the rooftop bar.
 
+<!-- markdown-link-check-disable-next-line -->
 If you are ever in Auckland I can recommend the [voco in Auckland City Centre](https://www.ihg.com/voco/hotels/gb/en/auckland/aklcn/hoteldetail).
 They let us check in early and check out late.
 Maybe they were taking pity on us having travelled halfway around the planet, but it was appreciated.
@@ -233,6 +234,6 @@ I'm going to leave it here for part 1.
 This feels like a good stopping point.
 
 Kia Ora!
-See you in [part 2](2024-09-21-new-zealand-2.md)!
+See you in [part 2]({% post_url 2024-09-21-new-zealand-2 %})!
 
 {:footnotes}

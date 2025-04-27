@@ -31,7 +31,7 @@ repos:
 
   # Strip all exif information from .gif files
   - repo: https://github.com/stefmolin/exif-stripper
-    rev: 0.6.1
+    rev: 0.6.2
     hooks:
     - id: strip-exif
       types: [gif]
@@ -49,24 +49,24 @@ repos:
 
   # Format Python files
   - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 24.10.0
+    rev: 25.1.0
     hooks:
     - id: black
 
   # Check for best practice in Python files
   - repo: https://github.com/pycqa/flake8
-    rev: 7.1.1
+    rev: 7.2.0
     hooks:
     - id: flake8
 
   # Check Markdown documents with Markdownlint(Node.js variant)
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.42.0
+    rev: v0.44.0
     hooks:
       - id: markdownlint
 
   - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.12.2
+    rev: v3.13.7
     hooks:
       - id: markdown-link-check
         args: ["--verbose", "--config=./.markdown-link-check.json"]

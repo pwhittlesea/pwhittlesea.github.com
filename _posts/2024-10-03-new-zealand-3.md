@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 3"
 date: 2024-10-03 21:33:00 +0100
-last_modified_at: 2025-01-18T23:38:26+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -96,7 +96,7 @@ bonus-mini:
 ---
 
 This is part 3 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 ## Wednesday 5<sup>th</sup>: Hobbiton
@@ -255,6 +255,6 @@ Well that was the main event folks, I hope you'll come back to read part 4.
 Next time we will be delving deep into some caves and visiting more filming locations.
 
 Kia Ora!
-See you in [part 4](2024-10-12-new-zealand-4.md)!
+See you in [part 4]({% post_url 2024-10-12-new-zealand-4 %})!
 
 {:footnotes}

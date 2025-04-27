@@ -1,7 +1,7 @@
 ---
 title: "Jekyll pre-commit Hooks"
 date: 2024-11-23 18:11:00 +0000
-last_modified_at: 2024-11-23T18:15:20+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: code
 tags: git jekyll
 
@@ -55,7 +55,7 @@ This is expressed in the front matter of each blog:
 ---
 title: "My amazing blog!"
 date: 2024-11-12 00:00:00 +0100
-last_modified_at: 2024-11-23T18:15:20+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 ---
 ```
 
@@ -78,7 +78,7 @@ Credit here entirely goes to Michael Rose who wrote a [post](https://mademistake
 
 ## Generate Maps
 
-I wrote a [whole blog](2024-09-28-adding-maps-to-my-travel-posts.md) on how I added maps to my blogs, and a key part of that is the pre-commit hook.
+I wrote a [whole blog]({% post_url 2024-09-28-adding-maps-to-my-travel-posts %}) on how I added maps to my blogs, and a key part of that is the pre-commit hook.
 Head over to that blog to read more.
 
 ## Validating Links

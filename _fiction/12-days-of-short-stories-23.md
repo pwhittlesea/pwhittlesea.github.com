@@ -1,12 +1,12 @@
 ---
 title: "Twelve Days of Short Stories - Day 23"
 date: 2024-12-23 21:32:00 +0000
-last_modified_at: 2024-12-23T21:35:47+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 excerpt: A short story based on the prompt 'glimpse'
 ---
 
 This is the ninth of a series of short stories I am writing this December.\
-[Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
+[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
 {: .notice--info}
 
 Lina Buckley hid on their hands and knees behind the sofa in her house.

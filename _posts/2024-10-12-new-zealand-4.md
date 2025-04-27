@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 4"
 date: 2024-10-12 12:20:00 +0100
-last_modified_at: 2025-01-18T23:38:26+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -78,11 +78,11 @@ hairy-swords:
 ---
 
 This is part 4 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
 Welcome back to our Tour through New Zealand.
-We finished in [part 3](2024-10-03-new-zealand-3.md) in the town of Rotorua.
+We finished in [part 3]({% post_url 2024-10-03-new-zealand-3 %}) in the town of Rotorua.
 
 The weather was so perfect for Hobbiton, so we were on a high.
 This holiday was going so well, and it couldn't possibly get any better.
@@ -285,6 +285,6 @@ Well, here we are again.
 In the next edition we will go off-road to more filming locations, as well as spending more time at Wētā.
 
 Kia Ora!
-See you in [part 5](2024-10-21-new-zealand-5.md)!
+See you in [part 5]({% post_url 2024-10-21-new-zealand-5 %})!
 
 {:footnotes}

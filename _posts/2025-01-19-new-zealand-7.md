@@ -1,7 +1,7 @@
 ---
 title: "I visited New Zealand - Part 7"
 date: 2025-01-19 14:26:00 +0000
-last_modified_at: 2025-02-02T15:29:59+00:00
+last_modified_at: 2025-04-27T11:49:52+00:00
 categories: holidays
 tags: new-zealand
 
@@ -128,10 +128,10 @@ ice:
 ---
 
 This is part 7 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here](../_pages/tag-archive.md#new-zealand) to see all posts in the series.
+[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
 {: .notice--info}
 
-We left [part 6](2025-01-11-new-zealand-6.md) after a full day on a coach, visiting individual filming locations in the area of Queenstown.
+We left [part 6]({% post_url 2025-01-11-new-zealand-6 %}) after a full day on a coach, visiting individual filming locations in the area of Queenstown.
 The final day of the tour was an optional activity day, allowing each member of the tour group to pick from several activities (or go completely off on their own).
 
 When we had originally booked the tour, we had been given the choice of:
@@ -151,7 +151,7 @@ But we had already spent all of our savings to get to New Zealand, and we both h
 That, coupled with the £1000 it would cost us, meant it was off the table.
 Maybe another time.
 
-We knew we were going to spend a couple of days at the start of our holiday in Auckland, near the vineyards on [Waiheke Island](2024-09-15-new-zealand-1.md#saturday-1st-waiheke-island), so the wine tour was not for us.
+We knew we were going to spend a couple of days at the start of our holiday in Auckland, near the vineyards on [Waiheke Island]({% post_url 2024-09-15-new-zealand-1 %}#saturday-1st-waiheke-island), so the wine tour was not for us.
 
 Choosing between the day tours and the 4WD tour was hard, but we were there to do LoTR stuff, so we picked the 4WD tour.
 
@@ -323,7 +323,7 @@ Maybe it was a bit too much to expect two several-hundred meter tall status lini
 
 It was still a stunning view regardless.
 
-This final location added a nice symmetry to our time in Queenstown, as this location overlooked the Bungy centre [we visited](2025-01-11-new-zealand-6.md#kawarau-gorge) after landing two days ago.
+This final location added a nice symmetry to our time in Queenstown, as this location overlooked the Bungy centre [we visited]({% post_url 2025-01-11-new-zealand-6 %}#kawarau-gorge) after landing two days ago.
 
 And with that, our 4WD adventure had come to an end.
 
@@ -356,7 +356,7 @@ I would not have heard many of the stories from locals about the filming.
 
 The tour turned what would have been ten days of me and my other half cramped into a rental car into a fun, relaxing, and educational experience, where every logistical detail was handled for me; I only needed to be present.
 
-We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo](2024-10-12-new-zealand-4.md#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton](2024-10-03-new-zealand-3.md#hobbiton).
+We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
 
 If you're reading this, and you can, hit up [Red carpet tours](https://www.redcarpet-tours.com).
 It was worth every penny, and more.
@@ -368,6 +368,7 @@ It was worth every penny, and more.
 After our farewell dinner, we headed out for some drinks with two of the tour group.
 Unfortunately the two people they had planned to go with had fallen ill, so we were picked as the B-team.
 
+<!-- markdown-link-check-disable-next-line -->
 We visited [Minus 5º ICE BAR](https://minus5icebar.com/), which brands itself as the "coolest experience and an adventure you’ll never forget".
 Big enough to host around thirty people, the bar had walls of ice, furniture made of ice, and even glasses made of ice.
 
@@ -388,6 +389,6 @@ Our tour is over, but our holiday still has a couple of days in it.
 Tomorrow we head to the breathtaking Milford Sound; an unofficial 'eighth Wonder of the World'.
 
 Kia Ora!
-See you in [part 8](2025-02-02-new-zealand-8.md)!
+See you in [part 8]({% post_url 2025-02-02-new-zealand-8 %})!
 
 {:footnotes}
