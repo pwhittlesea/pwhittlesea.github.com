@@ -134,7 +134,6 @@ relative_links:
 
 # Enable site search
 search: true
-lsi: true
 lunr:
   search_within_pages: true
 
