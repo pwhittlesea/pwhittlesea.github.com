@@ -145,5 +145,3 @@ exclude:
 keep_files:
   - .git
 strict_front_matter: true
-
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
