@@ -9,4 +9,4 @@ gem "jemoji"
 gem 'classifier-reborn'
 
 # Pin until https://github.com/mmistakes/minimal-mistakes/issues/4054 is fixed
-gem "jekyll-sass-converter", "~> 2.0"
+gem "jekyll-sass-converter", "~> 3.1"
