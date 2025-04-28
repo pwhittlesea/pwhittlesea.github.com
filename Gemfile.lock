@@ -1,3 +1,28 @@
+GIT
+  remote: https://github.com/jekyll/jekyll.git
+  revision: 3ad84b44c582a06c10e71cad7d5627be2aed3747
+  ref: refs/pull/9809/head
+  specs:
+    jekyll (4.4.1)
+      addressable (~> 2.4)
+      base64 (~> 0.2)
+      colorator (~> 1.0)
+      csv (~> 3.0)
+      em-websocket (~> 0.5)
+      i18n (~> 1.0)
+      jekyll-sass-converter (>= 2.0, < 4.0)
+      jekyll-watch (~> 2.0)
+      json (~> 2.6)
+      kramdown (~> 2.3, >= 2.3.1)
+      kramdown-parser-gfm (~> 1.0)
+      liquid (~> 4.0)
+      mercenary (~> 0.3, >= 0.3.6)
+      pathutil (~> 0.9)
+      rouge (>= 3.0, < 5.0)
+      safe_yaml (~> 1.0)
+      terminal-table (>= 1.8, < 4.0)
+      webrick (~> 1.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -54,25 +79,6 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.4.1)
-      addressable (~> 2.4)
-      base64 (~> 0.2)
-      colorator (~> 1.0)
-      csv (~> 3.0)
-      em-websocket (~> 0.5)
-      i18n (~> 1.0)
-      jekyll-sass-converter (>= 2.0, < 4.0)
-      jekyll-watch (~> 2.0)
-      json (~> 2.6)
-      kramdown (~> 2.3, >= 2.3.1)
-      kramdown-parser-gfm (~> 1.0)
-      liquid (~> 4.0)
-      mercenary (~> 0.3, >= 0.3.6)
-      pathutil (~> 0.9)
-      rouge (>= 3.0, < 5.0)
-      safe_yaml (~> 1.0)
-      terminal-table (>= 1.8, < 4.0)
-      webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -169,6 +175,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
+  jekyll!
   jekyll-sass-converter (~> 2.0)
   jekyll-titles-from-headings
   jemoji
