@@ -9,8 +9,8 @@ tagline: &tagline "Four 'fun' GML problems that pop-up when working with GML in 
 excerpt: *tagline
 
 gallery-1:
-  - url: /assets/images/2025-04-25-fun-with-gml/london_gatwick.png
-    image_path: /assets/images/2025-04-25-fun-with-gml/london_gatwick.png
+  - url: /code/2025/04/25/london_gatwick.png
+    image_path: /code/2025/04/25/london_gatwick.png
     title: "London Gatwick Airspace [Photo credit: skyvector.com]"
 ---
 
@@ -50,11 +50,11 @@ Within GML, you have to define a 'Spatial Reference System' (SRS) which defines 
 Every SRS has bounds and a center point; from where 0 is measured.
 The SRS I have seen used most frequently is WGS 84 &mdash; the global standard for GPS coordinates &mdash; which defines the world from `-180, -90` to `180, 90`.
 
-![Image showing a map of the world and a blue box showing the bounds of the EPSG:4326 reference system](/assets/images/2025-04-25-fun-with-gml/bounds_epsg_4326.png "Source: https://spatialreference.org/ref/epsg/4326/"){: .align-center }
+![Image showing a map of the world and a blue box showing the bounds of the EPSG:4326 reference system](/code/2025/04/25/bounds_epsg_4326.png "Source: https://spatialreference.org/ref/epsg/4326/"){: .align-center }
 
 You also have OSGB36 (or [`EPSG:27700`](https://spatialreference.org/ref/epsg/27700/)) which is specifically used in the UK by our national mapping agency, which defines the bounds from `0, 0` to `700000, 1300000`.
 
-![Image showing a map of the United Kingdom and a blue box showing the bounds of the EPSG:27700 reference system](/assets/images/2025-04-25-fun-with-gml/bounds_epsg_27700.png "Source: https://spatialreference.org/ref/epsg/27700/"){: .align-center }
+![Image showing a map of the United Kingdom and a blue box showing the bounds of the EPSG:27700 reference system](/code/2025/04/25/bounds_epsg_27700.png "Source: https://spatialreference.org/ref/epsg/27700/"){: .align-center }
 
 Many countries have their own SRSs to ensure local features are mapped accurately.
 
@@ -133,7 +133,7 @@ A non-closed geometry can happen for many reasons, to name a few:
 1. The UoM might be wrong, maybe through the use of non-SI units (like `m` for mile when it should be `mi`).
 2. The referenced geometry (like a river) didn't have a point precisely where another line met it.
    When you take the line(s) that are needed, they still don't meet.
-   ![Image showing a polygon and a line where the line does not intersect at a known point](/assets/images/2025-04-25-fun-with-gml/river.png){: .align-center style="width: 50%;"}
+   ![Image showing a polygon and a line where the line does not intersect at a known point](/code/2025/04/25/river.png){: .align-center style="width: 50%;"}
 3. Referenced geometries that don't intersect at all.
 4. Just plain old bad input data that specified non-closed points.
 
@@ -151,7 +151,7 @@ This was one of those problems that's easy for humans to look at visually, but h
 Do you put a new line in the gap?
 Do you cut one line down if it's too long, or extend one out if it's too short?
 
-![Image showing a good and bad closure of a triangle](/assets/images/2025-04-25-fun-with-gml/closure.png){: .align-center }
+![Image showing a good and bad closure of a triangle](/code/2025/04/25/closure.png){: .align-center }
 
 ## Interpolated Geometries
 
@@ -185,7 +185,7 @@ There are other types (like a [`Clothoid`](https://en.wikipedia.org/wiki/Euler_s
 You probably guessed it, but a spatial database wants none of these complex types.
 Before loading one of these types they need to undergo a process called 'densification' &mdash; converting interpolated geometries into a collection of points connected by lines.
 
-![Image showing a curve with different densification granularity](/assets/images/2025-04-25-fun-with-gml/densification.png){: .align-center }
+![Image showing a curve with different densification granularity](/code/2025/04/25/densification.png){: .align-center }
 
 This process takes quite a bit of customisation depending on your use case and the size of the geometry in question.
 You want to balance the amount of detail you keep (a circle has infinite detail), and the volume of the data you generate.
