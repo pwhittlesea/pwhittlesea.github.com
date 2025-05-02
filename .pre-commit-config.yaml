@@ -8,13 +8,6 @@ repos:
       language: script
       types: [image]
       exclude_types: [svg,gif]
-    - id: update-last-modified
-      name: Update Last Modified
-      description: Replace `last_modified_at` timestamp with current time
-      entry: .hooks/update_last_modified.sh
-      language: script
-      always_run: true
-      require_serial: true
     - id: generate-maps
       name: Generate Maps
       description: Generate all the maps used in posts
