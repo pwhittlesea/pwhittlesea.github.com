@@ -70,3 +70,10 @@ repos:
     hooks:
       - id: markdown-link-check
         args: ["--verbose", "--config=./.markdown-link-check.json"]
+
+  - repo: https://github.com/boidolr/pre-commit-images
+    rev: v1.8.6
+    hooks:
+      - id: optimize-jpg
+      - id: optimize-png
+      - id: optimize-webp
