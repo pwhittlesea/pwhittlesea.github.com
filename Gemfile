@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Development version of Jekyll
-gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9809/head"
+gem "jekyll", github: "pwhittlesea/jekyll", ref: "posts-specific-assets"
 
 # Jekyll Theme
 gem "minimal-mistakes-jekyll", "~> 4.27.0"

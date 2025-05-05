@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/jekyll/jekyll.git
-  revision: 8b7eba8b9bc359701655aad04f8147604a3ecf22
-  ref: refs/pull/9809/head
+  remote: https://github.com/pwhittlesea/jekyll.git
+  revision: 00c27da2b5853a708c30bd8d30e00300b2e9ee30
+  ref: posts-specific-assets
   specs:
     jekyll (4.4.1)
       addressable (~> 2.4)
