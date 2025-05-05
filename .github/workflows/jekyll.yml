@@ -4,8 +4,6 @@ on:
   # Run on all branches
   # But deploy is restricted to main
   push:
-    branches:
-      - "*"
 
   # Allow running manually
   workflow_dispatch:
