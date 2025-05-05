@@ -28,6 +28,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Fetch all history to allow the last-update plugin to work correctly
+          fetch-depth: 0
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.235.0
         uses: ruby/setup-ruby@dffc446db9ba5a0c4446edb5bca1c5c473a806c5
@@ -44,6 +47,46 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
+  compare:
+    runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/main'
+    needs: build
+    steps:
+      - name: Download artifact from latest main run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ARTIFACTS_URL=$(
+            gh api \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              "/repos/${{ github.repository }}/actions/workflows/jekyll.yml/runs?event=push&branch=main&status=success&per_page=1" \
+              --jq ".workflow_runs[0].artifacts_url"
+          )
+
+          DOWNLOAD_URL=$(
+            gh api \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              "${ARTIFACTS_URL}" \
+              --jq '.artifacts[] | select(.name == "'github-pages'") | .archive_download_url'
+          )
+
+          curl -H "Accept: application/vnd.github+json" -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -L -o "main-artifact.zip" "$DOWNLOAD_URL"
+          unzip "main-artifact.zip" -d "main-artifact"
+          rm "main-artifact.zip"
+      - name: Download new build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: new-artifact
+      - name: Compare artifacts
+        run: |
+          tar -xf main-artifact/artifact.tar -C main-artifact
+          tar -xf new-artifact/artifact.tar -C new-artifact
+          rm main-artifact/artifact.tar new-artifact/artifact.tar
+          diff -bur main-artifact new-artifact || echo "Artifacts differ"
 
   deploy:
     environment:
