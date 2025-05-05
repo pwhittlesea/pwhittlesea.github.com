@@ -1,11 +1,10 @@
 ---
 title: "Bye-Bye GitHub Pages Gem"
 date: 2025-04-27 23:13:00 +0200
-last_modified_at: 2025-04-27T21:16:42+00:00
-categories: update
-tags: jekyll github
+categories: ["update"]
+tags: ["jekyll", "github"]
 header:
-  teaser: /assets/images/teaser_code.png
+  teaser: "/assets/images/teaser_code.png"
 ---
 
 I moved away from the branch build and `github-pages` Gem for this site, and now I have an up-to-date, and more configurable build.
