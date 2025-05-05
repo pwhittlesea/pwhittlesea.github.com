@@ -28,6 +28,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Fetch all history to allow the last-update plugin to work correctly
+          fetch-depth: 0
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.235.0
         uses: ruby/setup-ruby@dffc446db9ba5a0c4446edb5bca1c5c473a806c5
