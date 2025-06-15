@@ -14,6 +14,7 @@ SKIP_PATHS=(
   "assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_2.jpg"
   "assets/images/2025-06-09-i-am-whittlesea-clark/success_kid.png"
   "assets/images/2025-06-09-i-am-whittlesea-clark/surprise.png"
+  "assets/images/2025-06-15-long-live-the-lakehouse/iceberg-metadata.png"
 )
 
 for file in $@
