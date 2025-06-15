@@ -1,6 +1,6 @@
 ---
 title: "Long Live The Lakehouse"
-date: 2025-06-14 00:00:00 +0000
+date: 2025-06-15 10:50:00 +0100
 categories: code
 tags: data architecture
 ---
