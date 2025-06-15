@@ -45,6 +45,9 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          # Allow the artifact to be used by the compare job for 90 days
+          retention-days: 90
 
   compare:
     runs-on: ubuntu-latest
