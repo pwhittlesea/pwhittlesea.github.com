@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Jekyll Theme
-gem "minimal-mistakes-jekyll", "~> 4.27.1"
+gem "minimal-mistakes-jekyll", "~> 4.27.2"
 
 # Jekyll Plugins
 gem "jekyll-titles-from-headings"
