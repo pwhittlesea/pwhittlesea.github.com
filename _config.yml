@@ -52,6 +52,7 @@ author:
 # Set all the footer links to those in the author block
 footer:
   links: *follow
+  since: 2013
 
 # Sass/SCSS
 sass:
