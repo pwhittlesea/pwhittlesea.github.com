@@ -1,20 +1,20 @@
 ---
+aliases:
+  - "/code/10-years-frameworks/"
 title: "Looking back - 10 years writing application framework code"
 date: 2025-02-19 15:00:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: code
-tags: architecture engineering code-quality
+categories: [code]
+tags: [architecture, engineering, "code quality"]
 
-header:
-  teaser: /assets/images/teaser_code.png
+summary: "What have I learned after 10 years of writing application framework code?"
 ---
 
 After a decade of designing, building, and maintaining an application framework for real-time data processing applications, what have I learned? What assumptions did I make ten years ago that were vindicated, and which did not stand the test of time?
 
 ## Background
 
-If you aren't interested in the back-story, and want to jump to what I have leaned, you can skip [here](#what-have-i-learned).
-{: .notice--info}
+> [!INFO]
+> If you aren't interested in the back-story, and want to jump to what I have leaned, you can skip [here](#what-have-i-learned).
 
 Inspired by [this post by Chris Kiehl](https://chriskiehl.com/article/thoughts-after-10-years) &mdash; which you should go read &mdash; I began thinking about what lessons I had learned over the last ten years of my career.
 
@@ -22,7 +22,7 @@ A decade ago I was a Software Engineer, three years out of the University of Sou
 I had a passion for the craft of software engineering; how could we build pipelines and use the tools available to ensure that when we shipped software, we knew it worked.
 
 Now, I'm Lead Architect for [Cirium](https://www.cirium.com/), and I spend my days designing enterprise solutions which span the whole business.
-I'm not supposed to write software anymore, but sometimes I need a break from Excel spreadsheets and Teams calls; so I crack out my IDE and pick up my passion project - A real-time Kafka-based application framework.
+I'm not supposed to write software anymore, but sometimes I need a break from Excel spreadsheets and Teams calls; so I crack out my {{< term "IDE" >}} and pick up my passion project - A real-time Kafka-based application framework.
 
 ## What do I mean by 'Application Framework'?
 
@@ -34,7 +34,7 @@ This data came in disparate formats, which all needed homogenising and fusing in
 We might get data about the location of a flight from one source, and the planned route of the flight, from another.
 We then produced a multitude of datasets that combined all these sources together to provide insight to customers.
 
-This is of course _massively_ over simplifying what we did, but the important point is we were doing a **lot** of real-time ETL operations.
+This is of course _massively_ over simplifying what we did, but the important point is we were doing a **lot** of real-time {{< term "ETL" >}} operations.
 
 To make our product easier to work on (and debug), we opted for building single-purpose [Microservices](https://en.wikipedia.org/wiki/Microservices), with a [Kafka](https://kafka.apache.org/) message-bus glueing it all together; allowing us to see the data at each stage of processing.
 
@@ -50,11 +50,9 @@ Now, it's no secret that microservice architectures transfer the complexity from
 There are whole 'rule books' on what behaviour each microservice should exhibit.
 [The Twelve-Factor App](https://12factor.net) probably being the one I reference the most.
 
-<!-- markdownlint-disable MD033 -->
 > A twelve-factor app never concerns itself with routing or storage of its output stream. It should not attempt to write to or manage logfiles. Instead, each running process writes its event stream, unbuffered, to `stdout`.
 >
-> <cite><a href="https://12factor.net/logs">The Twelve-Factor App</a></cite>
-<!-- markdownlint-enable MD033 -->
+> &mdash; [The Twelve-Factor App](https://12factor.net/logs)
 
 Once one, twenty, or fifty of your microservices want to log to `stdout`, want to read and write from Kafka, and want to publish metrics, you end up with a lot of configuration that looks the same.
 
@@ -71,7 +69,7 @@ Spring Boot and other frameworks don't have an opinion of how your business want
 An '_Application Framework_' in my context, is the codification of those business opinions.
 It limits the choices developers can make about what they build, constraining them to achieve a homogenous ecosystem across all your applications.
 
-![application-framework](/assets/images/application_framework.png){: .align-center}
+![application-framework](application_framework.png)
 
 An application framework adds a layer on top of off-the-shelf frameworks that is concerned with how your businesses applications should run.
 
@@ -85,10 +83,10 @@ The less time you spend duplicating Kafka test harnesses, the more time you can 
 
 ## What did I build?
 
-Although this section is called 'What did I build?', I cannot claim that I did build it all myself.
-I have worked with some very talented engineers over the years who all helped add and improve this framework.
-As always, it's a team effort.
-{: .notice--info}
+> [!NOTE]
+> Although this section is called 'What did I build?', I cannot claim that I did build it all myself.
+> I have worked with some very talented engineers over the years who all helped add and improve this framework.
+> As always, it's a team effort.
 
 Back in 2016 we were building lots of microservices, creating libraries to handle some common functions like metrics.
 We had somewhere in the region of thirty at the time, but I was predicting that we would hit one hundred within a couple of years.
@@ -98,13 +96,11 @@ We would have over a hundred applications which were configuring Spring Boot, [S
 
 At the time I watched a talk &mdash; one which I cannot find since, so I might have hallucinated it &mdash; after I attended [Microservices Manchester](https://www.opencredo.com/blogs/microservices-manchester-conference-recap), where the presenter said something akin to:
 
-<!-- markdownlint-disable MD033 -->
 > As an application developer, just put me in a box.
 > I don't care about where configuration comes from, where logging or metrics end up, or how events are routed.
 > I just want APIs which abstract away the complexity of how these services are provided.
 >
-> <cite>Someone</cite>
-<!-- markdownlint-enable MD033 -->
+> &mdash; Someone
 
 Something in this statement called to me.
 
@@ -178,7 +174,6 @@ So with all of that, back to the point of this blog.
 After ten years of maintaining this framework, what have I learned?
 
 (In no particular order of priority)
-{: style="font-size:0.75em;" }
 
 ### Seek a common vernacular
 
@@ -241,7 +236,7 @@ Maybe even no brackets at all?
 
 The normal advice I see is to 'keep style consistent', but after watching engineers work on applications for over a decade, this does not come naturally.
 
-My [#1 rule]({% post_url 2024-05-25-rule-one %}) is to programmatically enforce things that you care about, and style is one of those things.
+My [#1 rule]({{< ref "2024-05-25-rule-one" >}}) is to programmatically enforce things that you care about, and style is one of those things.
 
 For the best part of the last decade I used [CheckStyle](https://checkstyle.org) which only complains if the engineer gets the style wrong; however this leads to resentment when CheckStyle is whining at you.
 So more recently I switched to [Spotless](https://github.com/diffplug/spotless), which can re-format the code as well; making 'compliance' as simple as `mvn spotless:apply`.
@@ -271,7 +266,7 @@ The reason to push back is maintainability and rate of change.
 
 For every feature (read behaviour) you add, you then have to test and maintain it.
 It's one more thing that you have to provide backward compatible changes for, one more thing to patch.
-It broadens your likelihood of getting a CVE if it includes new libraries, and increases churn if it's a new feature which is still having its behaviour ironed out.
+It broadens your likelihood of getting a {{< term "CVE" >}} if it includes new libraries, and increases churn if it's a new feature which is still having its behaviour ironed out.
 
 An application framework needs to be clear about what it does, but clearer about what it is not supposed to do; otherwise you end up with a swiss-army knife of chaos[^1].
 
@@ -299,7 +294,7 @@ String status(boolean failed, Exception e) {
 A one line method, nice.
 Some engineers value fewer lines of code because of the &mdash; frankly perplexing &mdash; idea that it results in less bugs.
 
-You may be a 9<sup>th</sup> level ternary mage, but most people find `if` statements easier to read.
+You may be a 9^th^ level ternary mage, but most people find `if` statements easier to read.
 `if` statements also give more space for comments, to help with understanding[^2].
 
 [^2]:
@@ -336,7 +331,7 @@ In my experience, engineer skill sits on a [bell curve](https://en.wikipedia.org
 A given company may have some extremely capable engineers, but they will have a far greater number of 'just' good engineers.
 The code you write should be maintainable by the average engineer to ensure that the code is approachable by most of your company.
 
-'KISS' has been around forever, so don't burden those following you with displays of your coding prowess.
+'{{< term "KISS" >}}' has been around forever, so don't burden those following you with displays of your coding prowess.
 No one likes a show-off; keep the code simple where possible.
 
 ### It's OK to repeat yourself
@@ -489,7 +484,7 @@ We strive for such a high number because it means the happy and unhappy paths of
 I'm sure many of you reading (assuming anyone does read this) are saying things like "test coverage doesn't mean anything because you can write garbage tests", which I completely agree with.
 
 High test coverage alone is not a useful metric, it needs to be paired with good engineering practices, principally a high quality code review.
-A PR (or MR) on a framework should receive an extremely thorough review, because missing something has a high impact.
+A {{< term "PR" >}} (or {{< term "MR" >}}) on a framework should receive an extremely thorough review, because missing something has a high impact.
 
 To measure the quality of tests, I leverage mutation tools like [PIT](https://pitest.org):
 
@@ -547,13 +542,3 @@ Having a well described upgrade path is a useful resource to point engineers tow
 ## Fin
 
 Thanks for reading!
-
-*[CVE]: Common Vulnerabilities and Exposures
-*[CVEs]: Common Vulnerabilities and Exposures
-*[ETL]: Extract, Transform, Load
-*[IDE]: Integrated Development Environment
-*[KISS]: Keep It Simple, Stupid
-*[PR]: Pull Request
-*[MR]: Merge Request
-
-{:footnotes}

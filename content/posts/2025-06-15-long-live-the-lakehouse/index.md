@@ -1,12 +1,16 @@
 ---
+aliases:
+  - "/code/long-live-the-lakehouse/"
 title: "Long Live The Lakehouse"
 date: 2025-06-15 10:50:00 +0100
-categories: code
-tags: data architecture
+categories: [code]
+tags: [data, architecture]
 ---
 
 I finally feel like the industry is ready to support 'the [Lakehouse](https://www.databricks.com/glossary/data-lakehouse)'.
 I thought I would write about how Apache Iceberg is making it possible.
+
+<!--more-->
 
 ## The Problem
 
@@ -18,14 +22,14 @@ But regardless of the origin or volume of the data, it needs to be readily avail
 Many fantastic data tools now exist on the market, offering a broad (and often overlapping) set of features.
 Hosted platforms like [Azure OneLake](https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview),
 [Snowflake](https://www.snowflake.com/en/), and [Databricks](https://www.databricks.com/),
-or locally run tools like [Jupyter](https://jupyter.org/), allow Data Scientists and Engineers to set up ETL pipelines;
+or locally run tools like [Jupyter](https://jupyter.org/), allow Data Scientists and Engineers to set up {{< term "ETL" >}} pipelines;
 generating new datasets and data points.
 
 You could just pick one, say Databricks.
 You could place all of your data in a Databricks account, and leverage the platform to its fullest.
 
 But what if you already have a lot of data in your business?
-Like many businesses, your data is probably stored in the cloud (likely in AWS S3[^1]), because it is cheap long-term storage.
+Like many businesses, your data is probably stored in the cloud (likely in {{< term "AWS" >}} S3[^1]), because it is cheap long-term storage.
 Copy and pasting all of it into a new platform will be particularly onerous and costly.
 
 [^1]: S3 is so commonly used an outage in it [took down half the internet](https://www.datacenterknowledge.com/outages/aws-outage-that-broke-the-internet-caused-by-mistyped-command).
@@ -70,13 +74,13 @@ That's where an 'Open Table Format' (OTF) comes in.
 
 This adds a metadata layer over the top of all of your files that allows for efficient query of the data.
 
-![A diagram showing the conceptual architecture of Apache Iceberg](/assets/images/2025-06-15-long-live-the-lakehouse/iceberg-metadata.png "Image from https://iceberg.apache.org/spec/#overview"){: .align-center style="width: 50%;"}
+![A diagram showing the conceptual architecture of Apache Iceberg](iceberg-metadata.png "Image from https://iceberg.apache.org/spec/#overview")
 
-OTFs also allow for schema evolution (through witchcraft) and DML queries (Inserts/Update/Deletes) across multiple files.
+OTFs also allow for schema evolution (through witchcraft) and {{< term "DML" >}} queries (Inserts/Update/Deletes) across multiple files.
 All the good stuff that any database can offer.
 [StartDataEngineering](https://www.startdataengineering.com/post/what_why_table_format/) have a great blog on Open Data Tables that is well worth a read.
 
-The key part, however, is the _open_ part of the OTF.
+The key part, however, is the _open_ part of the {{< term "OTF" >}}.
 
 For a long time I have loved and used PostgreSQL, which is an amazing database.
 Unfortunately, PostgreSQL stores its data in a bespoke on-disk file [format](https://www.postgresql.org/docs/current/storage-file-layout.html) that is not usable by other tools, so anything stored in PostgreSQL, can only be accessed through a running instance.
@@ -85,7 +89,7 @@ If PostgreSQL couldn't be run for some reason, you lose the data.
 The tables stored in an OTF however, are usable by other tools.
 I am able to store my data on a storage engine (like AWS S3), augment it with an OTF, and then select the tool of my choice that supports that OTF.
 
-I can expose that OTF table in the ecosystems where the best tooling exists, helping me achieve the CORE principle.
+I can expose that OTF table in the ecosystems where the best tooling exists, helping me achieve the {{< term "CORE" >}} principle.
 
 ## Fragmentation
 
@@ -118,7 +122,7 @@ Remember the metadata layer that the OTF brings to the table?
 Well someone needs to be the owner of the process which updates the metadata;
 otherwise known as the 'Catalog'.
 
-When writing a row to an Iceberg table, you are actually sending a request to a Catalog API, which appends data to the underlying table.
+When writing a row to an Iceberg table, you are actually sending a request to a Catalog {{< term "API" >}}, which appends data to the underlying table.
 Then on the next read of the table, the new row appears.
 
 You can't have multiple Catalogs owning the metadata, otherwise you would get some lovely conflicting opinions on what the table should contain.
@@ -167,10 +171,3 @@ It's going to be an interesting space to watch.
 ## Fin
 
 Thanks for reading!
-
-*[API]: Application Programming Interface
-*[AWS]: Amazon Web Services
-*[CORE]: Create Once, Read Everywhere
-*[DML]: Data Modification Language
-*[ETL]: Extract, Transform, Load
-*[OTF]: Open Table Format

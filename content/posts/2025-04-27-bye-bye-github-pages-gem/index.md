@@ -1,17 +1,19 @@
 ---
+aliases:
+  - "/update/bye-bye-github-pages-gem/"
 title: "Bye-Bye GitHub Pages Gem"
 date: 2025-04-27 23:13:00 +0200
 categories: ["update"]
 tags: ["jekyll", "github"]
-header:
-  teaser: "/assets/images/teaser_code.png"
 ---
 
 I moved away from the branch build and `github-pages` Gem for this site, and now I have an up-to-date, and more configurable build.
 
+<!--more-->
+
 ## Background
 
-[Back at the beginning of 2024]({% post_url 2024-02-17-new-beginnings %}) I switched from an old raggedy single page website, to a new blog;
+[Back at the beginning of 2024]({{< ref "2024-02-17-new-beginnings" >}}) I switched from an old raggedy single page website, to a new blog;
 powered by [Jekyll](https://jekyllrb.com).
 
 I originally picked the [Minima](https://github.com/jekyll/minima) theme:
@@ -19,7 +21,6 @@ I originally picked the [Minima](https://github.com/jekyll/minima) theme:
 > Minima meets my needs as far as themes go
 >
 > &mdash; Me, 17th Feb 2024 at 17:07
-{: .small }
 
 But almost immediately &mdash; 18th Feb 2024 at 14:25 &mdash; I [switched](https://github.com/pwhittlesea/pwhittlesea.github.com/commit/8fe8b9dea8c2b5e65334104de431446b8ea168f0) to the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) plugin, so I can't be trusted it seems.
 
@@ -64,7 +65,6 @@ Unfortunately the documentation makes it seem like the branch build process, and
 > If you want to use a build process **other than Jekyll** or you do not want a dedicated branch to hold your compiled static files, we recommend that you write a GitHub Actions workflow to publish your site. GitHub provides workflow templates for common publishing scenarios to help you write your workflow.
 >
 > &mdash; [GitHub Pages Documentation - 2025](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources)
-{: .small }
 
 I've highlighted the key parts that informed my original decision last year.
 I did not need more control, _and_ I am using Jekyll, so I don't need a full GitHub Actions pipeline.
@@ -127,15 +127,9 @@ Win, win, win!
 
 The best part of the upgrade is that Jekyll 4 includes relative [post_url](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts) resolution, making the `jekyll-relative-links` plugin redundant (for my use case):
 
-{% raw %}
-
 ```diff
 - [Click here](../_posts/2024-11-24-12-days-of-short-stories.md) to read the explanation of why I'm writing them.
 + [Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
 ```
 
-{% endraw %}
-
 Thanks for reading!
-
-{:footnotes}

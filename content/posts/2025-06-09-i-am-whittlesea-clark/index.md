@@ -1,16 +1,16 @@
 ---
+aliases:
+  - "/update/i-am-whittlesea-clark/"
 title: "I am Whittlesea-Clark"
 date: 2025-06-09 20:48:00 +0100
-categories: update
-toc: false
-tagline: &tagline "So, I have changed my name Phillip Whittlesea-Clark. Finally."
-excerpt: *tagline
+categories: [update]
+
+summary: "So, I have changed my name Phillip Whittlesea-Clark. Finally."
 ---
 
 > What's in a name? That which we call a rose by any other name would smell as sweet.
 >
 > &mdash; William Shakespeare, Romeo and Juliet
-{: .small }
 
 If you have known me for a while, you would remember me as 'Phillip Whittlesea'.
 However, more recently, I have been going by my married name of _Whittlesea-Clark_.
@@ -18,9 +18,10 @@ However, more recently, I have been going by my married name of _Whittlesea-Clar
 It's been a slow, and _very_ gradual change over the last seven years, starting with me updating my social media.
 But I didn't get around to updating the 'legal' name on my passport, until now.
 
-I am happy to report, as of the 5<sup>th</sup> June 2025, my official government ID shows my new married name.
+I am happy to report, as of the 5^th^ June 2025, my official government ID shows my new married name.
 
-![success](/assets/images/2025-06-09-i-am-whittlesea-clark/success_kid.png){: .align-center style="width: 50%;"}
+![success](success_kid.png)
+{style="width: 50%;"}
 
 _'Seven Years?!'_ I hear you exclaim.
 That is quite a long time to put off a name change.
@@ -47,7 +48,8 @@ Less paperwork etc.
 
 However, about a month before our vows, my other half surprised me with a rogue hyphen.
 
-![success](/assets/images/2025-06-09-i-am-whittlesea-clark/surprise.png){: .align-center style="width: 50%;"}
+![success](surprise.png)
+{style="width: 50%;"}
 
 This came with a promise of "you don't have to change yours as well.
 I just want a fancy double-barrelled name".
@@ -103,7 +105,6 @@ Finally.
 Or, as the UK government want me to word it:
 
 > I Phillip Whittlesea of &lt;redacted&gt; have given up my name Phillip Whittlesea and have adopted for all purposes the name Phillip Whittlesea-Clark.
-{: .small }
 
 Flows right off the tongue, doesn't it?
 

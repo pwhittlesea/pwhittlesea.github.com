@@ -1,27 +1,22 @@
 ---
+aliases:
+  - "/code/fun-with-gml/"
 title: "Fun with GML"
 date: 2025-04-25 14:07:00 +0100
-last_modified_at: 2025-04-25T13:59:35+00:00
-category: code
-tags: engineering maps
+category: [code]
+tags: [engineering, maps]
 
-tagline: &tagline "Four 'fun' GML problems that pop-up when working with GML in the wild."
-excerpt: *tagline
-
-gallery-1:
-  - url: /assets/images/2025-04-25-fun-with-gml/london_gatwick.png
-    image_path: /assets/images/2025-04-25-fun-with-gml/london_gatwick.png
-    title: "London Gatwick Airspace [Photo credit: skyvector.com]"
+summary: "Four 'fun' GML problems that pop-up when working with GML in the wild."
 ---
 
 After the best part of a decade working with data in the geospatial and aviation domains, I thought I would write about some fun data problems I encountered.
 
 ## Introduction
 
-When I started my career &mdash; in 2012 &mdash; I began by working on an XML-to-database conversion tool.
-This tool existed primarily to assist those looking to consume the large volumes of OS MasterMap (OSMM) data produced by [Ordnance Survey](https://en.wikipedia.org/wiki/Ordnance_Survey), by loading said data into a spatial [Oracle](https://en.wikipedia.org/wiki/Oracle_Database) database.
+When I started my career &mdash; in 2012 &mdash; I began by working on an {{< term "XML" >}}-to-database conversion tool.
+This tool existed primarily to assist those looking to consume the large volumes of OS MasterMap ({{< term "OSMM" >}}) data produced by [Ordnance Survey](https://en.wikipedia.org/wiki/Ordnance_Survey), by loading said data into a spatial [Oracle](https://en.wikipedia.org/wiki/Oracle_Database) database.
 
-OSMM was distributed as highly detailed GML (Geography Markup Language) &mdash; a standard XML-based format for encoding geographic information &mdash; files, allowing for a standardised exchange of the information within them.
+OSMM was distributed as highly detailed {{< term "GML" >}} (Geography Markup Language) &mdash; a standard XML-based format for encoding geographic information &mdash; files, allowing for a standardised exchange of the information within them.
 
 OSMM contains features which record information on real-world objects;
 everything from phone boxes to rivers.
@@ -45,16 +40,16 @@ My favourite will always be 'putting the wrong unit of measure in', but here are
 
 I think the biggest way in which GML is 'wrong' is the latitude and longitude being the wrong way around (or being read the wrong way around).
 
-Within GML, you have to define a 'Spatial Reference System' (SRS) which defines how the points you encode are interpreted and mapped to the Earth's surface.
+Within GML, you have to define a 'Spatial Reference System' ({{< term "SRS" >}}) which defines how the points you encode are interpreted and mapped to the Earth's surface.
 
 Every SRS has bounds and a center point; from where 0 is measured.
 The SRS I have seen used most frequently is WGS 84 &mdash; the global standard for GPS coordinates &mdash; which defines the world from `-180, -90` to `180, 90`.
 
-![Image showing a map of the world and a blue box showing the bounds of the EPSG:4326 reference system](/assets/images/2025-04-25-fun-with-gml/bounds_epsg_4326.png "Source: https://spatialreference.org/ref/epsg/4326/"){: .align-center }
+![Image showing a map of the world and a blue box showing the bounds of the EPSG:4326 reference system](bounds_epsg_4326.png "Source: https://spatialreference.org/ref/epsg/4326/")
 
-You also have OSGB36 (or [`EPSG:27700`](https://spatialreference.org/ref/epsg/27700/)) which is specifically used in the UK by our national mapping agency, which defines the bounds from `0, 0` to `700000, 1300000`.
+You also have OSGB36 (or [`{{< term "EPSG" >}}:27700`](https://spatialreference.org/ref/epsg/27700/)) which is specifically used in the UK by our national mapping agency, which defines the bounds from `0, 0` to `700000, 1300000`.
 
-![Image showing a map of the United Kingdom and a blue box showing the bounds of the EPSG:27700 reference system](/assets/images/2025-04-25-fun-with-gml/bounds_epsg_27700.png "Source: https://spatialreference.org/ref/epsg/27700/"){: .align-center }
+![Image showing a map of the United Kingdom and a blue box showing the bounds of the EPSG:27700 reference system](bounds_epsg_27700.png "Source: https://spatialreference.org/ref/epsg/27700/")
 
 Many countries have their own SRSs to ensure local features are mapped accurately.
 
@@ -90,7 +85,7 @@ This makes using the data much harder in systems that don't handle references (l
 Datasets frequently won't tell you the section of the river that applies, you have to look it up in another part of the data, and extract the relevant part.
 
 Programmatically this is a trivial intersection of two geometries, but becomes much harder when the geometry that is referenced might not be in the same file you are loading.
-The reference might be hosted online, in a later file on the same CD, or might not even have been digitised yet.
+The reference might be hosted online, in a later file on the same {{< term "CD" >}}, or might not even have been digitised yet.
 
 ```xml
 <gml:FeatureCollection
@@ -130,10 +125,10 @@ Databases are intentionally not fault-tolerant because when you assume how a pol
 
 A non-closed geometry can happen for many reasons, to name a few:
 
-1. The UoM might be wrong, maybe through the use of non-SI units (like `m` for mile when it should be `mi`).
+1. The {{< term "UoM" >}} might be wrong, maybe through the use of non-{{< term "SI" >}} units (like `m` for mile when it should be `mi`).
 2. The referenced geometry (like a river) didn't have a point precisely where another line met it.
    When you take the line(s) that are needed, they still don't meet.
-   ![Image showing a polygon and a line where the line does not intersect at a known point](/assets/images/2025-04-25-fun-with-gml/river.png){: .align-center style="width: 50%;"}
+   ![Image showing a polygon and a line where the line does not intersect at a known point](river.png)
 3. Referenced geometries that don't intersect at all.
 4. Just plain old bad input data that specified non-closed points.
 
@@ -151,7 +146,7 @@ This was one of those problems that's easy for humans to look at visually, but h
 Do you put a new line in the gap?
 Do you cut one line down if it's too long, or extend one out if it's too short?
 
-![Image showing a good and bad closure of a triangle](/assets/images/2025-04-25-fun-with-gml/closure.png){: .align-center }
+![Image showing a good and bad closure of a triangle](closure.png)
 
 ## Interpolated Geometries
 
@@ -163,13 +158,7 @@ This happens a lot in Aviation.
 
 If we take the example below of Gatwick Airport, we have one circle for the inner airspace, and two arcs at either end of the outer airspace:
 
-<!-- markdownlint-disable MD033 -->
-{% capture caption-1 %}
-The Airspace around London Gatwick\
-<small>Source: [https://skyvector.com/](https://skyvector.com/)</small>
-{% endcapture %}
-<!-- markdownlint-enable MD033 -->
-{% include gallery id="gallery-1" caption=caption-1 class="caption-center" %}
+![gallery-1](london_gatwick.png "The Airspace around London Gatwick &mdash; Source: [https://skyvector.com/](https://skyvector.com/)")
 
 The west arc is 17 kilometres wide;
 it's much better to define it as an arc than to digitise it with thousands of points.
@@ -185,7 +174,7 @@ There are other types (like a [`Clothoid`](https://en.wikipedia.org/wiki/Euler_s
 You probably guessed it, but a spatial database wants none of these complex types.
 Before loading one of these types they need to undergo a process called 'densification' &mdash; converting interpolated geometries into a collection of points connected by lines.
 
-![Image showing a curve with different densification granularity](/assets/images/2025-04-25-fun-with-gml/densification.png){: .align-center }
+![Image showing a curve with different densification granularity](densification.png)
 
 This process takes quite a bit of customisation depending on your use case and the size of the geometry in question.
 You want to balance the amount of detail you keep (a circle has infinite detail), and the volume of the data you generate.
@@ -197,15 +186,3 @@ Thanks for reading!
 
 If you know more about this domain than I do, and you notice something wrong;
 reach out, and I will fix any inaccuracies.
-
-*[CD]: Compact Disc.
-*[EPSG]: European Petroleum Survey Group (used in spatial reference systems like `EPSG:4326`)
-*[GML]: Geography Markup Language
-*[OSMM]: Ordnance Survey MasterMap
-*[SI]: International System of Units
-*[SRS]: Spatial Reference System
-*[UK]: United Kingdom
-*[UoM]: Unit of Measure
-*[XML]: Extensible Markup Language
-
-{:footnotes}

@@ -1,26 +1,11 @@
 ---
+aliases:
+  - "/the-beautiful-world-of-walter-mitty/"
 title: "The Beautiful World of Walter Mitty"
 date: 2025-03-28 23:09:00 +0000
-last_modified_at: 2025-04-25T16:00:31+00:00
-tags: films
-toc: false
-
-tagline: &tagline "The 2013 Film 'The Secret Life of Walter Mitty' is visually astounding, and you should watch it!"
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/header.jpg
-  caption: "Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
-  teaser: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_1.jpg
-
-gallery-1:
-  - url: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_1.jpg
-    image_path: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_1.jpg
-    title: "Ben Stiller in The Secret Life of Walter Mitty (2013) [Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation]"
-gallery-2:
-  - url: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_2.jpg
-    image_path: /assets/images/2025-03-28-the-beautiful-world-of-walter-mitty/the_secret_life_of_walter_mitty_2.jpg
-    title: "Ben Stiller in The Secret Life of Walter Mitty (2013) [Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation]"
+tags: [films]
+summary: "The 2013 Film 'The Secret Life of Walter Mitty' is visually astounding, and you should watch it!"
+featureimagecaption: "Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
 ---
 
 [The Secret Life of Walter Mitty (2013)](https://www.imdb.com/title/tt0359950) lives rent-free in my mind, and I have to talk about it.
@@ -36,13 +21,11 @@ Which is odd for me; I rarely re-watch films.
 But what makes this film a 10 out of 10 film for me?
 Why is it so special?
 
-<!-- markdownlint-disable MD033 -->
-{% capture caption-1 %}
-Still from _The Secret Life of Walter Mitty (2013)_\
-<small>Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation</small>
-{% endcapture %}
-<!-- markdownlint-enable MD033 -->
-{% include gallery id="gallery-1" caption=caption-1 class="caption-center" %}
+{{< figure
+    src="the_secret_life_of_walter_mitty_1.jpg"
+    alt="Still from The Secret Life of Walter Mitty (2013)"
+    caption="Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
+    >}}
 
 As films go, _The Secret Life of Walter Mitty_ is relatively simple.
 Based on James Thurber's 1939 [short story](https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty), the film follows a photo editor at Life magazine who, when faced with the loss of his job, accidentally embarks on an adventure that takes him across the globe, in search of a missing photograph.
@@ -66,7 +49,11 @@ You feel the water as he jumps from the helicopter into the Atlantic Ocean, tryi
 
 The wind blows through your hair as Walter long-boards away from a volcanic eruption, down the hills of Iceland.
 
-{% include gallery id="gallery-2" caption=caption-1 class="caption-center" %}
+{{< figure
+    src="featured.jpg"
+    alt="Still from The Secret Life of Walter Mitty (2013)"
+    caption="Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
+    >}}
 
 You shiver from the cold of the Afghan Himalayas as Walter stares down the elusive Snow Leopard.
 
@@ -78,9 +65,10 @@ Over the course of the film Walter discovers courage, purpose, and the beauty of
 But in watching this film, you as the viewer feel like you've been on an adventure of your own;
 which, when you're feeling stagnant (like when you're on a plane), is what you really need.
 
-{% include video id="QD6cy4PBQPI" provider="youtube" %}
+{{< youtubeLite
+    id="QD6cy4PBQPI"
+    label="The Secret Life of Walter Mitty (2013) Trailer"
+    >}}
 
 Alright, fine.
 I'll watch it again.
-
-{:footnotes}
