@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-2/"
 title: "I visited New Zealand - Part 2"
 date: 2024-09-21 22:22:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 2
 
-tagline: &tagline Our tour begins, showcasing the magic behind the movies, New Zealand culture, and history.
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/2/new_zealand_0805.jpg
-  og_image: /assets/images/new_zealand/2/teaser.jpg
-  teaser: /assets/images/new_zealand/2/teaser.jpg
+summary: Our tour begins, showcasing the magic behind the movies, New Zealand culture, and history.
 
 maps:
   - name: road_to_rotorua
@@ -34,69 +31,66 @@ maps:
         lat: -38.106563710921314
         lon: 176.22083340538035
 
+
 luggage:
-  - url: /assets/images/new_zealand/2/new_zealand_0602.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0602.jpg
+  - url: new_zealand_0602.jpg
+    image_path: new_zealand_0602.jpg
     title: "Me, at Heathrow Airport, with all of our luggage"
 
 weta-unleashed:
-  - url: /assets/images/new_zealand/2/new_zealand_0743.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0743.jpg
+  - url: new_zealand_0743.jpg
+    image_path: new_zealand_0743.jpg
     title: "I'm dying inside because I wanted to go to the All Black Experience"
-  - url: /assets/images/new_zealand/2/new_zealand_0748.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0748.jpg
+  - url: new_zealand_0748.jpg
+    image_path: new_zealand_0748.jpg
     title: "It's a good job they turned to stone"
-  - url: /assets/images/new_zealand/2/new_zealand_0757.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0757.jpg
+  - url: new_zealand_0757.jpg
+    image_path: new_zealand_0757.jpg
     title: "A special entrance for a special tour"
-  - url: /assets/images/new_zealand/2/new_zealand_0764.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0764.jpg
+  - url: new_zealand_0764.jpg
+    image_path: new_zealand_0764.jpg
     title: "The health and safety officer helping us stay safe"
-  - url: /assets/images/new_zealand/2/new_zealand_0766.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0766.jpg
+  - url: new_zealand_0766.jpg
+    image_path: new_zealand_0766.jpg
     title: "Various models and prototypes"
-  - url: /assets/images/new_zealand/2/new_zealand_0774.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0774.jpg
+  - url: new_zealand_0774.jpg
+    image_path: new_zealand_0774.jpg
     title: "Need a hand?"
-  - url: /assets/images/new_zealand/2/new_zealand_0778.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0778.jpg
+  - url: new_zealand_0778.jpg
+    image_path: new_zealand_0778.jpg
     title: "A Wētā recreation that looks lifelike"
-  - url: /assets/images/new_zealand/2/new_zealand_0786.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0786.jpg
+  - url: new_zealand_0786.jpg
+    image_path: new_zealand_0786.jpg
     title: "An example of a 'bigature'"
-  - url: /assets/images/new_zealand/2/new_zealand_0796.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0796.jpg
+  - url: new_zealand_0796.jpg
+    image_path: new_zealand_0796.jpg
     title: "A tent made from garden flotsam"
 
 tirau:
-  - url: /assets/images/new_zealand/2/new_zealand_0805.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0805.jpg
+  - url: featured.jpg
+    image_path: featured.jpg
     title: "Tīrau's corrugated iron 'ram' and 'sheep' buildings"
-  - url: /assets/images/new_zealand/2/new_zealand_0809.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0809.jpg
+  - url: new_zealand_0809.jpg
+    image_path: new_zealand_0809.jpg
     title: "Tīrau's corrugated iron 'dog' building"
 
 poppys:
-  - url: /assets/images/new_zealand/2/new_zealand_0806.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0806.jpg
+  - url: new_zealand_0806.jpg
+    image_path: new_zealand_0806.jpg
     title: "Tasty, and adorable!"
 
 hangi:
-  - url: /assets/images/new_zealand/2/new_zealand_0810.jpg
-    image_path: /assets/images/new_zealand/2/new_zealand_0810.jpg
+  - url: new_zealand_0810.jpg
+    image_path: new_zealand_0810.jpg
     title: "The hāngī"
 ---
 
-This is part 2 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
-
-## Monday 3<sup>rd</sup>: The Tour Begins
+## Monday 3^rd^: The Tour Begins
 
 In part one we left off just as our Lord of the Rings themed tour was about to begin.
 
 If you remember, we chose to do a guided tour in the hopes that it would introduce us to parts of New Zealand which we might not choose to visit, or might not know to visit, ourselves.
-Red Carpet Tours (which I [spoke about]({% post_url 2024-09-15-new-zealand-1 %}#red-carpet-tours) in part 1) were the tour operators, and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
+Red Carpet Tours (which I [spoke about]({{< ref "2024-09-15-new-zealand-1" >}}#red-carpet-tours) in part 1) were the tour operators, and they had directed us to meet at the [Sudima Hotel](https://www.sudimahotels.com/en/our-hotels/auckland-airport/) just outside the airport.
 
 It felt wrong to head back to the airport so soon, but we were excited to meet the tour group.
 
@@ -113,19 +107,17 @@ Its sad (or maybe impressive[^1]) that we managed to fit all of that in a 130L s
 
 [^1]: Several people commented on this during the tour with surprise, so I am going to take it as impressive (and not that they thought we smelled).
 
-{% include gallery id="luggage" caption="Me, at Heathrow Airport, with all of our luggage" class="caption-center" %}
+{{< mm-gallery id="luggage" caption="Me, at Heathrow Airport, with all of our luggage" >}}
 
 I said that I was blown away by the beauty of New Zealand, and I intended this to be a 'look how beautiful NZ is' blog, but this day was mostly spent in proximity to an airport, so I can't give it high marks for attractiveness.
 
 Later that evening we sat down to dinner with the 30 people were going to spend the next 12 days with.
-Everyone was so warm and welcoming and my fear that I would stick out like a sore thumb, because I haven't read any of the LoTR books, was unfounded.
+Everyone was so warm and welcoming and my fear that I would stick out like a sore thumb, because I haven't read any of the {{< term "LoTR" >}} books, was unfounded.
 I would do shout-outs to everyone here, but they will never read this and there's too many people to list (but in case you do read this, HI GUYS!).
 
-*[LoTR]: Lord of the Rings
+## Tuesday 4^th^: The Road to Rotorua
 
-## Tuesday 4<sup>th</sup>: The Road to Rotorua
-
-{% include map.html name="road_to_rotorua" %}
+{{< map name="road_to_rotorua" >}}
 
 This tour across NZ has to be the only time in my and my partners' relationship that I have seen them happy to get up at 6am.
 We had been given our itinerary the night before and almost every day called for a pre-dawn start.
@@ -155,7 +147,7 @@ The tour featured three fake films — using an existing IP would have been an i
 
 We saw the casting process used to make prosthetics (like Gimli's face), the creation of 'chain' mail for armor, and the transformation of tin foil and clay into stonework for sets.
 
-{% include gallery id="weta-unleashed" caption="Wētā Unleashed was visually astounding" class="caption-center" %}
+{{< mm-gallery id="weta-unleashed" caption="Wētā Unleashed was visually astounding" >}}
 
 Later in the week we would be going to see the physical locations used for filming, but it was really eye-opening to see a bit of the magic behind the camera as well.
 It was a fun _and educational_ tour[^3]; I would describe my feeling afterwards as one of child-like glee.
@@ -170,6 +162,7 @@ Wētā really gave off the vibe of a fun place to be and was 'the place to work'
 
 It was time to head south.
 
+<!-- markdown-link-check-disable-next-line -->
 We were spending the night in the [Millennium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/) in a town called Rotorua which was a paltry 230 km away by coach.
 
 It was about 3 hours door-to-door and, although _Shadowfax_ (that's what the tour called the coach) was comfortable, 3 hours is a lot to do in one go.
@@ -184,11 +177,11 @@ The town seemed to have found "it's thing" in the form of corrugated iron art wo
 Functional buildings with a fun exterior that no sane person could drive past without stopping.
 Who could pass up the opportunity to go to the bathroom inside a giant metal dog?
 
-{% include gallery id="tirau" caption="These functional buildings made me unreasonably happy" class="caption-center" %}
+{{< mm-gallery id="tirau" caption="These functional buildings made me unreasonably happy" >}}
 
 A special mention to [Poppys Café](https://maps.app.goo.gl/PCHNN2gQk8P4eRREA) who not only had a giant corrugated iron poppy on the roof, but also served the cutest heart shaped Paninis:
 
-{% include gallery id="poppys" caption="Tasty, and adorable!" class="caption-center" %}
+{{< mm-gallery id="poppys" caption="Tasty, and adorable!" >}}
 
 We got back on the road after a quick stop in the souvenir shop shaped like a giant sheep.
 
@@ -218,7 +211,7 @@ Even though our room had a view of the car park, the hotel was well positioned i
 
 ### Mitai Maori Village
 
-{% include map.html name="mitai" %}
+{{< map name="mitai" >}}
 
 We had just enough time to drop our stuff off in the hotel room and grab a cup of tea[^4], before we were back on the road.
 
@@ -238,7 +231,7 @@ If I were minding my own business and a group rowing down the river were chantin
 
 After the river demonstration we enjoyed a 'hāngī' buffet — cooked in an earth-oven — where we got to ask questions and learn about the Māori culture.
 
-{% include gallery id="hangi" caption="The hāngī" class="caption-center" %}
+{{< mm-gallery id="hangi" caption="The hāngī" >}}
 
 The main event was a cultural performance where we learnt about 'ta moka' (tattoo art), and the weaponry used by the Māori.
 This culminated with a haka which was _legitimately_ scary to see up close; even though I knew I was not in any danger.
@@ -248,7 +241,7 @@ On the way back to the coach we swung past a patch of glow-worms (another animal
 I can see why this experience was included on our tour.
 Personally I would say it's a must-see if you're in the area (and maybe even if you are not).
 
-## Wednesday 5<sup>th</sup>: Hobbiton
+## Wednesday 5^th^: Hobbiton
 
 I feel like I'm leading you on because Hobbiton is often seen as the 'the main event' (and is probably all you're reading this for).
 However, I'm going to leave it here for part 2.
@@ -256,6 +249,4 @@ However, I'm going to leave it here for part 2.
 This 'quick travel blog' is swiftly becoming a significant undertaking.
 
 Kia Ora!
-See you in [part 3]({% post_url 2024-10-03-new-zealand-3 %})!
-
-{:footnotes}
+See you in [part 3]({{< ref "2024-10-03-new-zealand-3" >}})!

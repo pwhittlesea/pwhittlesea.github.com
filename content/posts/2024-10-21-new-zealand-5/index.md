@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-5/"
 title: "I visited New Zealand - Part 5"
 date: 2024-10-21 22:43:00 +0100
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 5
 
-tagline: &tagline "We spent 4 nights in Wellington, made 3 trips to Wētā, ate at 2 Restaurants, and visited 1 Museum"
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/5/new_zealand_1417.jpeg
-  og_image: /assets/images/new_zealand/5/teaser.jpeg
-  teaser: /assets/images/new_zealand/5/teaser.jpeg
+summary: "We spent 4 nights in Wellington, made 3 trips to Wētā, ate at 2 Restaurants, and visited 1 Museum"
 
 maps:
   - name: new-zealand-5
@@ -34,63 +31,59 @@ maps:
         lon: 174.78748114376063
 
 off-road-nazgul:
-  - url: /assets/images/new_zealand/5/new_zealand_1258-full.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1258-full.jpeg
+  - url: new_zealand_1258-full.jpeg
+    image_path: new_zealand_1258-full.jpeg
 
 off-road-tree:
-  - url: /assets/images/new_zealand/5/new_zealand_1275-full.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1275-full.jpeg
+  - url: new_zealand_1275-full.jpeg
+    image_path: new_zealand_1275-full.jpeg
 
 off-road:
-  - url: /assets/images/new_zealand/5/new_zealand_1304.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1304.jpeg
+  - url: new_zealand_1304.jpeg
+    image_path: new_zealand_1304.jpeg
     title: "A view over Wellington from Mount Victoria"
 
 weta-cave:
-  - url: /assets/images/new_zealand/5/new_zealand_1316.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1316.jpeg
+  - url: new_zealand_1316.jpeg
+    image_path: new_zealand_1316.jpeg
     title: "Even the Trolls were celebrating"
-  - url: /assets/images/new_zealand/5/new_zealand_1330.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1330.jpeg
+  - url: new_zealand_1330.jpeg
+    image_path: new_zealand_1330.jpeg
     title: "Lurtz looks positively festive"
-  - url: /assets/images/new_zealand/5/new_zealand_1331.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1331.jpeg
+  - url: new_zealand_1331.jpeg
+    image_path: new_zealand_1331.jpeg
     title: "If there was a head, it had a birthday hat"
 
 weta-take-2:
-  - url: /assets/images/new_zealand/5/new_zealand_0917.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_0917.jpeg
+  - url: new_zealand_0917.jpeg
+    image_path: new_zealand_0917.jpeg
     title: "My other half trying on a helmet"
-  - url: /assets/images/new_zealand/5/new_zealand_1399.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1399.jpeg
+  - url: new_zealand_1399.jpeg
+    image_path: new_zealand_1399.jpeg
     title: "Two models showing different stages of contruction"
-  - url: /assets/images/new_zealand/5/new_zealand_1400.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1400.jpeg
+  - url: new_zealand_1400.jpeg
+    image_path: new_zealand_1400.jpeg
     title: "A model of the Balrog"
 
 te-papa:
-  - url: /assets/images/new_zealand/5/new_zealand_1417.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1417.jpeg
+  - url: new_zealand_1417.jpeg
+    image_path: new_zealand_1417.jpeg
     title: "The first room of the exhibit"
-  - url: /assets/images/new_zealand/5/new_zealand_1427.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1427.jpeg
+  - url: new_zealand_1427.jpeg
+    image_path: new_zealand_1427.jpeg
     title: "The machine gun trio"
-  - url: /assets/images/new_zealand/5/new_zealand_1428.jpeg
-    image_path: /assets/images/new_zealand/5/new_zealand_1428.jpeg
+  - url: new_zealand_1428.jpeg
+    image_path: new_zealand_1428.jpeg
     title: "Another angle of the machine gun trio"
 ---
-
-This is part 5 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
 
 In part 4, we arrived in Wellington.
 It was the end of the day, so we only managed to get out for a spot of dinner.
 But, we are set to stay in Wellington for 4 nights, so there's lots left to see.
 
-{% include map.html name="new-zealand-5" caption="Our destinations around Wellington, NZ" %}
+{{< map name="new-zealand-5" caption="Our destinations around Wellington, NZ" >}}
 
-## Saturday 8<sup>th</sup>: Getting Wētā Again
+## Saturday 8^th^: Getting Wētā Again
 
 Before we arrived the day before, it was predicted that the weather on Monday was going to be horrible, so our tour guide spent a bit of time re-arranging our agenda.
 Instead of going to the Wellington filming locations on Monday, we were going to squeeze them into Saturday.
@@ -102,9 +95,7 @@ It was going to be a busy day!
 Our time with _Shadowfax_ &mdash; our coach &mdash; was limited, and before long we would be waving goodbye to him.
 But that time had not yet come, and we all climbed back aboard for a full day of looking at things (maybe pointing at things too).
 
-Wellington is a pretty large city which is heavily populated, and I don't remember any high-rise blocks of flats in LoTR, so I was wondering where on earth the film locations would be.
-
-*[LoTR]: Lord of the Rings
+Wellington is a pretty large city which is heavily populated, and I don't remember any high-rise blocks of flats in {{< term "LoTR" >}}, so I was wondering where on earth the film locations would be.
 
 Mount Victoria sits in the middle of the city, and that was our destination.
 _Shadowfax_ expertly navigated the winding roads leading up the mountain.
@@ -113,29 +104,29 @@ About halfway up, we stopped to head into the forest.
 Very close to one another were two different filming locations from the first film.
 The first being where the hobbits hide under some tree roots as a ring wraith searches for them.
 
-{% capture off-road-nazgul-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: Me and my other half, reproducing the Nazgul's search
-{% endcapture %}
-{% include gallery id="off-road-nazgul" caption=off-road-nazgul-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-nazgul"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: Me and my other half, reproducing the Nazgul's search`
+    >}}
 
 The tree they are hiding under was a prop created by the team at Wētā and was removed after filming.
 Out picture isn't quite the same angle, so you might have to trust me on that one :smile:.
 
 Then, literally down the hill about 20 meters, was the tree Sam and Frodo stop to take a break in.
 
-{% capture off-road-tree-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: Me and my other half, in the same tree
-{% endcapture %}
-{% include gallery id="off-road-tree" caption=off-road-tree-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-tree"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: Me and my other half, in the same tree`
+    >}}
 
 We had an immense amount of fun with the tour group, recreating each of the scenes.
 At one point I got to play the part of the Nazgul's horse, horse mask and all.
 
 When we were done we carried on up to the viewing platform at the top of Mount Victoria, giving us 360 degree views of Wellington.
 
-{% include gallery id="off-road" caption="A view over Wellington" class="caption-center" %}
+{{< mm-gallery id="off-road" caption="A view over Wellington" >}}
 
 ★★★★☆ 4/5 - Mount Victoria was beautiful and a must-see!
 I would recommend a visit if you like walking (and even if you don't).
@@ -144,15 +135,15 @@ I would recommend a visit if you like walking (and even if you don't).
 
 After our early morning visit to the mountain, we headed down to the Wellington [Wētā Cave](https://tours.wetaworkshop.com/wetacave/) &mdash; Wētā's retail store &mdash; for a bit of retail therapy.
 
-If you read my [second blog on New Zealand]({% post_url 2024-09-21-new-zealand-2 %}#weta-workshop-unleashed), then you will remember we went to a Wētā cave in Auckland.
+If you read my [second blog on New Zealand]({{< ref "2024-09-21-new-zealand-2" >}}#weta-workshop-unleashed), then you will remember we went to a Wētā cave in Auckland.
 
 The Wellington 'cave' (store) was an experience of its own.
 Existing somewhere between a museum and a store, we were able to browse costumes from the LoTR films _and_ buy miniatures/collectibles (like [this adorable cave troll](https://www.wetanz.com/nz/mini-epics-cave-troll)).
 
-We had managed to arrive at the cave on its 16<sup>th</sup> birthday.
+We had managed to arrive at the cave on its 16^th^ birthday.
 Every surface was adorned with bunting while all the statues sported party hats.
 
-{% include gallery id="weta-cave" caption="We got to Wētā on their birthday" class="caption-center" %}
+{{< mm-gallery id="weta-cave" caption="We got to Wētā on their birthday" >}}
 
 My other half was the driver for us coming to New Zealand, to do a LoTR tour, as the films were transformational for them when they were younger.
 They also love 'The Hobbit' book and owned 3 copies from various prints.
@@ -160,7 +151,7 @@ They also love 'The Hobbit' book and owned 3 copies from various prints.
 Unfortunately for our bank account, there was a limited edition, illustrated copy of 'The Hobbit' in the Wētā cave.
 I was reliably informed that this edition had to come home with us.
 
-![stop-its-dead](/assets/images/new_zealand/5/stop_its_dead.png){: .align-center style="width: 50%;"}
+![stop-its-dead](stop_its_dead.png)
 
 ★★★★☆ 4/5 - If you want LoTR goodies, this shop is the place for you (but maybe not your bank manager).
 It is basically the same as the one in Auckland, however, so if you have been there don't go out of your way to this one (unless you are doing a tour).
@@ -209,7 +200,7 @@ The only thing left for us to do was to find somewhere to eat.
 
 We had heard that Wellington was famous for fantastic seafood.
 
-Teaming up with two of our tour-besties &mdash; the same pair we [went to dinner]({% post_url 2024-10-03-new-zealand-3 %}#atticus-finch) with before &mdash; we headed down to [The Crab Shack](https://www.crabshack.co.nz/book/the-crab-shack-wellington/).
+Teaming up with two of our tour-besties &mdash; the same pair we [went to dinner]({{< ref "2024-10-03-new-zealand-3" >}}#atticus-finch) with before &mdash; we headed down to [The Crab Shack](https://www.crabshack.co.nz/book/the-crab-shack-wellington/).
 
 It was a beautiful night[^2], the company was great, and the food delicious.
 My other half had a whole crab, which I was very jealous of.
@@ -218,7 +209,7 @@ My other half had a whole crab, which I was very jealous of.
 
 ★★★★☆ 4/5 - Very quick service and good food.
 
-## Sunday 9<sup>th</sup>: Talks in the Hotel
+## Sunday 9^th^: Talks in the Hotel
 
 Sunday is the day for rest.
 
@@ -245,7 +236,7 @@ Chris brought a lot of movie-used props with him for the day and talked about th
 
 I'm pretty surprised he didn't need an armed escort; some of those swords had to be worth a fair amount.
 
-![two-glamdrings](/assets/images/new_zealand/5/new_zealand_0909.jpeg "The hero and the prop Glamdring"){: .align-center style="width: 50%;"}
+![two-glamdrings](new_zealand_0909.jpeg "The hero and the prop Glamdring")
 
 We got to see the 'hero swords' &mdash; the swords used for all the close up shots with the actor &mdash; as well as the prop swords, allowing us to compare the two.
 
@@ -263,7 +254,7 @@ Photos, newspaper clippings, money from all corners of the planet, and customers
 
 ★★★★☆ 4/5 - A fun restaurant with reasonably priced, good food.
 
-## Monday 10<sup>th</sup>: Sponsored by Wētā
+## Monday 10^th^: Sponsored by Wētā
 
 Today was the day when the heavens were set to open.
 
@@ -276,7 +267,7 @@ With no better ideas of our own, off we went.
 
 ### Another Wētā tour
 
-There was always the risk that the [Wētā Workshop Experience](https://tours.wetaworkshop.com/wellington/tours/weta-workshop-experience/) was going to cover a lot of the content we had previously seen in the two ([1]({% post_url 2024-09-21-new-zealand-2 %}#weta-workshop-unleashed), [2]({% post_url 2024-10-21-new-zealand-5 %}#weta-workshop)) previous tours.
+There was always the risk that the [Wētā Workshop Experience](https://tours.wetaworkshop.com/wellington/tours/weta-workshop-experience/) was going to cover a lot of the content we had previously seen in the two ([1]({{< ref "2024-09-21-new-zealand-2" >}}#weta-workshop-unleashed), [2]({{< ref "2024-10-21-new-zealand-5" >}}#weta-workshop)) previous tours.
 
 The group for this tour was much smaller than the other ones.
 There were about 7 of us, so we were able to ask _way_ more questions about each thing we were shown.
@@ -303,7 +294,7 @@ From this room you could see inside the actual sword smithing workshop, where Sa
 Then we moved through the penultimate room; floor to ceiling shelves filled with props, models and artwork.
 However, unlike every other space in Wētā, we were allowed to pick up and 'play' with these.
 
-{% include gallery id="weta-take-2" caption="We tried on every helmet" class="caption-center" %}
+{{< mm-gallery id="weta-take-2" caption="We tried on every helmet" >}}
 
 The final room was a creative space where the tour guide walked us through 'model making 101'; they even asked us to create little tin foil models of our own.
 
@@ -313,7 +304,7 @@ Maybe I could _make_ things.
 Like I haven't.
 But I _could_.
 
-![one-simply-does](/assets/images/new_zealand/5/one_simply_does.png){: .align-center style="width: 50%;"}
+![one-simply-does](one_simply_does.png)
 
 Overall I think this tour was my favourite of the three we did (spoiler, this is the last one).
 I'm a fan of the LoTR, and I enjoyed the Auckland 'unleashed' experience, but this more personal tour really shone above the others.
@@ -330,7 +321,7 @@ Unable to escape Wētā Workshop, we went to the _Gallipoli: The Scale of Our Wa
 
 Each figure was 2.4 times human size, and words do not describe how lifelike they look.
 
-{% include gallery id="te-papa" caption="Gallipoli: The Scale of Our War" class="caption-center" %}
+{{< mm-gallery id="te-papa" caption="Gallipoli: The Scale of Our War" >}}
 
 Standing in the room with these figures was actually unnerving as I felt like I was just staring at a person frozen in time.
 Some deep part of my brain was telling me I was looking into the eyes of a real person.
@@ -344,7 +335,7 @@ Thus rounding out our day and our time in Wellington.
 
 ★★★★☆ 4/5 - If you're like me and love a museum this is a solid must for a rainy day.
 
-## Tuesday 11<sup>th</sup>: The South Island
+## Tuesday 11^th^: The South Island
 
 That wraps up the North Island of New Zealand.
 
@@ -356,6 +347,4 @@ Once again I decided that I was too poor to live there.
 Next time we will be flying down South to Queenstown.
 
 Kia Ora!
-See you in [part 6]({% post_url 2025-01-11-new-zealand-6 %})!
-
-{:footnotes}
+See you in [part 6]({{< ref "2025-01-11-new-zealand-6" >}})!

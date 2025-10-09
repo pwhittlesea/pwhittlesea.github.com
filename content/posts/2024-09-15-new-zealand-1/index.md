@@ -1,20 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-1/"
 title: "I visited New Zealand - Part 1"
 date: 2024-09-15 20:00:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 1
 
-tagline: &tagline >
-  I know you shouldn't get swept away by the small snippet you see of a county when you go on holiday, but I did.
-  <br/>
-  New Zealand stole my heart and I wish I could move there.
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
-  og_image: /assets/images/new_zealand/1/teaser.jpg
-  teaser: /assets/images/new_zealand/1/teaser.jpg
+summary: "I know you shouldn't get swept away by the small snippet you see of a county when you go on holiday, but I did. New Zealand stole my heart and I wish I could move there."
 
 maps:
   - name: london_to_auckland
@@ -31,28 +25,24 @@ maps:
         lon: 174.791667
 
 vineyards:
-  - url: /assets/images/new_zealand/1/new_zealand_0647.jpg
-    image_path: /assets/images/new_zealand/1/new_zealand_0647.jpg
+  - url: new_zealand_0647.jpg
+    image_path: new_zealand_0647.jpg
     title: "The Waiheke Bay"
-  - url: /assets/images/new_zealand/1/new_zealand_0648.jpg
-    image_path: /assets/images/new_zealand/1/new_zealand_0648.jpg
+  - url: new_zealand_0648.jpg
+    image_path: new_zealand_0648.jpg
     title: "More Waiheke Bay"
-  - url: /assets/images/new_zealand/1/new_zealand_0652.jpg
-    image_path: /assets/images/new_zealand/1/new_zealand_0652.jpg
+  - url: new_zealand_0652.jpg
+    image_path: new_zealand_0652.jpg
     title: "The view out over Stonyridge Vineyard"
 
 zoo:
-  - url: /assets/images/new_zealand/1/new_zealand_0690.jpg
-    image_path: /assets/images/new_zealand/1/new_zealand_0690.jpg
+  - url: new_zealand_0690.jpg
+    image_path: new_zealand_0690.jpg
     title: "The Nocturnal Kiwi"
-  - url: /assets/images/new_zealand/1/new_zealand_0705.jpg
-    image_path: /assets/images/new_zealand/1/new_zealand_0705.jpg
+  - url: new_zealand_0705.jpg
+    image_path: new_zealand_0705.jpg
     title: "The Tasmanian Devil"
 ---
-
-This is part 1 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
 
 ## Short Notice
 
@@ -63,10 +53,8 @@ From an extensive amount of research on the best way to see the country, we deci
 We could self-guide our way around, visiting all the places separately, but the idea of the Tour appealed to us.
 If there were any issues the tour company would manage them for us and, if we were lucky, we would get to see some lesser known spots that only the locals knew about.
 
-The idea of travelling up and down New Zealand on a coach full of LoTR nerds filled me with dread because I had never read the books.
+The idea of travelling up and down New Zealand on a coach full of {{< term "LoTR" >}} nerds filled me with dread because I had never read the books.
 But, I reminded myself, this was a _film location tour_, the nerds going were film fans; I should be able to blend in.
-
-*[LoTR]: Lord of the Rings
 
 Red Carpet Tours are booked _far_ in advance (as of writing they are booked up for the next three years) so we signed up to their mailing list to catch any cancellations.
 
@@ -74,7 +62,7 @@ We waited...
 
 And we waited...
 
-Then, almost as we had forgotten about it, on the 18<sup>th</sup> September 2023, we received word that an opening had appeared on the June 12 Day winter[^1] tour, and my credit card was hurled into the fires of Mordor.
+Then, almost as we had forgotten about it, on the 18^th^ September 2023, we received word that an opening had appeared on the June 12 Day winter[^1] tour, and my credit card was hurled into the fires of Mordor.
 
 Was it expensive, yes.
 Was it worth every penny, absolutely.
@@ -104,13 +92,13 @@ This blog is going to exclude a lot of the details of the tour days because I th
 
 The tour organised all the evening accommodation for us and I feared that they would have booked us in the worst hotels to increase their profit[^2].
 This could not have been further from the truth.
-Every hotel room we stayed in was spacious and many had [phenomenal views](/assets/images/new_zealand/1/new_zealand_0862.jpg).
+Every hotel room we stayed in was spacious and many had [phenomenal views](new_zealand_0862.jpg).
 They were centrally located in every town we stayed in, and I doubt I could have booked nicer ones myself.
 
 <!-- markdown-link-check-disable-next-line -->
 [^2]: #capitalism
 
-The worst part of the tour was a dates mix-up in the initial email that gave us the 13<sup>th</sup> as the departure day, when it was actually the 12<sup>th</sup>.
+The worst part of the tour was a dates mix-up in the initial email that gave us the 13^th^ as the departure day, when it was actually the 12^th^.
 Turning lemons into lemonade, the whole tour group didn't actually mind as it gave us an extra day to visit various sights (we went to Milford Sound).
 
 Overall, I don't think anything we self organised would have been as fun as what we got.
@@ -120,11 +108,11 @@ Thank you, Julie and the team!
 
 ## We're going on an ~~Adventure~~ Tour
 
-![it-begins](/assets/images/new_zealand/1/and_so_it_begins.gif "And so it begins"){: .align-center}
+![it-begins](and_so_it_begins.gif)
 
-### Wednesday 29<sup>th</sup>: Flying to New Zealand
+### Wednesday 29^th^: Flying to New Zealand
 
-{% include map.html name="london_to_auckland" waypoints="false" %}
+{{< map name="london_to_auckland" waypoints="false" >}}
 
 When flying halfway around the planet to _basically_ the antipode of where I live, I wanted to leave a bit of buffer.
 If we had a delay or cancellation we might end up losing a few days finding a new flight.
@@ -136,7 +124,7 @@ It wasn't helped that the last 3 hours of the flight was plagued with turbulence
 Given all that, we flew from Heathrow to Auckland via Singapore without any delays.
 Singapore Airlines were fantastic, and the Premium Economy seats my partner bullied me into booking were quite comfortable.
 
-### Friday 31<sup>st</sup>: Naps on the 35<sup>th</sup> Floor
+### Friday 31^st^: Naps on the 35^th^ Floor
 
 Arriving at Auckland I was not as overjoyed to be in New Zealand as I expected, but I was overjoyed to see the bed in my hotel room after 31 hours of travel.
 We promptly dozed on and off for the next 6 hours; catching up on at least one night's sleep.
@@ -151,11 +139,11 @@ Maybe they were taking pity on us having travelled halfway around the planet, bu
 
 We liked it so much we stayed there on our way back and would go again for the views alone.
 
-If we didn't have such a [mind-blowing view](/assets/images/new_zealand/1/new_zealand_0733.jpg) from our room on the 35<sup>th</sup> floor then I would say the views from the rooftop bar on the 38<sup>th</sup> would have dropped my jaw.
+If we didn't have such a [mind-blowing view](new_zealand_0733.jpg) from our room on the 35^th^ floor then I would say the views from the rooftop bar on the 38^th^ would have dropped my jaw.
 Auckland reminded me of London, except not as claustrophobic.
 Maybe it was the fact we were staying in the business district, but the city as a whole seemed quiet while we were there.
 
-### Saturday 1<sup>st</sup>: Waiheke Island
+### Saturday 1^st^: Waiheke Island
 
 We have gotten in the habit of not booking everything before we go anywhere; instead only booking key events that might sell out, and then seeing what the weather is like on the day.
 This paid off for us because the weather the next day was _warm_.
@@ -172,7 +160,7 @@ However, summer seemed to follow us to each of the vineyards, and we enjoyed the
 
 You could argue that we relaxed too much and that handful of vineyards turned into two and a brewery :beer:.
 
-{% include gallery id="vineyards" caption="Waiheke Island was tranquil" class="caption-center" %}
+{{< mm-gallery id="vineyards" caption="Waiheke Island was tranquil" >}}
 
 [Stonyridge Vineyard](https://stonyridge.com/) was our first stop, and it _set the tone_.
 The view out over the vineyard (pictured above), the sounds of nature, and the comfy chairs, convinced us to have some food and stay a while.
@@ -190,11 +178,12 @@ The days were short, so we headed back to Auckland.
 
 On the boat back we did what any middle-aged couple would do, and we checked out the house prices on the island.
 
-![oof-size-large](/assets/images/new_zealand/1/oof.jpg){: .align-center style="width: 50%;"}
+![oof-size-large](oof.jpg)
+{style="width: 50%;"}
 
 At the time we thought that we had visited what would be called an '[Area of Outstanding Natural Beauty](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)' in the UK, not knowing then that most of New Zealand seems to fit that description.
 
-### Sunday 2<sup>nd</sup>: Auckland Zoo
+### Sunday 2^nd^: Auckland Zoo
 
 I'm going to speculate a Zoo can tell you a lot about a country.
 If a country cares for its animals, then I suppose that the Zoo will carefully balance the needs of the animals against them being an attraction, instead of primarily being 'on display' to entertain people.
@@ -216,7 +205,7 @@ I was happy to find out it wasn't because it's adorable!
 
 [^4]: I'm sorry New Zealand, please let me in again!
 
-{% include gallery id="zoo" caption="Animals I had never seen before" class="caption-center" %}
+{{< mm-gallery id="zoo" caption="Animals I had never seen before" >}}
 
 One of the things we did book before we got to New Zealand was the [Sky Tower](https://skycityauckland.co.nz/sky-tower/).
 We heard it was something we shouldn't miss and that it gets booked up quick.
@@ -228,12 +217,10 @@ The fog that rolled in disagreed, and we got to spend the evening looking a whit
 
 3/10 would fog again.
 
-### Monday 3<sup>rd</sup>: The Tour Begins
+### Monday 3^rd^: The Tour Begins
 
 I'm going to leave it here for part 1.
 This feels like a good stopping point.
 
 Kia Ora!
-See you in [part 2]({% post_url 2024-09-21-new-zealand-2 %})!
-
-{:footnotes}
+See you in [part 2]({{< ref "2024-09-21-new-zealand-2" >}})!

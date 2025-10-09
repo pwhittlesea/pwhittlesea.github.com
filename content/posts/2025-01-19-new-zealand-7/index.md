@@ -1,18 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-7/"
 title: "I visited New Zealand - Part 7"
 date: 2025-01-19 14:26:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 7
 
-tagline: &tagline "The last day of our organised tour takes us off-road to our final filming locations."
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/7/new_zealand_0977.jpeg
-  overlay_filter: 0.5
-  og_image: /assets/images/new_zealand/7/teaser.jpeg
-  teaser: /assets/images/new_zealand/7/teaser.jpeg
+summary: "The last day of our organised tour takes us off-road to our final filming locations."
 
 maps:
   - name: safari
@@ -60,90 +56,83 @@ maps:
         lon: 168.66279045647295
 
 nomad:
-  - url: /assets/images/new_zealand/7/new_zealand_0977.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_0977.jpeg
+  - url: new_zealand_0977.jpeg
+    image_path: new_zealand_0977.jpeg
     title: "One car with the license plate 'SARUMN'"
-  - url: /assets/images/new_zealand/7/new_zealand_1716.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1716.jpeg
+  - url: new_zealand_1716.jpeg
+    image_path: new_zealand_1716.jpeg
     title: "Another car with the license plate 'LGOLAS'"
-  - url: /assets/images/new_zealand/7/new_zealand_1872.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1872.jpeg
+  - url: new_zealand_1872.jpeg
+    image_path: new_zealand_1872.jpeg
     title: "A final car with the license plate 'ISLDUR'"
 
 nomad-beorns-hall:
-  - url: /assets/images/new_zealand/7/new_zealand_1718.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1718.jpeg
+  - url: new_zealand_1718.jpeg
+    image_path: new_zealand_1718.jpeg
     title: "The mountains around Isengard that we couldn't get to because it was raining too hard"
-  - url: /assets/images/new_zealand/7/new_zealand_1721.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1721.jpeg
+  - url: new_zealand_1721.jpeg
+    image_path: new_zealand_1721.jpeg
     title: "The location of Beorn's Hall, exploded X-Men farmhouse in the foreground"
-  - url: /assets/images/new_zealand/7/new_zealand_1725.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1725.jpeg
+  - url: new_zealand_1725.jpeg
+    image_path: new_zealand_1725.jpeg
     title: "A mist covered Lothlórien"
 
 nomad-lothlorien:
-  - url: /assets/images/new_zealand/7/new_zealand_1740.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1740.jpeg
+  - url: new_zealand_1740.jpeg
+    image_path: new_zealand_1740.jpeg
     title: "The forests of Lothlórien"
-  - url: /assets/images/new_zealand/7/new_zealand_0982.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_0982.jpeg
+  - url: new_zealand_0982.jpeg
+    image_path: new_zealand_0982.jpeg
     title: "A duel of the most epic kind"
 
 nomad-oliphaunt:
-  - url: /assets/images/new_zealand/7/new_zealand_1771.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1771.jpeg
+  - url: new_zealand_1771.jpeg
+    image_path: new_zealand_1771.jpeg
     title: "Me and someone else from our group, reproducing the Oliphaunt scene"
-  - url: /assets/images/new_zealand/7/new_zealand_1767.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1767.jpeg
+  - url: new_zealand_1767.jpeg
+    image_path: new_zealand_1767.jpeg
     title: "The view from Ithilien Lookout"
-  - url: /assets/images/new_zealand/7/new_zealand_1779.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1779.jpeg
+  - url: new_zealand_1779.jpeg
+    image_path: new_zealand_1779.jpeg
     title: "Po. Tay. Toes."
 
 nomad-skippers:
-  - url: /assets/images/new_zealand/7/new_zealand_1791.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1791.jpeg
+  - url: new_zealand_1791.jpeg
+    image_path: new_zealand_1791.jpeg
     title: "A view from the Land Cruiser"
-  - url: /assets/images/new_zealand/7/new_zealand_1795.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1795.jpeg
+  - url: new_zealand_1795.jpeg
+    image_path: new_zealand_1795.jpeg
     title: "The valley was sparse and windy"
 
 nomad-bruinen:
-  - url: /assets/images/new_zealand/7/new_zealand_1816.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1816.jpeg
+  - url: new_zealand_1816.jpeg
+    image_path: new_zealand_1816.jpeg
     title: "Our view while panning for gold"
-  - url: /assets/images/new_zealand/7/new_zealand_1824.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1824.jpeg
+  - url: new_zealand_1824.jpeg
+    image_path: new_zealand_1824.jpeg
     title: "If you want him, come and claim him"
 
 nomad-argonath:
-  - url: /assets/images/new_zealand/7/new_zealand_1844.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1844.jpeg
+  - url: new_zealand_1844.jpeg
+    image_path: new_zealand_1844.jpeg
     title: "Although a lot of CGI was used, this is the river that the two kings stood, arms raised"
 
 ice:
-  - url: /assets/images/new_zealand/7/new_zealand_1885.jpeg
-    image_path: /assets/images/new_zealand/7/new_zealand_1885.jpeg
+  - url: new_zealand_1885.jpeg
+    image_path: new_zealand_1885.jpeg
     title: "Our drinks in ice 'glasses' at the Ice Bar"
 ---
 
-This is part 7 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
-
-We left [part 6]({% post_url 2025-01-11-new-zealand-6 %}) after a full day on a coach, visiting individual filming locations in the area of Queenstown.
+We left [part 6]({{< ref "2025-01-11-new-zealand-6" >}}) after a full day on a coach, visiting individual filming locations in the area of Queenstown.
 The final day of the tour was an optional activity day, allowing each member of the tour group to pick from several activities (or go completely off on their own).
 
 When we had originally booked the tour, we had been given the choice of:
 
-1. An exciting [4WD LoTR tour](https://www.nomadsafaris.co.nz/tours/lord-of-the-rings/full-day-lord-of-the-rings/)
+1. An exciting [4WD {{< term "LoTR" >}} tour](https://www.nomadsafaris.co.nz/tours/lord-of-the-rings/full-day-lord-of-the-rings/)
 2. A peaceful and indulgent [Wine Tour](https://www.queenstownwinetrail.co.nz/small-group-tours/)
 3. The beautiful [Doubtful Sound Day Tour](https://www.realnz.com/en/destinations/doubtful-sound/)
 4. The breathtaking [Milford Sound Day Tour](https://www.realnz.com/en/destinations/milford-sound/)
 5. An extravagant [Glacier LoTR Helicopter Flight](https://www.glaciersouthernlakes.co.nz/scenic-helicopter-flights/middle-earth-heli-flights/lotr-glacier-explorer-107/)
-
-*[LoTR]: Lord of the Rings
-*[4WD]: Four-Wheel Drive
 
 Now, we _really_ wanted to do the helicopter tour.
 _Really_ wanted to do it.
@@ -151,36 +140,38 @@ But we had already spent all of our savings to get to New Zealand, and we both h
 That, coupled with the £1000 it would cost us, meant it was off the table.
 Maybe another time.
 
-We knew we were going to spend a couple of days at the start of our holiday in Auckland, near the vineyards on [Waiheke Island]({% post_url 2024-09-15-new-zealand-1 %}#saturday-1st-waiheke-island), so the wine tour was not for us.
+We knew we were going to spend a couple of days at the start of our holiday in Auckland, near the vineyards on [Waiheke Island]({{< ref "2024-09-15-new-zealand-1" >}}#saturday-1st-waiheke-island), so the wine tour was not for us.
 
 Choosing between the day tours and the 4WD tour was hard, but we were there to do LoTR stuff, so we picked the 4WD tour.
 
-## Thursday 13<sup>th</sup>: The Tour Wraps Up
+## Thursday 13^th^: The Tour Wraps Up
 
-{% capture safari-caption %}
-The locations the Safari would take us to.\
-**Yellow**{: style="color: #ccbb44"} in the morning and **blue**{: style="color: #66ccee"} in the afternoon.\
-{% endcapture %}
-{% include map.html name="safari" caption=safari-caption %}
+{{< map
+    name="safari"
+    caption=`The locations the Safari would take us to.\
+      **Yellow** in the morning and **blue** in the afternoon.`
+    >}}
 
 ### Nomad 4WD Safari - Part 1
 
 So we had signed up for the full day LoTR tour, which meant a 8am start, practically the afternoon.
 The tour was set to take us about nine and a half hours, including a break for lunch.
 
+<!-- markdownlint-disable MD033 -->
 Nomad Safaris do two half day tours, with a full day tour which is both separated by lunch.
 The first tour heads North-West of Queenstown, up and along the Wakatipu Lake edge to the small hamlet of Glenorchy.
-This morning tour would visit all the **yellow**{: style="color: #ccbb44"} points on the map above.
+This morning tour would visit all the <span class="underline tw:decoration-2 tw:decoration-[#ccbb44]!">Yellow</span> points on the map above.
 
 The second tour is more 'rugged' and would take us North-East of Queenstown to Gibbston Valley, Arrowtown and the Skippers Canyon Road.
-This afternoon tour would take us to all the **blue**{: style="color: #66ccee"} points on the map above.
+This afternoon tour would take us to all the <span class="underline tw:decoration-2 tw:decoration-[#66ccee]!">Blue</span> points on the map above.
+<!-- markdownlint-enable MD033 -->
 
 As we stepped out of the hotel, a convoy of three Toyota 4WD Land Cruisers awaited us outside.
 Each had a LoTR license plate and enough space for a driver and six people (as long as those people are thin, which I am not).
 
 We pressed ourselves into the cars and away we went!
 
-{% include gallery id="nomad" caption="Our 4x4s had thematic license plates" class="caption-center" %}
+{{< mm-gallery id="nomad" caption="Our 4x4s had thematic license plates" >}}
 
 Now, I don't normally get car sick, but being squeezed into the back of one of these Toyota 4WD Land Cruisers got me feeling queasy.
 The soft suspension, the inability to see out the front because I was in the back, and the winding roads, all added up to a morning of nausea.
@@ -206,7 +197,7 @@ From here we could also see 'Isengard', but the fog was so thick it was difficul
 On the one hand, it's a shame, because we wanted to see it.
 On the other hand, we had seen a _lot_ of mountains so far this holiday; it wasn't a massive loss.
 
-{% include gallery id="nomad-beorns-hall" class="caption-center" caption="It was a gloomy, rainy day. These were the best photos we took" %}
+{{< mm-gallery id="nomad-beorns-hall" caption="It was a gloomy, rainy day. These were the best photos we took" >}}
 
 We normally would have continued north to see more of Isengard, but the weather was bad enough that it had flooded the road.
 The cars were fitted with [snorkels](https://en.wikipedia.org/wiki/Vehicle_snorkel), but it sounded like the water was deeper than the tour guides felt comfortable driving through.
@@ -219,18 +210,18 @@ Even though it had only been an hour and a half since we set off, as any honest 
 The guides handed out some replica LoTR weapons, and we proceeded to pass the time pretending to sword fight each other.
 It was quite fun.
 
-{% include gallery id="nomad-lothlorien" class="caption-center" caption="We are never too old to play with swords" %}
+{{< mm-gallery id="nomad-lothlorien" caption="We are never too old to play with swords" >}}
 
 #### Ithilien Lookout
 
 With the rain easing, we headed back towards Queenstown, stopping short at the '12 Mile Delta' campsite.
 Just a small trek through the forest leads you to the ridge used as the filming location for Ithilien, where Frodo and Sam spot the Oliphaunts in 'The Lord of the Rings: The Two Towers'.
 
-{% include gallery id="nomad-oliphaunt" class="caption-center" caption="Are you are never too old to play pretend" %}
+{{< mm-gallery id="nomad-oliphaunt" caption="Are you are never too old to play pretend" >}}
 
 We had a bit of fun reproducing the scenes, and once again I was too busy 'taking it all in' and missed my other half posing for a 'Po. Tay. Toes' photo.
 
-![po-tay-toes](/assets/images/new_zealand/7/po-tay-toes.gif "Po. Tay. Toes."){: .align-center}
+![po-tay-toes](po-tay-toes.gif "Po. Tay. Toes.")
 
 This was the last stop on the morning tour which Nomad Safaris market as a [half-day tour](https://www.nomadsafaris.co.nz/tours/lord-of-the-rings/glenorchy/) which you can do on its own.
 
@@ -272,12 +263,22 @@ Skippers Road is a single width road, with enough space for one car, next to a h
 
 The pictures I took didn't do this ledge justice, but I found one on Google Maps, uploaded by 'Will Heesterman':
 
-<!-- markdownlint-disable-next-line MD033 -->
-<iframe markdown="0" src="https://www.google.com/maps/embed?pb=!4v1736702653477!6m8!1m7!1sCAoSLEFGMVFpcE5XM1BiUnZfTGR1eDl0c2ViclNhdnI4RkZJOVlMemUxRWNFVTlJ!2m2!1d-44.92436601161135!2d168.6916655594491!3f214.64!4f-11.510000000000005!5f0.4000000000000002" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- markdownlint-disable MD033 -->
+<iframe
+    markdown="0"
+    src="https://www.google.com/maps/embed?pb=!4v1736702653477!6m8!1m7!1sCAoSLEFGMVFpcE5XM1BiUnZfTGR1eDl0c2ViclNhdnI4RkZJOVlMemUxRWNFVTlJ!2m2!1d-44.92436601161135!2d168.6916655594491!3f214.64!4f-11.510000000000005!5f0.4000000000000002"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<!-- markdownlint-enable MD033 -->
 
 Although dangerous, it was exhilarating as we traversed the side of the hill like mountain goats, travelling for about fifteen minutes into the canyon and back.
 
-{% include gallery id="nomad-skippers" class="caption-center" caption="I've heard it's less brown in Summer" %}
+{{< mm-gallery id="nomad-skippers" caption="I've heard it's less brown in Summer" >}}
 
 It was here, while looking down the sheer drop, that it began to snow.
 We were in New Zealand at the start of Skiing season, so we expected it to snow at some point.
@@ -295,13 +296,13 @@ After informing me I had ten minutes to use the bathroom, I was left wondering i
 
 We were not in Arrowtown for the architecture, however, we were travelling through to go to the Arrow River, which was used as the filming location for the 'Ford of Bruinen'.
 
-{% include gallery id="nomad-bruinen" class="caption-center" caption="If you want him, come and claim him!" %}
+{{< mm-gallery id="nomad-bruinen" caption="If you want him, come and claim him!" >}}
 
 This is where we got to make use of the snorkels on the Land Cruisers as our drivers took us fording through the river multiple times, weaving from one bank to the other.
 You could tell this was a part of the job our driver loved as he kept hanging back from the convoy, so he could go faster down though the water and up the other side.
 It felt like we were on a roller coaster and I loved every minute.
 
-Once we had forded the river for what felt like the 5<sup>th</sup> time, we stopped at the filming location of the 'Ford of Bruinen'.
+Once we had forded the river for what felt like the 5^th^ time, we stopped at the filming location of the 'Ford of Bruinen'.
 It had been a hard afternoon of pointing and looking at things, so we naturally had some tea and cake while we were taught how to use a pan to pan for gold.
 
 I hate to disappoint, but I did not find any gold.
@@ -312,18 +313,16 @@ After failing to boost my wealth, we jumped back in the cars and headed to our f
 
 #### The Argonath (Pillars of the Kings) on the Anduin River
 
-As with all the filming locations we had seen on this holiday, there was normally a bit of CGI tomfoolery used in the films; meaning the physical location is only partially recognisable.
+As with all the filming locations we had seen on this holiday, there was normally a bit of {{< term "CGI" >}} tomfoolery used in the films; meaning the physical location is only partially recognisable.
 The Argonath was by far the worst location for this.
 
-*[CGI]: Computer-generated imagery
-
-{% include gallery id="nomad-argonath" class="caption-center" caption="Someone stole the two giant statues" %}
+{{< mm-gallery id="nomad-argonath" caption="Someone stole the two giant statues" >}}
 
 Maybe it was a bit too much to expect two several-hundred meter tall status lining the side of the river, but if you had not told me what I was looking at, I wouldn't have guessed it was featured in LoTR at all.
 
 It was still a stunning view regardless.
 
-This final location added a nice symmetry to our time in Queenstown, as this location overlooked the Bungy centre [we visited]({% post_url 2025-01-11-new-zealand-6 %}#kawarau-gorge) after landing two days ago.
+This final location added a nice symmetry to our time in Queenstown, as this location overlooked the Bungy centre [we visited]({{< ref "2025-01-11-new-zealand-6" >}}#kawarau-gorge) after landing two days ago.
 
 And with that, our 4WD adventure had come to an end.
 
@@ -356,7 +355,7 @@ I would not have heard many of the stories from locals about the filming.
 
 The tour turned what would have been ten days of me and my other half cramped into a rental car into a fun, relaxing, and educational experience, where every logistical detail was handled for me; I only needed to be present.
 
-We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
+We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({{< ref "2024-10-12-new-zealand-4" >}}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({{< ref "2024-10-03-new-zealand-3" >}}#hobbiton).
 
 If you're reading this, and you can, hit up [Red carpet tours](https://www.redcarpet-tours.com).
 It was worth every penny, and more.
@@ -372,7 +371,7 @@ Unfortunately the two people they had planned to go with had fallen ill, so we w
 We visited [Minus 5º ICE BAR](https://minus5icebar.com/), which brands itself as the "coolest experience and an adventure you’ll never forget".
 Big enough to host around thirty people, the bar had walls of ice, furniture made of ice, and even glasses made of ice.
 
-{% include gallery id="ice" class="caption-center" caption="Frosty" %}
+{{< mm-gallery id="ice" caption="Frosty" >}}
 
 As we arrived the bar provided &mdash; and required we wear &mdash; knee-length thick jackets, so we wouldn't 'freeze to death'.
 In a room made of ice it was understandably cold.
@@ -383,12 +382,10 @@ Given it was so cold, we only stayed about an hour, preferring to head back to a
 
 ★★★★☆ 4/5 - We didn't pay for entry, so I can't comment on the cost, but it was interesting.
 
-## Friday 14<sup>th</sup>: Milford Sound
+## Friday 14^th^: Milford Sound
 
 Our tour is over, but our holiday still has a couple of days in it.
 Tomorrow we head to the breathtaking Milford Sound; an unofficial 'eighth Wonder of the World'.
 
 Kia Ora!
-See you in [part 8]({% post_url 2025-02-02-new-zealand-8 %})!
-
-{:footnotes}
+See you in [part 8]({{< ref "2025-02-02-new-zealand-8" >}})!

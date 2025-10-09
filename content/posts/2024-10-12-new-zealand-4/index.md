@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-4/"
 title: "I visited New Zealand - Part 4"
 date: 2024-10-12 12:20:00 +0100
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 4
 
-tagline: &tagline "Our quest down the northern island of New Zealand continues, taking us from Rotorua to Wellington, via Middle Earth"
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/1/new_zealand_0862.jpg
-  og_image: /assets/images/new_zealand/4/teaser.jpg
-  teaser: /assets/images/new_zealand/4/teaser.jpg
+summary: "Our quest down the northern island of New Zealand continues, taking us from Rotorua to Wellington, via Middle Earth"
 
 maps:
   - name: to-new-plymouth
@@ -40,61 +37,56 @@ maps:
         lat: -41.291761454471406
         lon: 174.78748114376063
 
+
 glow-worm:
-  - url: /assets/images/new_zealand/4/new_zealand_1053.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1053.jpeg
+  - url: new_zealand_1053.jpeg
+    image_path: new_zealand_1053.jpeg
     title: "This is my best (and only) picture of the cave"
 
 hairy-feet:
-  - url: /assets/images/new_zealand/4/new_zealand_0822.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_0822.jpeg
+  - url: new_zealand_0822.jpeg
+    image_path: new_zealand_0822.jpeg
     title: "The path up to Staddle Farm"
-  - url: /assets/images/new_zealand/4/new_zealand_0826.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_0826.jpeg
+  - url: new_zealand_0826.jpeg
+    image_path: new_zealand_0826.jpeg
     title: "The beautiful mountains overlooking the filming locations"
-  - url: /assets/images/new_zealand/4/new_zealand_1175.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1175.jpeg
+  - url: new_zealand_1175.jpeg
+    image_path: new_zealand_1175.jpeg
     title: "A view out across the rolling hills"
 
 hairy-sitting:
-  - url: /assets/images/new_zealand/4/new_zealand_0837-full.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_0837-full.jpeg
+  - url: new_zealand_0837-full.jpeg
+    image_path: new_zealand_0837-full.jpeg
 
 hairy-sting:
-  - url: /assets/images/new_zealand/4/new_zealand_1138-full.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1138-full.jpeg
+  - url: new_zealand_1138-full.jpeg
+    image_path: new_zealand_1138-full.jpeg
 
 hairy-rock:
-  - url: /assets/images/new_zealand/4/new_zealand_1205-full.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1205-full.jpeg
+  - url: new_zealand_1205-full.jpeg
+    image_path: new_zealand_1205-full.jpeg
 
 hairy-swords:
-  - url: /assets/images/new_zealand/4/new_zealand_1073.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1073.jpeg
+  - url: new_zealand_1073.jpeg
+    image_path: new_zealand_1073.jpeg
     title: "My other half always looks at home holding a sword"
-  - url: /assets/images/new_zealand/4/new_zealand_1078.jpeg
-    image_path: /assets/images/new_zealand/4/new_zealand_1078.jpeg
+  - url: new_zealand_1078.jpeg
+    image_path: new_zealand_1078.jpeg
     title: "Me, as dabbing Gandalf"
 ---
 
-This is part 4 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
-
 Welcome back to our Tour through New Zealand.
-We finished in [part 3]({% post_url 2024-10-03-new-zealand-3 %}) in the town of Rotorua.
+We finished in [part 3]({{< ref "2024-10-03-new-zealand-3" >}}) in the town of Rotorua.
 
 The weather was so perfect for Hobbiton, so we were on a high.
 This holiday was going so well, and it couldn't possibly get any better.
 
-Having seen the most famous filming location of the LoTR films, you would be forgiven for thinking it was all downhill from here.
+Having seen the most famous filming location of the {{< term "LoTR" >}} films, you would be forgiven for thinking it was all downhill from here.
 This couldn't be further from the truth.
 
-*[LoTR]: Lord of the Rings
+## Thursday 6^th^: Trollshaw Forest
 
-## Thursday 6<sup>th</sup>: Trollshaw Forest
-
-{% include map.html name="to-new-plymouth" %}
+{{< map name="to-new-plymouth" >}}
 
 Today we were travelling South-West to New Plymouth.
 We would be spending about 5 hours in the coach travelling between the two cities; a fact not made better by a 06:30 start[^1].
@@ -134,7 +126,7 @@ The tour then turned to the main event: glow-worms.
 
 We embarked on a short boat ride through the glow-worm grotto, which would allow us to see them in their natural habitat, the **_pitch black_**.
 
-![pitch-black](/assets/images/new_zealand/4/riddick.png){: .align-center style="width: 50%;"}
+![pitch-black](riddick.png)
 
 No artificial light was allowed in the caves because it disturbs the glow-worms, so it was just us, floating through the darkness.
 
@@ -143,7 +135,7 @@ We had seen some glow-worms at the Māori cultural evening, but that was nothing
 Hundreds of glow-worms adorned the roof of the grotto; it looked as if we were sat under the stars (but we were deep underground).
 It was almost silent, except for the sounds of the boat moving slowly through the water, as we gazed up in awe.
 
-{% include gallery id="glow-worm" caption="The boat we took through the glow-worm grotto" class="caption-center" %}
+{{< mm-gallery id="glow-worm" caption="The boat we took through the glow-worm grotto" >}}
 
 As we emerged from the darkness of the cave I was sad it couldn't have lasted longer.
 It was about an hour, and I don't normally get to see glow-worms in the UK, so I wished I could have stayed all day.
@@ -172,35 +164,35 @@ My group getting a tour from Suzie, and the other Warrick.
 We were guided around their land for about 2 hours, beginning at the filming location of Staddle Farm; the abandoned farmhouse in Trollshaw Forest.
 Although cool, I spent more time in awe of the beautiful mountain range that loomed in the background.
 
-{% include gallery id="hairy-feet" caption="Beautiful views in every direction" class="caption-center" %}
+{{< mm-gallery id="hairy-feet" caption="Beautiful views in every direction" >}}
 
 As we were guided around, Suzie told us personal stories from filming that really brought the tour to life.
 Even pointing out the exact rock Richard Armitage sat on when reading his lines:
 
-{% capture hairy-sitting-caption %}
-**Top**: Behind the scenes still from The Hobbit: An Unexpected Journey\
-**Bottom**: My other half, sitting on the same rock
-{% endcapture %}
-{% include gallery id="hairy-sitting" caption=hairy-sitting-caption class="caption-center" %}
+{{< mm-gallery
+    id="hairy-sitting"
+    caption=`**Top**: Behind the scenes still from The Hobbit: An Unexpected Journey\
+      **Bottom**: My other half, sitting on the same rock`
+    >}}
 
 We then travelled into the forest, seeing the Trolls hoard 'cave' where Bilbo is gifted Sting by Gandalf:
 
-{% capture hairy-sting-caption %}
-**Top**: Still from The Hobbit: An Unexpected Journey\
-**Bottom**: My other half, finding sting under the same rock
-{% endcapture %}
-{% include gallery id="hairy-sting" caption=hairy-sting-caption class="caption-center" %}
+{{< mm-gallery
+    id="hairy-sting"
+    caption=`**Top**: Still from The Hobbit: An Unexpected Journey\
+      **Bottom**: My other half, finding sting under the same rock`
+    >}}
 
 The same forest was also used for the scene where Radagast finds Thorin and Company, and hands Gandalf a morgul blade.
 
 Heading back out of the forest we toured locations used for the newer 'The Lord of the Rings: The Rings of Power';
 such as the rock that the 'Mysterious Stranger' stands on to look at the stars:
 
-{% capture hairy-rock-caption %}
-**Top**: Still from The Lord of the Rings: The Rings of Power\
-**Bottom**: Me, having almost fallen off the rock twice
-{% endcapture %}
-{% include gallery id="hairy-rock" caption=hairy-rock-caption class="caption-center" %}
+{{< mm-gallery
+    id="hairy-rock"
+    caption=`**Top**: Still from The Lord of the Rings: The Rings of Power\
+      **Bottom**: Me, having almost fallen off the rock twice`
+    >}}
 
 Suzie was a _fantastic_ tour guide and made the experience unique and enjoyable.
 No question our group asked was too stupid, and always got a fun story in response.
@@ -213,7 +205,7 @@ Hobbiton was great, but it was more like a LoTR 'Disneyland'; polished for touri
 Whereas Hairy Feet felt more authentic.
 We weren't rushed, we got to ask plenty of questions, and Suzie's excitement at showing us around was genuinely infectious.
 
-{% include gallery id="hairy-swords" caption="Plus, they let us hold some replica swords!" class="caption-center" %}
+{{< mm-gallery id="hairy-swords" caption="Plus, they even let us hold some replica swords!" >}}
 
 ★★★★★ 5/5 - This was a fantastic family run tour!
 
@@ -230,9 +222,9 @@ All we did was crash on our hotel bed and order some room service.
 In retrospect, we should have gone out to see _something_, but we were too tired.
 The [Novotel New Plymouth Taranaki](https://all.accor.com/hotel/9521/index.en.shtml) was a nice hotel regardless.
 
-## Friday 7<sup>th</sup>: Wellington Bound
+## Friday 7^th^: Wellington Bound
 
-{% include map.html name="to-wellington" %}
+{{< map name="to-wellington" >}}
 
 The downside of having to cover the whole of the North island to get from Auckland to Wellington, is that there's a lot of country to get across.
 Lacking the ability to cut to an Indiana Jones-style montage, where we follow a red line across a globe, we have to make our way to Wellington the slow way; by coach.
@@ -242,7 +234,7 @@ We all jumped back in Shadowfax &mdash; the name of our coach &mdash; and begun 
 As we left, the sun rose, and a majestic Mount Taranaki sat shrouded by cloud; which was quite cool.
 Being on the left side of the coach did not help us get a good picture however:
 
-![mount-taranaki](/assets/images/new_zealand/4/new_zealand_1216.jpeg "Mount Taranaki"){: .align-center style="width: 50%;"}
+![mount-taranaki](new_zealand_1216.jpeg "Mount Taranaki")
 
 The screens on the coach played _The Lord of the Rings: The Fellowship of the Ring_, the countryside rolled past, and I napped on and off.
 
@@ -272,19 +264,17 @@ After about 1 km cosplaying as a mountain goat, I made it back in one piece.
 We decided to go out to dinner at [Lulu Bar](https://www.lulubar.co.nz/), which I thoroughly recommend if you like cocktails!
 On our way back to the hotel we stopped in the town square where a brass band called 'Crash Bandihoot' had set up:
 
-{% include video id="LZSmIW6fPSs" provider="youtube" %}
+{{< youtubeLite id="LZSmIW6fPSs" >}}
 
 I've never been to New Orleans, but from extensive research watching _NCIS: New Orleans_, Wellington was giving off a very laid back and fancy-free vibe.
 
 There was a lot for us to see and do in Wellington, so we will be spending 4 nights in our hotel.
 I even dared to unpack our suitcase a little.
 
-## Saturday 8<sup>th</sup>: Getting Wētā Again
+## Saturday 8^th^: Getting Wētā Again
 
 Well, here we are again.
 In the next edition we will go off-road to more filming locations, as well as spending more time at Wētā.
 
 Kia Ora!
-See you in [part 5]({% post_url 2024-10-21-new-zealand-5 %})!
-
-{:footnotes}
+See you in [part 5]({{< ref "2024-10-21-new-zealand-5" >}})!

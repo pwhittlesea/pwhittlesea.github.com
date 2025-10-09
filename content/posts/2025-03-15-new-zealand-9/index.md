@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-9/"
 title: "I visited New Zealand - Part 9"
 date: 2025-03-15 20:09:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 9
 
-tagline: &tagline "It's time to return to our lives back in the UK, so we spend one final night in Auckland before heading home"
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/9/new_zealand_1486.jpeg
-  og_image: /assets/images/new_zealand/9/new_zealand_1486.jpeg
-  teaser: /assets/images/new_zealand/9/teaser.jpeg
+summary: "It's time to return to our lives back in the UK, so we spend one final night in Auckland before heading home"
 
 maps:
   - name: queenstown-to-auckland
@@ -37,33 +34,29 @@ maps:
         lon: -0.461389
 
 queenstown-gardens:
-  - url: /assets/images/new_zealand/9/new_zealand_2127.jpeg
-    image_path: /assets/images/new_zealand/9/new_zealand_2127.jpeg
+  - url: new_zealand_2127.jpeg
+    image_path: new_zealand_2127.jpeg
     title: "A view out over the bay from Queenstown Gardens"
-  - url: /assets/images/new_zealand/9/new_zealand_2135.jpeg
-    image_path: /assets/images/new_zealand/9/new_zealand_2135.jpeg
+  - url: new_zealand_2135.jpeg
+    image_path: new_zealand_2135.jpeg
     title: "A Kurī sculpture found in the gardens"
-  - url: /assets/images/new_zealand/9/new_zealand_2142.jpeg
-    image_path: /assets/images/new_zealand/9/new_zealand_2142.jpeg
+  - url: new_zealand_2142.jpeg
+    image_path: new_zealand_2142.jpeg
     title: "A view of the peninsula and the Queenstown Gardens"
 
 queenstown-kiwi:
-  - url: /assets/images/new_zealand/9/new_zealand_2141.jpeg
-    image_path: /assets/images/new_zealand/9/new_zealand_2141.jpeg
+  - url: new_zealand_2141.jpeg
+    image_path: new_zealand_2141.jpeg
     title: "Me and a Kiwi (not to scale)"
 
 heading-home:
-  - url: /assets/images/new_zealand/9/heading_home.png
-    image_path: /assets/images/new_zealand/9/heading_home.png
+  - url: heading_home.png
+    image_path: heading_home.png
 ---
 
-This is the 9<sup>th</sup> and **final** part of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
+## Saturday 15^th^: Auckland Encore
 
-## Saturday 15<sup>th</sup>: Auckland Encore
-
-{% include map.html name="queenstown-to-auckland" %}
+{{< map name="queenstown-to-auckland" >}}
 
 The holiday was coming to a close, and it was time for us to begin our journey back home.
 
@@ -82,7 +75,7 @@ Today was the first free time we had whilst the sun was up, and we chose to stro
 
 The gardens are located on a peninsula in the center of Queenstown and as you walk around them, you can see spectacular views of the bay, and in the distance, the mountains.
 
-{% include gallery id="queenstown-gardens" class="caption-center" caption="The Queenstown Gardens" %}
+{{< mm-gallery id="queenstown-gardens" caption="The Queenstown Gardens" >}}
 
 We managed to pick the time and day when the Queenstown [Parkrun](https://en.wikipedia.org/wiki/Parkrun) was underway, so we spent quite a bit of time standing to the side, letting the runners past.
 This was a blessing in disguise, as it forced us to take in the scenery.
@@ -95,7 +88,7 @@ It felt like a natural end point, and as we wandered past the different sculptur
 Having already been to [Balls and Bangles](https://www.ballsandbangles.com/) a couple of days earlier, we knew we wanted to try some more of their bagels before we left.
 Predictably the food was great, and filling.
 
-{% include gallery id="queenstown-kiwi" class="caption-center" caption="Human not to scale" %}
+{{< mm-gallery id="queenstown-kiwi" caption="Human not to scale" >}}
 
 Set up for the day, we ventured into [Aotea Gifts](https://www.aoteanz.com/), but despite a 10% off voucher, I couldn't bring myself to buy anything.
 There are only so many novelty keyrings, t-shirts, and mugs I can look at before it all washes over me.
@@ -155,16 +148,16 @@ Everything was delicious, except some fermented soy beans I tried, which I will 
 
 ★★★★☆ 4/5 - The restaurant was no-frills, but the Sushi was fast, and high quality.
 
-## Sunday 16<sup>th</sup>: Returning to the UK
+## Sunday 16^th^: Returning to the UK
 
-{% include map.html name="auckland-to-london" %}
+{{< map name="auckland-to-london" >}}
 
 This was it, the final trip to the airport.
 
 As we sat in the departure lounge, waiting to board the plane, my other half and I both shed a tear that we were having to go home.
 It would be awfully nice to not have to work and be able to stay, but it was not to be (plus our dogs would wonder where we had gotten to).
 
-{% include gallery id="heading-home" caption="Still from The Lord of the Rings: The Return of the King" class="caption-center" %}
+{{< mm-gallery id="heading-home" caption="Still from The Lord of the Rings: The Return of the King" >}}
 
 The journey back from Auckland to Singapore, then Singapore to Heathrow, was a slog.
 The flights took the same time &mdash; and route &mdash; as coming to New Zealand, but without the anticipation of new lands to discover, each hour seemed to drag[^2].
@@ -198,11 +191,11 @@ I guess we shall see.
 
 Anyway, back to the holiday!
 
-Grabbing a bit of the review of the tour back in [part 7]({% post_url 2025-01-19-new-zealand-7 %}#all-good-things-come-to-an-end):
+Grabbing a bit of the review of the tour back in [part 7]({{< ref "2025-01-19-new-zealand-7" >}}#all-good-things-come-to-an-end):
 
 > The tour turned what would have been ten days of me and my other half cramped into a rental car into a fun, relaxing, and educational experience, where every logistical detail was handled for me; I only needed to be present.
 >
-> We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
+> We visited places that we might not have thought to visit on our own, like [Hairy Feet Waitomo]({{< ref "2024-10-12-new-zealand-4" >}}#hairy-feet-waitomo), which was in many ways more enjoyable than [Hobbiton]({{< ref "2024-10-03-new-zealand-3" >}}#hobbiton).
 
 My view of guided tours has completely flipped after this holiday.
 I used to think they were a waste of money, but I have been proven wrong.
@@ -221,14 +214,12 @@ Worst Bits:
 
 Best Bits:
 
-1. The down to earth tour at [Hairy Feet]({% post_url 2024-10-12-new-zealand-4 %}#hairy-feet-waitomo).
-2. The wonder of [Hobbiton]({% post_url 2024-10-03-new-zealand-3 %}#hobbiton).
-3. Dressing up and visiting the filming locations in [Wellington]({% post_url 2024-10-21-new-zealand-5 %}#off-road), [Queenstown]({% post_url 2025-01-11-new-zealand-6 %}#wednesday-12th-off-road-film-locations) (and Hobbiton, again).
+1. The down to earth tour at [Hairy Feet]({{< ref "2024-10-12-new-zealand-4" >}}#hairy-feet-waitomo).
+2. The wonder of [Hobbiton]({{< ref "2024-10-03-new-zealand-3" >}}#hobbiton).
+3. Dressing up and visiting the filming locations in [Wellington]({{< ref "2024-10-21-new-zealand-5" >}}#off-road), [Queenstown]({{< ref "2025-01-11-new-zealand-6" >}}#wednesday-12th-off-road-film-locations) (and Hobbiton, again).
 
 Seriously, well done for making it this far.
 I hope you took at least one thing away; or maybe you were persuaded to go visit yourself.
 
 Regardless, thank you for having me New Zealand.
 Kia Ora!
-
-{:footnotes}

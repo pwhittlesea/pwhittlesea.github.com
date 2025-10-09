@@ -1,18 +1,14 @@
 ---
+aliases:
+  - "/holidays/new-zealand-6/"
 title: "I visited New Zealand - Part 6"
 date: 2025-01-11 10:39:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: holidays
-tags: new-zealand
+categories: [holidays]
+tags : ["new zealand"]
+series: ["New Zealand"]
+series_order: 6
 
-tagline: &tagline "We travel to the southern island to discover a different country"
-excerpt: *tagline
-
-header:
-  overlay_image: /assets/images/new_zealand/6/new_zealand_1550.jpeg
-  overlay_filter: 0.25
-  og_image: /assets/images/new_zealand/6/teaser.jpeg
-  teaser: /assets/images/new_zealand/6/teaser.jpeg
+summary: "We travel to the southern island to discover a different country"
 
 maps:
   - name: wellington-to-queenstown
@@ -48,79 +44,75 @@ maps:
         lon: 168.17344976743658
 
 queenstown-airport:
-  - url: /assets/images/new_zealand/6/new_zealand_1470.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1470.jpeg
+  - url: new_zealand_1470.jpeg
+    image_path: new_zealand_1470.jpeg
     title: "Our first view of the southern island from the coach"
 
 kawarau:
-  - url: /assets/images/new_zealand/6/new_zealand_1473.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1473.jpeg
+  - url: new_zealand_1473.jpeg
+    image_path: new_zealand_1473.jpeg
     title: "I've never seen a river so naturally blue"
-  - url: /assets/images/new_zealand/6/new_zealand_1474.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1474.jpeg
+  - url: new_zealand_1474.jpeg
+    image_path: new_zealand_1474.jpeg
     title: "The bungy jump from the bridge"
-  - url: /assets/images/new_zealand/6/3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
-    image_path: /assets/images/new_zealand/6/3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
+  - url: 3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
+    image_path: 3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
     title: "A blurry picture of us zip lining"
 
 queenstown:
-  - url: /assets/images/new_zealand/6/new_zealand_1487.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1487.jpeg
+  - url: new_zealand_1487.jpeg
+    image_path: new_zealand_1487.jpeg
     title: "A view out over the bay at Queenstown"
-  - url: /assets/images/new_zealand/6/new_zealand_1489.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1489.jpeg
+  - url: new_zealand_1489.jpeg
+    image_path: new_zealand_1489.jpeg
     title: "The same bay at Queenstown at night"
 
 off-road-uruk-hai:
-  - url: /assets/images/new_zealand/6/new_zealand_1519-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1519-full.jpeg
+  - url: new_zealand_1519-full.jpeg
+    image_path: new_zealand_1519-full.jpeg
 
 off-road-gandalf:
-  - url: /assets/images/new_zealand/6/new_zealand_1679-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1679-full.jpeg
+  - url: new_zealand_1679-full.jpeg
+    image_path: new_zealand_1679-full.jpeg
 
 off-road-fangorn-forest:
-  - url: /assets/images/new_zealand/6/new_zealand_1538-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1538-full.jpeg
+  - url: new_zealand_1538-full.jpeg
+    image_path: new_zealand_1538-full.jpeg
 
 off-road-anduin-river:
-  - url: /assets/images/new_zealand/6/new_zealand_1575-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1575-full.jpeg
+  - url: new_zealand_1575-full.jpeg
+    image_path: new_zealand_1575-full.jpeg
 
 off-road-anduin:
-  - url: /assets/images/new_zealand/6/new_zealand_1565.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1565.jpeg
+  - url: new_zealand_1565.jpeg
+    image_path: new_zealand_1565.jpeg
     title: "The mountain range in the distance was astounding"
-  - url: /assets/images/new_zealand/6/new_zealand_1587.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1587.jpeg
+  - url: new_zealand_1587.jpeg
+    image_path: new_zealand_1587.jpeg
     title: "The canopy at the Mararoa River"
-  - url: /assets/images/new_zealand/6/new_zealand_1571.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1571.jpeg
+  - url: new_zealand_1571.jpeg
+    image_path: new_zealand_1571.jpeg
     title: "The bridge over the Mararoa River"
 
 off-road-nen-hithoel-beach:
-  - url: /assets/images/new_zealand/6/new_zealand_1052-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1052-full.jpeg
+  - url: new_zealand_1052-full.jpeg
+    image_path: new_zealand_1052-full.jpeg
 
 off-road-nen-hithoel-tree:
-  - url: /assets/images/new_zealand/6/new_zealand_0940-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_0940-full.jpeg
+  - url: new_zealand_0940-full.jpeg
+    image_path: new_zealand_0940-full.jpeg
 
 off-road-nen-hithoel-log:
-  - url: /assets/images/new_zealand/6/new_zealand_1636-full.jpeg
-    image_path: /assets/images/new_zealand/6/new_zealand_1636-full.jpeg
+  - url: new_zealand_1636-full.jpeg
+    image_path: new_zealand_1636-full.jpeg
 ---
 
-This is part 6 of a series of blogs on my 2024 trip to New Zealand.\
-[Click here]({% link _pages/tag-archive.md %}#new-zealand) to see all posts in the series.
-{: .notice--info}
+> [!NOTE] Happy New Year!
+>
+> It's been a while since my last post, and it's been over six months since I got back from New Zealand.
+> I really need to hurry up.
 
-**Happy New Year!**\
-It's been a while since my last post, and it's been over six months since I got back from New Zealand.
-I really need to hurry up.
-{: .notice--success}
-
-At the end of [part 5]({% post_url 2024-10-21-new-zealand-5 %}) we had just finished 4 nights in Wellington.
+At the end of [part 5]({{< ref "2024-10-21-new-zealand-5" >}}) we had just finished 4 nights in Wellington.
 It was now time for us to depart to New Zealand's southern island.
 
 On the northern island we had done lots of tours, talks, and had visited the most LoTR thing in New Zealand - Hobbiton.
@@ -132,11 +124,11 @@ Nah.
 
 The tour of southern island was set to be far more 'outdoorsy'; focusing on the natural beauty of New Zealand.
 
-## Tuesday 11<sup>th</sup>: The South Island
+## Tuesday 11^th^: The South Island
 
-{% include map.html name="wellington-to-queenstown" %}
+{{< map name="wellington-to-queenstown" >}}
 
-I remember Tuesday the 11<sup>th</sup> because it's the day of the holiday I woke up at 3am, sat bolt upright in bed, realising that the name I booked the tour under was not the same as the name on my passport[^1].
+I remember Tuesday the 11^th^ because it's the day of the holiday I woke up at 3am, sat bolt upright in bed, realising that the name I booked the tour under was not the same as the name on my passport[^1].
 
 [^1]: I am holding on to my EU burgundy passport until the day it expires.
 
@@ -158,12 +150,11 @@ In the UK, there is no way you would be able to get on a domestic flight without
 Crisis resolved, I finished breakfast feeling much better.
 We hauled our luggage outside and climbed back onto Shadowfax &mdash; the name we had given our coach &mdash; for one final ride to the airport.
 
-Wellington airport is known for having fun LoTR decorations.
+Wellington airport is known for having fun {{< term "LoTR" >}} decorations.
 Unfortunately the [giant Gollum](https://www.nzherald.co.nz/nz/giant-gollum-gobbles-wellington-airport/5NXTP2N7PJPIUWBYZZ2CJCET4E/) had to go after an earthquake, but we were still left with Gandalf riding an eagle.
 
-*[LoTR]: Lord of the Rings
-
-![gandalf-eagle](/assets/images/new_zealand/6/new_zealand_1465.jpeg "Gandalf doesn't fly economy class"){: .align-center style="width: 50%;"}
+![gandalf-eagle](new_zealand_1465.jpeg "Gandalf doesn't fly economy class")
+{style="width: 50%;"}
 
 This was the last Wētā Workshop created thing we saw whilst we were on holiday.
 
@@ -180,7 +171,7 @@ The northern island had been t-shirt weather, but the weather here was about ten
 
 A mountain range dominated the view from the car park; treating us to a perfect teaser of what was to come.
 
-{% include gallery id="queenstown-airport" caption="The view from the Queenstown Airport car park" class="caption-center" %}
+{{< mm-gallery id="queenstown-airport" caption="The view from the Queenstown Airport car park" >}}
 
 The plan was for us to check into a hotel in Wellington and stay there until the tour ended.
 To get there we needed a coach, just for the day.
@@ -188,7 +179,7 @@ It was no _Shadowfax_, but it made do.
 
 ### Kawarau Gorge
 
-{% include map.html name="queenstown-airport-to-hotel" %}
+{{< map name="queenstown-airport-to-hotel" >}}
 
 Before heading into Queenstown, we had a single stop in the other direction.
 
@@ -196,9 +187,9 @@ Soaking in the scenery, we travelled to Kawarua Gorge.
 Used to depict part of the River Anduin in the LoTR, the Gorge was one of many intensely beautiful places we were set to visit.
 
 On arrival, what stood out to me was how blue the river was; far bluer than any of rivers in the UK.
-We were not at the best angle to take a picture that shows the length of the river used in the films, however, we do come back on Thursday the 13<sup>th</sup> to get that shot.
+We were not at the best angle to take a picture that shows the length of the river used in the films, however, we do come back on Thursday the 13^th^ to get that shot.
 
-{% include gallery id="kawarau" class="caption-center" %}
+{{< mm-gallery id="kawarau" >}}
 
 Today we had come to the bridge over the Gorge so that some of our group could bungy[^3] jump at the [Kawarau Bungy Centre](https://www.bungy.co.nz/queenstown/kawarau-bungy-centre/kawarau-bridge-bungy/).
 
@@ -207,9 +198,7 @@ Today we had come to the bridge over the Gorge so that some of our group could b
 My partner seriously considered jumping themselves, but the bold text in our travel insurance, outlining that we are not covered for bungy jumps dissuaded them.
 If we go back to Queenstown I think they would probably throw caution to the wind and sign up without hesitation.
 
-While 5-or-so of our tour were jumping we did get a bit of FOMO and decided to do a zip line instead.
-
-*[FOMO]: Fear Of Missing Out
+While 5-or-so of our tour were jumping we did get a bit of {{< term "FOMO" >}} and decided to do a zip line instead.
 
 ★★★☆☆ 3/5 - Not for me personally, but everyone that jumped seemed to have fun.
 I did enjoy the views of the river.
@@ -225,7 +214,7 @@ This hotel lacked the amazing vistas of the other ones we had stayed in.
 But what it lacked in views, it made up for in location.
 We could not have been more centrally located in the town, which was genuinely convenient.
 
-{% include gallery id="queenstown" caption="Queenstown is beautiful day _and_ night" class="caption-center" %}
+{{< mm-gallery id="queenstown" caption="Queenstown is beautiful day _and_ night" >}}
 
 There was no time to stop and admire the hotel however, we were in and out in a flurry.
 
@@ -237,7 +226,8 @@ Thus, we had to go pay for the experience.
 [NOMAD safaris](https://www.nomadsafaris.co.nz/) were located on the other side of the town center, so we rushed over before they closed to book the two of us onto the [Full day LoTR tour](https://www.nomadsafaris.co.nz/tours/lord-of-the-rings/full-day-lord-of-the-rings/).
 $1160 (NZD) (£580) lighter I stood out on the street, breathing into a brown paper bag.
 
-![my-bank-account](/assets/images/new_zealand/6/my_bank_account.gif){: .align-center style="width: 50%;"}
+![my-bank-account](my_bank_account.gif)
+{style="width: 50%;"}
 
 "You can't take it with you" was our informal mantra for this holiday.
 We flew to the other side of the planet.
@@ -264,9 +254,9 @@ That evening we took a nighttime walk to see the night lights (pictured above).
 On our route we visited two of the 'recommended' spots in the town [Patagonia Chocolates - Ice Creamery & Chocolaterie](https://www.patagoniachocolates.co.nz/) and the [Remarkable Sweet Shop](https://www.remarkablesweetshop.co.nz/).
 Both were excellent (especially if you have a sweet tooth like me).
 
-## Wednesday 12<sup>th</sup>: Off Road Film Locations
+## Wednesday 12^th^: Off Road Film Locations
 
-{% include map.html name="off-road" %}
+{{< map name="off-road" >}}
 
 Excluding our quick bungy jump/zip line experience, yesterday was mostly a day of travel and settling in to our hotel here in Queenstown.
 
@@ -291,10 +281,11 @@ I have added Garston Hunny (our midway stop) to the map above to show how far we
 We were fully numb to the early starts on this holiday so this morning's 6am start was taken in our stride.
 Waiting for us outside the hotel's reception stood an absolute beast of an apocalypse-class coach.
 
-We nick-named it 'Bill the Pony', after the unofficial 10<sup>th</sup> member of the fellowship.
+We nick-named it 'Bill the Pony', after the unofficial 10^th^ member of the fellowship.
 He was no Shadowfax, but he was hardy.
 
-![its-no-shadowfax](/assets/images/new_zealand/6/new_zealand_1490.jpeg "Our nobel steed: 'Bill the Pony'"){: .align-center style="width: 50%;"}
+![its-no-shadowfax](new_zealand_1490.jpeg "Our nobel steed: 'Bill the Pony'")
+{style="width: 50%;"}
 
 With the sun barely peeking over the horizon, we set off on today's quest.
 
@@ -311,30 +302,30 @@ The first is where Aragorn, Legolas and Gimli find the burnt Orc Mound while sea
 It was a cold, crisp morning with snow covering the ground.
 This did not stop me and one of the others in the tour group doing what must be done, and recreating the Orc Mound.
 
-{% capture off-road-uruk-hai-caption %}
-**Top**: Still from The Lord of the Rings: The Two Towers\
-**Bottom**: A slightly lower budget version
-{% endcapture %}
-{% include gallery id="off-road-uruk-hai" caption=off-road-uruk-hai-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-uruk-hai"
+    caption=`**Top**: Still from The Lord of the Rings: The Two Towers\
+      **Bottom**: A slightly lower budget version`
+    >}}
 
 We didn't have a huge budget, but I think the Uruk Hai's skull on a walking stick made do.
 
 Just after finding the Orc Mound, the adventurers track the Hobbits into Fangorn forest, considering their decision before they follow.
 
-{% capture off-road-fangorn-forest-caption %}
-**Top**: Still from The Lord of the Rings: The Two Towers\
-**Bottom**: Three of our tour group staring into the forest
-{% endcapture %}
-{% include gallery id="off-road-fangorn-forest" caption=off-road-fangorn-forest-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-fangorn-forest"
+    caption=`**Top**: Still from The Lord of the Rings: The Two Towers\
+      **Bottom**: Three of our tour group staring into the forest`
+    >}}
 
 The second scene is later in the same film.
 Gandalf calls upon Shadowfax (not the coach), to carry him to Edoras.
 
-{% capture off-road-gandalf-caption %}
-**Top**: Still from The Lord of the Rings: The Two Towers\
-**Bottom**: My other half in the same location (sans Shadowfax)
-{% endcapture %}
-{% include gallery id="off-road-gandalf" caption=off-road-gandalf-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-gandalf"
+    caption=`**Top**: Still from The Lord of the Rings: The Two Towers\
+      **Bottom**: My other half in the same location (sans Shadowfax)`
+    >}}
 
 The pictures above really only show the mountains to the north, but each direction was magnificent in its own right.
 Even if you are not a fan of LoTR this location has beautiful vistas that I could have stared at for hours.
@@ -346,7 +337,7 @@ Our next stop was 3 km to the north, at the southern end of the South Mavora La
 When we stepped from the coach we could only see a sliver of the Mavora Lake between the trees.
 The thin trunks of the trees, without much else on the forest floor, made for a very calm and quiet atmosphere.
 
-{% include gallery id="off-road-anduin" class="caption-center" %}
+{{< mm-gallery id="off-road-anduin" >}}
 
 Here some of our group took a moment to bless some [Pounamu](https://www.newzealand.com/uk/feature/new-zealand-greenstone/) (or greenstone) in the river that they had purchased the day before from an authorised seller.
 Although I had not purchased any myself, I enjoyed listening to the blessing under the gaze of yet another mountain.
@@ -357,11 +348,11 @@ Two weeks is kinda long enough but here we were entering my third week, and I wa
 
 Anyway, in the LoTR films this location was used as the Silverlode & Anduin River Junction, appearing when the fellowship leaves Lothloriel in their boats.
 
-{% capture off-road-anduin-river-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: The same river, from the bridge
-{% endcapture %}
-{% include gallery id="off-road-anduin-river" caption=off-road-anduin-river-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-anduin-river"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: The same river, from the bridge`
+    >}}
 
 On my way back to the coach I stopped off at a toilet near where we had parked.
 Locally known as a 'Drop Dunny' (or more technically, a [Pit Latrine](https://en.wikipedia.org/wiki/Pit_latrine)), it looked like what we Brits call a 'Portaloo'; a simple green plastic box with a door.
@@ -386,28 +377,28 @@ Boromir tries to steal the ring from Frodo, and before he can say "it's just a p
 
 Frodo hides in the roots of a tree to avoid capture.
 
-{% capture off-road-nen-hithoel-tree-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: Me, hiding from my bank manager
-{% endcapture %}
-{% include gallery id="off-road-nen-hithoel-tree" caption=off-road-nen-hithoel-tree-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-nen-hithoel-tree"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: Me, hiding from my bank manager`
+    >}}
 
 Merry and Pippin try to get Frodo to come back to them from behind a log.
 
-{% capture off-road-nen-hithoel-log-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: Me and my other half at a legally distinct log
-{% endcapture %}
-{% include gallery id="off-road-nen-hithoel-log" caption=off-road-nen-hithoel-log-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-nen-hithoel-log"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: Me and my other half at a legally distinct log`
+    >}}
 
 However, Frodo decides to go it alone.
 Before sailing off by himself, he stares at the ring while on the shore of the lake.
 
-{% capture off-road-nen-hithoel-beach-caption %}
-**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
-**Bottom**: My other half leaving with the ring
-{% endcapture %}
-{% include gallery id="off-road-nen-hithoel-beach" caption=off-road-nen-hithoel-beach-caption class="caption-center" %}
+{{< mm-gallery
+    id="off-road-nen-hithoel-beach"
+    caption=`**Top**: Still from The Lord of the Rings: The Fellowship of the Ring\
+      **Bottom**: My other half leaving with the ring`
+    >}}
 
 This last picture resulted in a bit of an argument with me and my other half when we got back home.
 You know I said I was going full mountain man earlier?\
@@ -443,7 +434,7 @@ Up until now in this series of blogs, I have managed to avoid mentioning my rapi
 I must have bought a Chai Latte &mdash; steamed milk mixed with a spiced tea concentrate instead of espresso &mdash; at every conceivable opportunity on this holiday.
 
 Initially sceptical that I could order something called a 'latte' as a coffee hater, I had become their biggest fan.
-My partner introduced me to them all the way back at the [Auckland Zoo]({% post_url 2024-09-15-new-zealand-1 %}#sunday-2nd-auckland-zoo), and I was rapidly depleting New Zealand's reserves of them[^6].
+My partner introduced me to them all the way back at the [Auckland Zoo]({{< ref "2024-09-15-new-zealand-1" >}}#sunday-2nd-auckland-zoo), and I was rapidly depleting New Zealand's reserves of them[^6].
 
 [^6]: And I haven't had one since I got back to the UK. Everyone here keeps adding espresso to them :nauseated_face:
 
@@ -463,13 +454,11 @@ Named things like 'Sling Dog Millionaire' and 'The Attenborough', they went down
 
 ★★★★☆ 4/5 - We only tried the teapots, which were reasonably priced.
 
-## Thursday 13<sup>th</sup>: Safari Time
+## Thursday 13^th^: Safari Time
 
 Wednesday was a big shift in the tone of the holiday with us getting deep into nature.
 
 Thursday looks to bring more of the same, except from 4x4s!
 
 Kia Ora!
-See you in [part 7]({% post_url 2025-01-19-new-zealand-7 %})!
-
-{:footnotes}
+See you in [part 7]({{< ref "2025-01-19-new-zealand-7" >}})!
