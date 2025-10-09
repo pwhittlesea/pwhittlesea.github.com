@@ -127,6 +127,7 @@ The tour then turned to the main event: glow-worms.
 We embarked on a short boat ride through the glow-worm grotto, which would allow us to see them in their natural habitat, the **_pitch black_**.
 
 ![pitch-black](riddick.png)
+{style="width: 50%;"}
 
 No artificial light was allowed in the caves because it disturbs the glow-worms, so it was just us, floating through the darkness.
 
@@ -235,6 +236,7 @@ As we left, the sun rose, and a majestic Mount Taranaki sat shrouded by cloud; w
 Being on the left side of the coach did not help us get a good picture however:
 
 ![mount-taranaki](new_zealand_1216.jpeg "Mount Taranaki")
+{style="width: 50%;"}
 
 The screens on the coach played _The Lord of the Rings: The Fellowship of the Ring_, the countryside rolled past, and I napped on and off.
 

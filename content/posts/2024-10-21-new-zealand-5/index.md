@@ -152,6 +152,7 @@ Unfortunately for our bank account, there was a limited edition, illustrated cop
 I was reliably informed that this edition had to come home with us.
 
 ![stop-its-dead](stop_its_dead.png)
+{style="width: 50%;"}
 
 ★★★★☆ 4/5 - If you want LoTR goodies, this shop is the place for you (but maybe not your bank manager).
 It is basically the same as the one in Auckland, however, so if you have been there don't go out of your way to this one (unless you are doing a tour).
@@ -237,6 +238,7 @@ Chris brought a lot of movie-used props with him for the day and talked about th
 I'm pretty surprised he didn't need an armed escort; some of those swords had to be worth a fair amount.
 
 ![two-glamdrings](new_zealand_0909.jpeg "The hero and the prop Glamdring")
+{style="width: 50%;"}
 
 We got to see the 'hero swords' &mdash; the swords used for all the close up shots with the actor &mdash; as well as the prop swords, allowing us to compare the two.
 
@@ -305,6 +307,7 @@ Like I haven't.
 But I _could_.
 
 ![one-simply-does](one_simply_does.png)
+{style="width: 50%;"}
 
 Overall I think this tour was my favourite of the three we did (spoiler, this is the last one).
 I'm a fan of the LoTR, and I enjoyed the Auckland 'unleashed' experience, but this more personal tour really shone above the others.

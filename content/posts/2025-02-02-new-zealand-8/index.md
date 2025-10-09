@@ -242,6 +242,7 @@ The Kia reminded me of [Longleat Safari Park](https://www.longleat.co.uk/safari)
 A touch out of order, but later on the boat we saw a 'Car Disassembly' guide, in the art style of an IKEA manual, which I had to giggle at.
 
 ![kia-disassemble](new_zealand_2071.jpeg "Car disassembly has never been easier!")
+{style="width: 50%;"}
 
 ### Homer Tunnel
 

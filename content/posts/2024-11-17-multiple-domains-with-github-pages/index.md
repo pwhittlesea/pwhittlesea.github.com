@@ -30,6 +30,7 @@ In the current day and age where TLS certificates are free, and browser settings
 This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page]({{< ref "2024-02-17-new-beginnings" >}}) for this domain &mdash; so I had to update it eventually.
 
 ![My About Me](about_me_pwhittlesea.png)
+{style="width: 50%;"}
 
 The final domain, `wedfest-2017.uk`, was a site I built for my wedding back in 2017 (obviously).
 It contained details of the day, and had a form allowing guests to RSVP.
