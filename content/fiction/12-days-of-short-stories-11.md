@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 11"
 date: 2024-12-11 22:11:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'link'
+summary: A short story based on the prompt 'link'
+series: ["12 of Short Stories - 2024"]
+series_order: 6
 ---
-
-This is the fifth of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 "Man, if I don't make a breakthrough on this case soon the Chief is going to draw me a new pair of curtains" I said to myself.
 The cigarette smoke haze hanging in the air hadn't bothered me for the last 20 years, but it was bothering me today.

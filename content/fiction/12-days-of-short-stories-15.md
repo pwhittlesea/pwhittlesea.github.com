@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 15"
 date: 2024-12-16 20:22:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'grave'
+summary: A short story based on the prompt 'grave'
+series: ["12 of Short Stories - 2024"]
+series_order: 8
 ---
-
-This is the seventh of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 I was a bit alarming, being shown your own grave.
 Well, at least a grave with your own name.\
@@ -40,5 +37,5 @@ Silence passed between us for a moment, and I could hear the crows in the trees 
 Daniel looked behind my left shoulder to look at his thug behind me.\
 "Throw her in".
 
-This one is a day late so I didn't get to finish it, apologies!
-{: .notice--warning}
+> [!WARNING]
+> This one is a day late, so I didn't get to finish it, apologies!

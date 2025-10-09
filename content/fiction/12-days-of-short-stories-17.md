@@ -1,15 +1,12 @@
 ---
 title: "Twelve Days of Short Stories - Day 17"
 date: 2024-12-17 21:43:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'jam'
+summary: A short story based on the prompt 'jam'
+series: ["12 of Short Stories - 2024"]
+series_order: 9
 ---
 
-This is the eighth of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
-
-**Interview of 'Sally Rivers', Mar 14<sup>th</sup> 2034.
+**Interview of 'Sally Rivers', Mar 14^th^ 2034.
 As follows:**
 
 I was driving home for Christmas, listening to 'Driving Home for Christmas', is that ironic?
@@ -92,5 +89,5 @@ I just sort of sat there until I heard the helicopters in the sky.
 
 **Account Ends**.
 
-This one is in the style of [World War Z](https://app.thestorygraph.com/books/5acbfc41-517f-4672-bf71-66a3c1fcd2910), which is a great book, but an even better Audiobook!
-{: .notice--info}
+> [!INFO]
+> This one is in the style of [World War Z](https://app.thestorygraph.com/books/5acbfc41-517f-4672-bf71-66a3c1fcd2910), which is a great book, but an even better Audiobook!

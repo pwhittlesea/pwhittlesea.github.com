@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 1"
 date: 2024-12-01 12:52:02 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'Abundant'
+summary: A short story based on the prompt 'Abundant'
+series: ["12 of Short Stories - 2024"]
+series_order: 2
 ---
-
-This is the first of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 Ben slouched as he waited; staring directly at the food slot.
 Food always came at the same times, morning, midday, and evening, everyday; so he knew when to wait.

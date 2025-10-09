@@ -1,16 +1,13 @@
 ---
 title: "Twelve Days of Short Stories - Day 3"
 date: 2024-12-03 21:07:37 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'Point'
+summary: A short story based on the prompt 'Point'
+series: ["12 of Short Stories - 2024"]
+series_order: 3
 ---
 
-This is the second of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
-
-I took the liberty of jumping from 'Point' to 'Peak' for this story.
-{: .notice--success}
+> [!WARNING]
+> I took the liberty of jumping from 'Point' to 'Peak' for this story.
 
 "Let's keep up the pace" I heard Erwin shout above the wind.
 

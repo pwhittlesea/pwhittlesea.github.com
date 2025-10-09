@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 23"
 date: 2024-12-23 21:32:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'glimpse'
+summary: A short story based on the prompt 'glimpse'
+series: ["12 of Short Stories - 2024"]
+series_order: 10
 ---
-
-This is the ninth of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 Lina Buckley hid on their hands and knees behind the sofa in her house.
 Her mother and father had both told her to not stay up to try to get a glimpse of Santa delivering presents, but Lina had ignored them.\
@@ -67,4 +64,5 @@ It sat for a second and picked up the carrot using one of its pedipalp.\
 Santa turned on its legs and began up the chimney.\
 "𝔖𝔩𝔢𝔢𝔭 𝔠𝔥𝔦𝔩𝔡, 𝔞𝔫𝔡 𝔥𝔞𝔳𝔢 𝔞 𝔐𝔢𝔯𝔯𝔶 ℭ𝔥𝔯𝔦𝔰𝔱𝔪𝔞𝔰" the final thoughts came, and Santa was gone.
 
-![christmas-spider](/assets/images/christmas_spider.jpeg "Source: https://imgur.com/V5VpM9A"){: .align-center style="width: 50%;"}
+![christmas-spider](christmas_spider.jpeg "Source: https://imgur.com/V5VpM9A")
+{style="width: 50%;"}

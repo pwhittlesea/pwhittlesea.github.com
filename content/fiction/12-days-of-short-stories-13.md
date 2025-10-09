@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 13"
 date: 2024-12-11 23:36:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'devote'
+summary: A short story based on the prompt 'devote'
+series: ["12 of Short Stories - 2024"]
+series_order: 7
 ---
-
-This is the sixth of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 I wasn't ready for you to leave the way that you did.
 We had so many plans that we had never managed to get around to, but it still felt like we had lived a thousand lives together; they will never be enough.

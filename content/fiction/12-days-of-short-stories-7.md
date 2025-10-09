@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 7"
 date: 2024-12-07 12:52:02 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'Sound'
+summary: A short story based on the prompt 'Sound'
+series: ["12 of Short Stories - 2024"]
+series_order: 5
 ---
-
-This is the fourth of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 I opened my eyes and looked down at my legs.
 They were covered by a light blanket, but I could see my feet poking up under the end of it.

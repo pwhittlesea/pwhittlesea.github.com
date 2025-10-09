@@ -1,13 +1,10 @@
 ---
 title: "Twelve Days of Short Stories - Day 5"
 date: 2024-12-04 23:24:55 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-excerpt: A short story based on the prompt 'Piano'
+summary: A short story based on the prompt 'Piano'
+series: ["12 of Short Stories - 2024"]
+series_order: 4
 ---
-
-This is the third of a series of short stories I am writing this December.\
-[Click here]({% post_url 2024-11-24-12-days-of-short-stories %}) to read the explanation of why I'm writing them.
-{: .notice--info}
 
 Deep in the city sat a row of houses.
 Unremarkable at first glance, mundane at second.

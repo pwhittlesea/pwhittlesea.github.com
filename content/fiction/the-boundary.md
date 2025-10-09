@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/stories/the-boundary/"
 title: "The Boundary"
 date: 2024-11-20 21:55:00 +0000
-last_modified_at: 2024-11-20T21:56:03+00:00
-permalink: /stories/the-boundary
-toc: false
-classes: wide
-
-excerpt: An anomaly is discovered behind Pluto, and mankind sends its best to investigate
+summary: An anomaly is discovered behind Pluto, and mankind sends its best to investigate
 ---
 
 ## Prelude
 
-Humanity noticed the anomaly late in the 21<sup>st</sup> century.
+Humanity noticed the anomaly late in the 21^st^ century.
 The first reports were entirely ignored; the evidence deviating so far from accepted scientific norm that their validity could not even be entertained as anything but sensor malfunctions.
 
 Equipment was checked again and again, furious scientists operating the now obsolete radio telescope were unable to explain the results that lay before them.
@@ -42,8 +39,8 @@ They remembered being shaken.
 Or were they currently being shaken?
 They filed the input away, comparing it against all the others that slowly flowed into their head; trying to place them in some sort of order.
 
-This is my first attempt at writing fiction.\
-There may be more to come, but there may not.\
-\
-We shall see.
-{: .notice--warning}
+> [!WARNING]
+> This is my first attempt at writing fiction.
+> There may be more to come, but there may not.
+>
+> We shall see.
