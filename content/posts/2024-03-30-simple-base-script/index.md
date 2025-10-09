@@ -1,18 +1,16 @@
 ---
+aliases:
+  - "/code/simple-base-script/"
 title: "A Simple Script Base"
 date: 2024-03-30 21:23:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
-categories: code
-tags: bash
-classes: wide
-toc: false
-
-header:
-  teaser: /assets/images/teaser_code.png
+categories: [code]
+tags: [bash]
 ---
 
 Sometimes you just need a script that takes arguments.
 This is a simple script which will call different functions based on the first argument from the user.
+
+<!--more-->
 
 ```bash
 #!/usr/bin/env bash

@@ -1,14 +1,11 @@
 ---
+aliases:
+  - "/code/rule-one/"
 title: "One Rule to Build Them All"
 date: 2024-05-25 18:56:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
-categories: code
-classes: wide
-tags: code-quality
-toc: false
-
-header:
-  teaser: /assets/images/teaser_code.png
+categories: [code]
+tags: ["code quality"]
+summary: "If you care about it, make it fail the build."
 ---
 
 Every business is different, every codebase has debt that needs to be worked around.
@@ -81,6 +78,6 @@ I spend most of my days working on Java codebases built using Maven; here is my 
 - **[Find-Sec-Bugs](http://find-sec-bugs.github.io/)** is an extension to SpotBugs which checks for security vulnerabilities.
 - **[Old GroupIds Alerter](https://github.com/jonathanlermitage/oga-maven-plugin)** catches the use of dependencies which have been relocated to another Maven Group/Artifact.
 
-![Me at project kick off](/assets/images/one-rule-crow.png)
+![Me at project kick off](one-rule-crow.png)
 
 Tldr; If you care about it, make it fail the build.

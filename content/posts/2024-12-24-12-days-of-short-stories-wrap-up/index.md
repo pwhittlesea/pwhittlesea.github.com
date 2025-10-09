@@ -1,30 +1,33 @@
 ---
+aliases:
+  - "/12-days-of-short-stories-wrap-up/"
 title: "That's a Wrap - Twelve Days of Short Stories"
 date: 2024-12-24 13:21:00 +0000
-last_modified_at: 2025-04-27T11:56:51+00:00
-tags: fiction
-excerpt: I did well, but I could have been better.
+tags: [fiction]
+summary: I did well, but I could have been better.
+series: ["12 of Short Stories - 2024"]
+series_order: 11
 ---
 
-So, a month ago, I decided to [challenge myself and write twelve short stories]({% post_url 2024-11-24-12-days-of-short-stories %}) over a period of twenty-four days.
+So, a month ago, I decided to [challenge myself and write twelve short stories]({{< ref "2024-11-24-12-days-of-short-stories" >}}) over a period of twenty-four days.
 This is a wash-up of how I thought it went, what I did well, and what I could have improved on.
 
 ## Results
 
 | Day                                              | Primary Word | Backup Word          | Point of View  | Result        |
 |:------------------------------------------------:|--------------|----------------------|:--------------:|:-------------:|
-| [1]({% link _fiction/12-days-of-short-stories-1.md %})   | `abundant`   | ~~`benefit`~~        | 3<sup>rd</sup> | :+1:          |
-| [3]({% link _fiction/12-days-of-short-stories-3.md %})   | `point`      | ~~`ideal`~~          | 1<sup>st</sup> | :+1:          |
-| [5]({% link _fiction/12-days-of-short-stories-5.md %})   | `piano`      | ~~`snow`~~           | 3<sup>rd</sup> | :+1:          |
-| [7]({% link _fiction/12-days-of-short-stories-7.md %})   | ~~`north`~~  | `sound`              | 1<sup>st</sup> | :+1:          |
-| 9                                                | `dare`       | `style`              | 3<sup>rd</sup> | :exclamation: |
-| [11]({% link _fiction/12-days-of-short-stories-11.md %}) | `link`       | ~~`representative`~~ | 1<sup>st</sup> | :+1:          |
-| [13]({% link _fiction/12-days-of-short-stories-13.md %}) | `devote`     | ~~`virus`~~          | 1<sup>st</sup> | :+1:          |
-| [15]({% link _fiction/12-days-of-short-stories-15.md %}) | `grave`      | ~~`brink`~~          | 1<sup>st</sup> | :+1:          |
-| [17]({% link _fiction/12-days-of-short-stories-17.md %}) | `jam`        | ~~`rib`~~            | 1<sup>st</sup> | :+1:          |
-| 19                                               | `injury`     | `ghost`              | 2<sup>nd</sup> | :exclamation: |
-| 21                                               | `flat`       | `radical`            | 1<sup>st</sup> | :exclamation: |
-| [23]({% link _fiction/12-days-of-short-stories-23.md %}) | `glimpse`    | ~~`reasonable`~~     | 3<sup>rd</sup> | :+1:          |
+| [1]({{< ref "12-days-of-short-stories-1" >}})   | `abundant`   | ~~`benefit`~~        | 3^rd^ | :+1:          |
+| [3]({{< ref "12-days-of-short-stories-3" >}})   | `point`      | ~~`ideal`~~          | 1^st^ | :+1:          |
+| [5]({{< ref "12-days-of-short-stories-5" >}})   | `piano`      | ~~`snow`~~           | 3^rd^ | :+1:          |
+| [7]({{< ref "12-days-of-short-stories-7" >}})   | ~~`north`~~  | `sound`              | 1^st^ | :+1:          |
+| 9                                               | `dare`       | `style`              | 3^rd^ | :exclamation: |
+| [11]({{< ref "12-days-of-short-stories-11" >}}) | `link`       | ~~`representative`~~ | 1^st^ | :+1:          |
+| [13]({{< ref "12-days-of-short-stories-13" >}}) | `devote`     | ~~`virus`~~          | 1^st^ | :+1:          |
+| [15]({{< ref "12-days-of-short-stories-15" >}}) | `grave`      | ~~`brink`~~          | 1^st^ | :+1:          |
+| [17]({{< ref "12-days-of-short-stories-17" >}}) | `jam`        | ~~`rib`~~            | 1^st^ | :+1:          |
+| 19                                              | `injury`     | `ghost`              | 2^nd^ | :exclamation: |
+| 21                                              | `flat`       | `radical`            | 1^st^ | :exclamation: |
+| [23]({{< ref "12-days-of-short-stories-23" >}}) | `glimpse`    | ~~`reasonable`~~     | 3^rd^ | :+1:          |
 
 So, as you can see I managed _most_ of the days, completing 9/12 or 75%.
 
@@ -34,13 +37,13 @@ So, as you can see I managed _most_ of the days, completing 9/12 or 75%.
 
 Part of the challenge was to give myself only two days per story, which worked well for the most part, except when I got busy in the run-up to Christmas.
 
-I can blame the 9<sup>th</sup> on wanting to have a nice meal with my other half, the 19<sup>th</sup> on being burnt out at work, and the 21<sup>st</sup> on having to drive six hours to London and back.
+I can blame the 9^th^ on wanting to have a nice meal with my other half, the 19^th^ on being burnt out at work, and the 21^st^ on having to drive six hours to London and back.
 
 These excuses, however, are pretty thin because I had two days to write each story.
 I could have written it on the other day.
 That I can blame on poor time management.
 
-The 15<sup>th</sup> was also a day late and remains unfinished.
+The 15^th^ was also a day late and remains unfinished.
 
 Ultimately, I am not going to beat myself up.
 During all of this, I was working a full-time job, so these stories were being written in my evenings and weekends.
@@ -51,14 +54,14 @@ I am still very happy I managed 75% of the stories.
 
 In the event that the primary prompt did not give me an idea of what to write, I had a backup word that I could use instead.
 
-Of the nine stories written, I only had to use the backup word once, on the 7<sup>th</sup>.
+Of the nine stories written, I only had to use the backup word once, on the 7^th^.
 The primary word was `north`, and although I had ideas of writing something about the 'North Pole', I had a better idea for `sound` that would allow me to try a different style of writing.
 
 If I were to do this again, I would 100% keep the backup word as an option.
 Giving my brain an 'out' made the task seem less daunting.
 For the most part, however, I just wrote the first thing that came to my head.
 
-On the 3<sup>rd</sup> I did jump from `point` to `peak`, but the prompts are supposed to be just that, prompts.
+On the 3^rd^ I did jump from `point` to `peak`, but the prompts are supposed to be just that, prompts.
 
 ### Grammar
 
@@ -77,7 +80,7 @@ Doing this again, I would write in LibraOffice and then translate the text into 
 Based on my natural writing style, I can pretty effortlessly manage both first and third person writing.
 I relate more to first person so that tends to be my preferred style.
 
-Annoyingly, I missed the only second person story on the 19<sup>th</sup>, but if I am being honest, the idea of writing second person was quite daunting.
+Annoyingly, I missed the only second person story on the 19^th^, but if I am being honest, the idea of writing second person was quite daunting.
 I have never read a story that is written from that perspective, so it was going to be quite an interesting and difficult challenge.
 
 If I find myself in the mood I might come back around and write it, with a bit more time to get it right.
@@ -90,11 +93,11 @@ Now, I'm not a master of genre definitions, so these are probably incorrect, but
 
 | Genre     | Count | Days                                                                                                                                           |
 |-----------|:-----:|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Horror    | 3     | [5]({% link _fiction/12-days-of-short-stories-5.md %}) [7]({% link _fiction/12-days-of-short-stories-7.md %}) [23]({% link _fiction/12-days-of-short-stories-23.md %}) |
-| Adventure | 2     | [3]({% link _fiction/12-days-of-short-stories-3.md %}) [15]({% link _fiction/12-days-of-short-stories-15.md %})                                                |
-| Sci-fi    | 2     | [1]({% link _fiction/12-days-of-short-stories-1.md %}) [13]({% link _fiction/12-days-of-short-stories-13.md %})                                                |
-| Crime     | 1     | [11]({% link _fiction/12-days-of-short-stories-11.md %})                                                                                               |
-| Thriller  | 1     | [17]({% link _fiction/12-days-of-short-stories-17.md %})                                                                                               |
+| Horror    | 3     | [5]({{< ref "12-days-of-short-stories-5" >}}) [7]({{< ref "12-days-of-short-stories-7" >}}) [23]({{< ref "12-days-of-short-stories-23" >}}) |
+| Adventure | 2     | [3]({{< ref "12-days-of-short-stories-3" >}}) [15]({{< ref "12-days-of-short-stories-15" >}})                                                |
+| Sci-fi    | 2     | [1]({{< ref "12-days-of-short-stories-1" >}}) [13]({{< ref "12-days-of-short-stories-13" >}})                                                |
+| Crime     | 1     | [11]({{< ref "12-days-of-short-stories-11" >}})                                                                                               |
+| Thriller  | 1     | [17]({{< ref "12-days-of-short-stories-17" >}})                                                                                               |
 
 <!-- markdownlint-enable MD022 -->
 
@@ -118,7 +121,7 @@ I'm not sure if you can get that kind of uniqueness in a thousand words all the 
 
 This is an area I really want to improve on.
 
-I am happy I had a go at an LA Noir ([11]({% link _fiction/12-days-of-short-stories-11.md %})) style story, and a World War Z ([17]({% link _fiction/12-days-of-short-stories-17.md %})) inspired one.
+I am happy I had a go at an LA Noir ([11]({{< ref "12-days-of-short-stories-11" >}})) style story, and a World War Z ([17]({{< ref "12-days-of-short-stories-17" >}})) inspired one.
 
 ## Wrap Up
 
@@ -131,6 +134,6 @@ I might try this again in 2025.
 I still want to try my hand at writing a longer story.
 Let's see if this exercise helped.
 
-If you have read this far, and you read the stories, thank you for joining me, and I hope you don't want your time back.
-_No refunds!_
-{: .notice--info}
+> [!NOTE]
+> If you have read this far, and you read the stories, thank you for joining me, and I hope you don't want your time back.
+> _No refunds!_

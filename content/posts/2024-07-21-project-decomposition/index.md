@@ -1,41 +1,34 @@
 ---
+aliases:
+  - "/code/project-decomposition/"
 title: "Project Decomposition"
 date: 2024-07-21 12:00:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
 categories: code
-tags: engineering
-
-header:
-  teaser: /assets/images/teaser_code.png
+tags: [engineering]
 ---
 
 As an architect, I frequently assist software engineers in breaking down project scope into manageable chunks.
 Here is one of the techniques I use.
 
-{% capture notice-update-1 %}
-So this process should be called 'User Story Mapping' and is featured in its own [O'Reilly book](https://www.oreilly.com/library/view/user-story-mapping/9781663728661/) by Jeff Patton and Roy McCrerey.
+<!--more-->
 
-I struggled to find anything about it because I did not know the correct name.
-But now I do, I have found lots of _far_ better blogs out there on this process (e.g. [1](https://www.easyagile.com/blog/the-ultimate-guide-to-user-story-maps/), [2](https://plan.io/blog/user-story-mapping/) and [3](https://www.nngroup.com/articles/user-story-mapping/)).
+<!-- markdownlint-disable MD028 -->
 
-There is also a [video](https://www.youtube.com/watch?v=AorAgSrHjKM) featuring one of the authors of the book.
+> [!INFO] Update 2024/07/25
+> So this process should be called 'User Story Mapping' and is featured in its own [O'Reilly book](https://www.oreilly.com/library/view/user-story-mapping/9781663728661/) by Jeff Patton and Roy McCrerey.
+>
+> I struggled to find anything about it because I did not know the correct name.
+> But now I do, I have found lots of _far_ better blogs out there on this process (e.g. [1](https://www.easyagile.com/blog/the-ultimate-guide-to-user-story-maps/), [2](https://plan.io/blog/user-story-mapping/) and [3](https://www.nngroup.com/articles/user-story-mapping/)).
+>
+> There is also a [video](https://www.youtube.com/watch?v=AorAgSrHjKM) featuring one of the authors of the book.
+>
+> In fact, this blog probably now only serves as a writing exercise :smile:.
+> I plan on buying and reading the book so I can correct all the terminology on this page.
 
-In fact, this blog probably now only serves as a writing exercise :smile:.
-I plan on buying and reading the book so I can correct all the terminology on this page.
-{% endcapture %}
+> [!INFO] Original 2024/07/21
+> :blue_heart: I do not know the origin of this process, but if you do, let me know so I can attribute it correctly.
 
-{% capture notice-original %}
-:blue_heart: I do not know the origin of this process, but if you do, let me know so I can attribute it correctly.
-{% endcapture %}
-
-<!-- markdownlint-disable MD033 -->
-<div class="notice--primary">
-  <h4 class="no_toc">Update 2024/07/25:</h4>
-  {{ notice-update-1 | markdownify }}
-  <h4 class="no_toc">Original 2024/07/21:</h4>
-  {{ notice-original | markdownify }}
-</div>
-<!-- markdownlint-enable MD033 -->
+<!-- markdownlint-enable MD028 -->
 
 ## Why do we need decomposition?
 
@@ -45,7 +38,7 @@ When given a new project, it's very easy for a team to balk at the full scope of
 > From scratch?
 > That's going to take years!
 >
-> \- The Engineering Team
+> &mdash; The Engineering Team
 
 Any project of sufficient size will need to be broken down into tasks for the team to work on; but where do you start?
 
@@ -91,8 +84,8 @@ Here we have a couple of randomly selected aspects of the APIs (for very large p
 
 Teams will not manage to put everything here first time, as they work through this process they will discover more.
 
-:warning: This is a good time to remember all of those other business systems your application needs to integrate with (like Salesforce)
-{: .notice--warning}
+> [!WARNING]
+> This is a good time to remember all of those other business systems your application needs to integrate with (like Salesforce)
 
 ### Step 2 - Slicing
 
@@ -166,7 +159,7 @@ Now we have the aspects above we can perform the next step; defining the MVP.
 
 > The minimum viable product, or MVP, is the simplest version of a product that you need to build to sell it to a market.
 >
-> \- [Atlassian](https://www.atlassian.com/agile/product-management/minimum-viable-product)
+> &mdash; [Atlassian](https://www.atlassian.com/agile/product-management/minimum-viable-product)
 
 Which slices of each aspect/feature do we need to deliver before we can say we have an acceptable product we can put out into the world.
 This might form the first Task/Story/Epic for the team, depending how big the project is.
@@ -237,7 +230,7 @@ Hopefully by this point the team are beginning to get an idea of _what_ they nee
 > A Minimum Lovable Product (MLP) is an initial offering that users love from the start.
 > It represents the minimum that is required for customers to adore a product, rather than merely tolerating it.
 >
-> \- [Aha](https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product)
+> &mdash; [Aha](https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product)
 
 If we think back to our MVP, we said that we will not allow users to delete their posts if they make a mistake.
 This is not a very enjoyable experience for the users, but they _might_ tolerate it.
@@ -300,7 +293,7 @@ We can now see a couple of things playing out:
 
 1. We want our customers to be able to delete their mistakes, so 'Delete' under 'Post APIs' is now included.
 2. We also want our support team to love us; so instead of handling hundreds of 'Please delete my account' emails, we will let customers do it themselves.
-3. Having to provide an IP address is incredibly impractical for B2C applications as most customers do not know how do get, or even what an IP address is. IP allow lists are good for getting started but a WAF will help us reach more customers by being internet accessible.
+3. Having to provide an IP address is incredibly impractical for {{< term "B2C" >}} applications as most customers do not know how do get, or even what an IP address is. IP allow lists are good for getting started but a {{< term "WAF" >}} will help us reach more customers by being internet accessible.
 
 ## Summary
 
@@ -319,19 +312,14 @@ That, and we are not wasting too much time on this process, we are only discussi
 
 1. Try and do this collaboratively.
    Every member of the team member should be present.
-2. Whiteboards are my go to for anything like this but this requires a co-located team who can come to the office.
+2. Whiteboards are my go to for anything like this, but this requires a co-located team who can come to the office.
    A shared space like a Confluence page/Word document will do.
 3. This is a living document.
    Change it as you see fit throughout the project.
-   Security team changed their systems so now you need to push logs into Azure Sentinel?
+   Security team changed their systems, so now you need to push logs into Azure Sentinel?
    Add a slice.
 4. There is no limit on how many lines you should draw.
    I've seen teams do one-per-card.
    I've seen teams do one-per-project.
    This is a resource for the team, by the team.
 5. Don't force it if you don't need it.
-
-*[B2C]: Business-to-Consumer
-*[WAF]: Web Application Firewall
-
-{:footnotes}

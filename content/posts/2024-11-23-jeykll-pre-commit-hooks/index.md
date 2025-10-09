@@ -1,15 +1,12 @@
 ---
+aliases:
+  - "/code/jeykll-pre-commit-hooks/"
 title: "Jekyll pre-commit Hooks"
 date: 2024-11-23 18:11:00 +0000
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: code
-tags: git jekyll
+categories: [code]
+tags: [git, jekyll]
 
-tagline: &tagline "I use multiple pre-commit hooks to make sure my posts are really ready. This is my setup"
-excerpt: *tagline
-
-header:
-  teaser: /assets/images/teaser_code.png
+summary: "I use multiple pre-commit hooks to make sure my posts are really ready. This is my setup."
 ---
 
 You can see my full pre-commit setup [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/.pre-commit-config.yaml).
@@ -78,7 +75,7 @@ Credit here entirely goes to Michael Rose who wrote a [post](https://mademistake
 
 ## Generate Maps
 
-I wrote a [whole blog]({% post_url 2024-09-28-adding-maps-to-my-travel-posts %}) on how I added maps to my blogs, and a key part of that is the pre-commit hook.
+I wrote a [whole blog]({{< ref "2024-09-28-adding-maps-to-my-travel-posts" >}}) on how I added maps to my blogs, and a key part of that is the pre-commit hook.
 Head over to that blog to read more.
 
 ## Validating Links

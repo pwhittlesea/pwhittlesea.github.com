@@ -1,14 +1,11 @@
 ---
+aliases:
+  - "/hardware/x260-suspend/"
 title: "My ThinkPad won't wake up"
 date: 2024-09-13 21:23:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
-categories: hardware
-tags: thinkpad
-classes: wide
-toc: false
-
-header:
-  teaser: /assets/images/teaser_code.png
+categories: [hardware]
+tags: [thinkpad]
+summary: "Last week I upgraded my ever-reliable Lenovo x260 ThinkPad to Ubuntu 24.04, and it would no longer wake up from a suspend state."
 ---
 
 Last week I upgraded my ever-reliable Lenovo x260 ThinkPad to Ubuntu 24.04.

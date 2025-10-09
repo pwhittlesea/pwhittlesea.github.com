@@ -1,22 +1,24 @@
 ---
+aliases:
+  - "/update/new-beginnings/"
 title: "New Beginnings"
 date: 2024-02-17 17:07:00 +0000
-last_modified_at: 2024-02-17 17:07:00 +0000
-categories: update
-tags: jekyll github
+categories: [update]
+tags: [jekyll, github]
 ---
 
 I've been rocking the same website since 2013.
 I created it on the 25th of April 2013 when I heard that GitHub had moved GitHub Pages to a dedicated domain, `github.io`.
 
+<!--more-->
 
 ## Out with the old
 
 In a [single commit](https://github.com/pwhittlesea/pwhittlesea.github.com/commit/6aa6b93ab9ff15eded0baca6e7891081d83b2574) I pushed all the context required, and it stayed that way, unchanged, for 10 years, 9 months and 23 days.
 
-A *lot* has happened in my life in that time.
+A _lot_ has happened in my life in that time.
 
-![My old site](/assets/images/new-beginnings_old-site.png)
+![My old site](new-beginnings_old-site.png)
 
 At the time I put out this, admittedly garish, site I had been a Software Engineer for under a year.
 I had a great work/life balance as the demands on a junior engineer are basically non-existent.
@@ -69,6 +71,6 @@ I have already had to modify it to show tags on posts but I (in no order) want t
 - Add a picture of me (yes I'm vain)
 - Find a nicer font and colour scheme
 
-#### Footnote
+### Footnote
 
 Thanks to Jason E. Miller, Ph.D. for writing [this blog](http://www.jasonemiller.org/2020/12/23/tagging-posts-in-jekyll-minima.html) which helped me set up the tags you see below.

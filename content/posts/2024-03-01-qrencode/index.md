@@ -1,17 +1,14 @@
 ---
+aliases:
+  - "/code/qrencode/"
 title: "Simple QR Code Command"
 date: 2024-03-01 21:34:00 +0000
-last_modified_at: 2024-10-21T20:30:48+00:00
-categories: code
-classes: wide
-tags: osx
-toc: false
-
-header:
-  teaser: /assets/images/teaser_code.png
+categories: [code]
+tags: [osx]
+summary: "A simple function to create a QR code for a URL, so you can 'send' a link to your phone."
 ---
 
-Sometimes you need to open a URL on your phone that you found on your company laptop but there's no simple way to send it between the two devices.
+Sometimes you need to open a URL on your phone that you found on your company laptop, but there's no simple way to send it between the two devices.
 This simple command allow you to turn a URL into a QR code you can scan on your phone.
 
 For this to work you will need to install [`qrencode`](https://formulae.brew.sh/formula/qrencode):

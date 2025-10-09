@@ -1,13 +1,12 @@
 ---
+aliases:
+  - "/code/ssh-instead-of-https-for-terraform/"
 title: "Use ssh instead of https for Terraform modules"
 date: 2024-12-19 22:39:00 +0100
-last_modified_at: 2024-12-22T10:57:13+00:00
-toc: false
-categories: code
-tags: github terraform
+categories: [code]
+tags: [github, terraform]
 
-header:
-  teaser: /assets/images/teaser_code.png
+summary: Redirect your `http` Terraform modules to connect over `ssh` instead.
 ---
 
 When you use Terraform modules that are hosted on GitHub, you tend to set up the module reference with `https` as the protocol because you can use an auth token in CI/CD.

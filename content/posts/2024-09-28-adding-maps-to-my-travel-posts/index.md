@@ -1,15 +1,12 @@
 ---
+aliases:
+  - "/code/adding-maps-to-my-travel-posts/"
 title: "Adding Maps to my Travel Posts"
 date: 2024-09-28 21:31:00 +0100
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: code
-tags: git precommit maps
+categories: [code]
+tags: [git, precommit, maps]
 
-tagline: &tagline My travel posts lacked visual context, so I added SVG maps to them.
-excerpt: *tagline
-
-header:
-  teaser: /assets/images/teaser_code.png
+summary: My travel posts lacked visual context, so I added SVG maps to them.
 
 maps:
   - name: an_example_map
@@ -34,15 +31,15 @@ maps:
         lon: -1.1704492438361127
 ---
 
-This post is inspired by Josh Erb's blog: [How I Added Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/).
-{: .notice--info}
+> [!TIP]
+> This post is inspired by Josh Erb's blog: [How I Added Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/).
 
-{% include map.html name="an_example_map" %}
+{{< map name="an_example_map" >}}
 
-I recently started writing a travel blog on my visit to [New Zealand]({% link _pages/tag-archive.md %}#new-zealand) and something was missing.
+I recently started writing a travel blog on my visit to [New Zealand]({{< ref "/tags/new-zealand/" >}}) and something was missing.
 Posts lacked a bit of context as to where I was and where the blog would be taking the reader.
 
-As a daily lurker of 'Hacker News', almost immediately after I had posted my first blog on the 15<sup>th</sup> of September,
+As a daily lurker of 'Hacker News', almost immediately after I had posted my first blog on the 15^th^ of September,
 I came across a post from the day before titled ['I Added SVG Maps to My Travel Posts'](https://news.ycombinator.com/item?id=41532958).
 
 As someone who worked in a Geospatial company for a decade I'm ashamed to admit I had not considered maps on my posts.
@@ -71,19 +68,16 @@ location: mumbai
 
 Which is then passed to a custom function in the post template file:
 
-{% raw %}
-
 ```liquid
 {% cartographer location %}
 ```
-
-{% endraw %}
 
 This results in a custom JavaScript function in the site configuration being called,
 which generates a map for the given location.
 When their site is built the map is generated.
 
-![magic](/assets/images/magic.gif){: .align-center style="width: 50%;"}
+![magic](magic.gif)
+{style="width: 50%;"}
 
 I would have _loved_ to have copy and pasted the solution to my own site, but my setup is a bit different.
 
@@ -154,8 +148,8 @@ Generate Maps.....................Failed
 - files were modified by this hook
 ```
 
-Currently, this hook will not pick up new maps which were unstaged (always run `git status` kids)!
-{: .notice--danger}
+> [!DANGER]
+> Currently, this hook will not pick up new maps which were unstaged (always run `git status` kids)!
 
 ## Image Generation
 
@@ -173,9 +167,9 @@ there are probably alternatives out there, but it's a good library that allowed 
 
 [^3]: I reached for Python as I am more familiar with the tool chain; which meant I had to find an alternative to the JavaScript based D3.
 
-**Note:** `py-staticmaps` is not currently being pushed to pypi, so I needed to patch for an API difference in PIL.
-Thanks to the awesome community I found a quick patch [here](https://github.com/flopp/py-staticmaps/issues/39#issuecomment-2264856739).
-{: .notice--info}
+> [!NOTE]
+> `py-staticmaps` is not currently being pushed to pypi, so I needed to patch for an API difference in PIL.
+> Thanks to the awesome community I found a quick patch [here](https://github.com/flopp/py-staticmaps/issues/39#issuecomment-2264856739).
 
 ### Reading Front Matter
 
@@ -269,13 +263,9 @@ Which is when I stumbled upon [Jekyll without plugins](https://jekyllcodex.org/w
 By [looking at some](https://github.com/jhvanderschee/jekyllcodex/blob/3f5bbeac8c21a94769244081768bc739ed31738f/_includes/reading-time.html)
 of the Plugin-free solutions listed, I was able to cobble together a solution that looks like this:
 
-{% raw %}
-
 ```liquid
 {% include map.html name="london_to_auckland" %}
 ```
-
-{% endraw %}
 
 This includes a custom HTML file called [map.html](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/1f6f8d270d438a3d2c2a69d7915afdfc7ec6cd2e/_includes/map.html)
 which then pulls all the map metadata from the Front Matter based on the given name.
@@ -283,11 +273,9 @@ which then pulls all the map metadata from the Front Matter based on the given n
 This then allows me to do cool things like change the alt text of the image to include the captions of the locations when present.
 Hover over the example at the top of this page to see it in action!
 
-![more-magic](/assets/images/magic.gif){: .align-center style="width: 50%;"}
+![more-magic](magic.gif)
 
 ## The Final Result
 
-You can see the final result on my [New Zealand - Part 1]({% post_url 2024-09-15-new-zealand-1 %}#wednesday-29th-flying-to-new-zealand) post.
+You can see the final result on my [New Zealand - Part 1]({{< ref "2024-09-15-new-zealand-1" >}}#wednesday-29th-flying-to-new-zealand) post.
 The source code for which can be found [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/_posts/2024-09-15-new-zealand-1.md).
-
-{:footnotes}

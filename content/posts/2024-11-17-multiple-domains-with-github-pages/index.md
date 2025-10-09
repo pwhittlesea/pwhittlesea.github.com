@@ -1,15 +1,12 @@
 ---
+aliases:
+  - "/code/multiple-domains-with-github-pages/"
 title: "Multiple custom domains with GitHub Pages"
 date: 2024-11-17 18:59:00 +0100
-last_modified_at: 2025-04-27T11:49:52+00:00
-categories: code
-tags: github html
+categories: [code]
+tags: [github, html]
 
-tagline: &tagline "I moved all of my domains to GitHub pages"
-excerpt: *tagline
-
-header:
-  teaser: /assets/images/teaser_code.png
+summary: "I moved all of my domains to GitHub pages"
 ---
 
 ## Background
@@ -30,9 +27,9 @@ I have not, however, spent any time working on the other three; leaving them to 
 No HTTPS.
 In the current day and age where TLS certificates are free, and browser settings such as Firefox's [HTTPS-Only Mode](https://support.mozilla.org/en-US/kb/https-only-prefs), this is not really acceptable anymore.
 
-This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page]({% post_url 2024-02-17-new-beginnings %}) for this domain &mdash; so I had to update it eventually.
+This 'About Me' page was super out of date as well &mdash; pre-dating my [original GitHub page]({{< ref "2024-02-17-new-beginnings" >}}) for this domain &mdash; so I had to update it eventually.
 
-![My About Me](/assets/images/about_me_pwhittlesea.png){: .align-center style="width: 50%;"}
+![My About Me](about_me_pwhittlesea.png)
 
 The final domain, `wedfest-2017.uk`, was a site I built for my wedding back in 2017 (obviously).
 It contained details of the day, and had a form allowing guests to RSVP.
