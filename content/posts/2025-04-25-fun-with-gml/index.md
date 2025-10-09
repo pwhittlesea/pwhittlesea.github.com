@@ -3,7 +3,7 @@ aliases:
   - "/code/fun-with-gml/"
 title: "Fun with GML"
 date: 2025-04-25 14:07:00 +0100
-last_modified_at: 2025-04-25 14:59:35 +0100
+last_modified_at: 2025-04-25 13:59:35 +0000
 category: [code]
 tags: [engineering, maps]
 
