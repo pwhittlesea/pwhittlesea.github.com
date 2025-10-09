@@ -1,0 +1,6 @@
+global:
+  language: "EN"
+article:
+  part_of_series: "Series"
+error:
+  404_title: "Page Not Found"

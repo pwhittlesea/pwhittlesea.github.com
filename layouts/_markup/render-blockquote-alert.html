@@ -1,0 +1,47 @@
+{{- if eq .Type "alert" -}}
+    {{- $iconColorMap := dict
+        "note" "tw:text-sky-900 tw:dark:text-sky-500"
+        "info" "tw:text-blue-900 tw:dark:text-blue-500"
+        "tip" "tw:text-green-900 tw:dark:text-green-500"
+        "warning" "tw:text-amber-900 tw:dark:text-amber-500"
+        "danger" "tw:text-red-900 tw:dark:text-red-500" -}}
+    {{- $bgColorMap := dict
+        "note" "tw:bg-sky-700/10 tw:border-l-sky-700"
+        "info" "tw:bg-blue-700/10 tw:border-l-blue-700"
+        "tip" "tw:bg-green-700/10 tw:border-l-green-700"
+        "warning" "tw:bg-amber-700/10 tw:border-l-amber-700"
+        "danger" "tw:bg-red-700/10 tw:border-l-red-700" -}}
+    {{- $headerColorMap := dict
+        "note" "tw:bg-sky-700/55"
+        "info" "tw:bg-blue-700/55"
+        "tip" "tw:bg-green-700/55"
+        "warning" "tw:bg-amber-700/55"
+        "danger" "tw:bg-red-700/55" -}}
+    {{- $iconMap := dict
+        "note" "pencil"
+        "info" "circle-info"
+        "tip" "lightbulb"
+        "warning" "triangle-exclamation"
+        "danger" "triangle-exclamation" -}}
+    {{- $titleMap := dict
+        "note" "Note"
+        "info" "Info"
+        "tip" "Tip"
+        "warning" "Warning"
+        "danger" "Danger" -}}
+    <div class="{{ index $bgColorMap .AlertType }} relative rounded-lg tw:my-4 tw:border-l-4 tw:border-l-solid shadow-lg">
+        <div class="{{ index $headerColorMap .AlertType }} flex tw:rounded-tr-lg tw:rounded-tl-sm tw:p-1 tw:font-bold items-center">
+            <span class="{{ index $iconColorMap .AlertType }} tw:px-2">
+                {{ partial "icon.html" (index $iconMap .AlertType) }}
+            </span>
+            {{ .AlertTitle | default (index $titleMap .AlertType) }}
+        </div>
+        <div class="tw:p-2 prose dark:text-neutral-100">
+            {{ .Text }}
+        </div>
+    </div>
+{{- else -}}
+    <blockquote>
+        {{ .Text }}
+    </blockquote>
+{{- end -}}

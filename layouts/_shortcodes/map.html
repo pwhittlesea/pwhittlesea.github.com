@@ -1,0 +1,48 @@
+{{- $arg_name := (.Get "name") -}}
+{{- $arg_waypoints := (.Get "waypoints") -}}
+{{- $arg_caption := (.Get "caption") -}}
+{{- $map_points := slice -}}
+{{- with $.Page.Params.Maps -}}
+    {{- range . -}}
+        {{- if eq .name $arg_name -}}
+            {{- $map_points = .points -}}
+            {{- break -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- /* Error handling for missing map points */ -}}
+{{- if eq (len $map_points) 0 -}}
+    {{- errorf "Map not found: %s" $arg_name -}}
+{{- else -}}
+
+    {{- $first_point := index $map_points 0 -}}
+    {{- $last_point := index $map_points (sub (len $map_points) 1) -}}
+    {{- $caption := "" -}}
+    {{- $google_url := "" -}}
+    {{- if eq (len $map_points) 1 -}}
+        {{- $caption = $first_point.name -}}
+        {{- $google_url = printf "https://maps.google.com/?q=%.4f,%.4f" $first_point.lat $first_point.lon -}}
+    {{- else if or (eq (len $map_points) 2) (eq "false" $arg_waypoints) -}}
+        {{- $caption = printf "%s to %s" $first_point.name $last_point.name -}}
+        {{- $google_url = printf "https://www.google.com/maps/dir/?api=1&origin=%.4f,%.4f&destination=%.4f,%.4f" $first_point.lat $first_point.lon $last_point.lat $last_point.lon -}}
+    {{- else -}}
+        {{- $point_names := slice -}}
+        {{- $waypoint_lat_lons := slice -}}
+        {{- $other_points := (first (sub (len $map_points) 2) (after 1 $map_points)) -}}
+        {{- range $other_points -}}
+            {{- $point_names = $point_names | append .name -}}
+            {{- $waypoint_lat_lons = $waypoint_lat_lons | append (printf "%.4f,%.4f" .lat .lon) -}}
+        {{- end -}}
+        {{- $caption = printf "%s to %s, via %s" $first_point.name $last_point.name (delimit $point_names ", and ") -}}
+        {{- $google_url = printf "https://www.google.com/maps/dir/?api=1&origin=%.4f,%.4f&destination=%.4f,%.4f&waypoints=%s" $first_point.lat $first_point.lon $last_point.lat $last_point.lon (delimit $waypoint_lat_lons "|") -}}
+    {{- end -}}
+    {{- if ne $arg_caption "" -}}
+        {{- $caption = $arg_caption -}}
+    {{- end -}}
+    <figure>
+        <img class="my-0 rounded-md nozoom" src="{{- $arg_name -}}.svg" alt="{{ $caption }}" />
+        <figcaption>{{ printf "%s ([Open in Google Maps](%s))" $caption $google_url | markdownify }}</figcaption>
+    </figure>
+
+{{- end -}}
