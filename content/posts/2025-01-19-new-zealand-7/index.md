@@ -3,6 +3,7 @@ aliases:
   - "/holidays/new-zealand-7/"
 title: "I visited New Zealand - Part 7"
 date: 2025-01-19 14:26:00 +0000
+last_modified_at: 2025-04-27 12:49:52 +0100
 categories: [holidays]
 tags : ["new zealand"]
 series: ["New Zealand"]

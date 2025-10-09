@@ -60,6 +60,12 @@ caches:
   assets:
     dir: :cacheDir/assets
 
+# Use the last_modified_at date from the frontmatter if it exists, otherwise use the default sources
+frontmatter:
+  lastmod:
+  - "last_modified_at"
+  - :default
+
 # Theme Configuration
 # https://blowfish.page/docs/configuration/
 params:

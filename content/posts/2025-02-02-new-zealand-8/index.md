@@ -3,6 +3,7 @@ aliases:
   - "/holidays/new-zealand-8/"
 title: "I visited New Zealand - Part 8"
 date: 2025-02-02 15:19:00 +0000
+last_modified_at: 2025-04-27 12:49:52 +0100
 categories: [holidays]
 tags : ["new zealand"]
 series: ["New Zealand"]
@@ -318,6 +319,7 @@ This creates an interesting looking bare strip on the side of the mountain.
 I didn't get a picture of one in the sound because I was too busy taking it all in, so here is a picture of one we saw earlier in the day:
 
 ![tree-avalanche](new_zealand_1914.jpeg "A mountain after a 'tree avalanche'")
+{style="width: 50%;"}
 
 Throughout the sound you can see lots of these strips in various stages, because once the avalanche happens, the whole cycle of life begins anew.
 It's not bare for long.

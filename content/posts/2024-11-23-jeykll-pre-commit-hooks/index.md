@@ -3,6 +3,7 @@ aliases:
   - "/code/jeykll-pre-commit-hooks/"
 title: "Jekyll pre-commit Hooks"
 date: 2024-11-23 18:11:00 +0000
+last_modified_at: 2025-04-27 11:49:52 +0000
 categories: [code]
 tags: [git, jekyll]
 

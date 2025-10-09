@@ -3,6 +3,7 @@ aliases:
   - "/code/long-live-the-lakehouse/"
 title: "Long Live The Lakehouse"
 date: 2025-06-15 10:50:00 +0100
+last_modified_at: 2025-06-15 10:50:58 +0100
 categories: [code]
 tags: [data, architecture]
 ---

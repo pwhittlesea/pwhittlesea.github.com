@@ -3,6 +3,7 @@ aliases:
   - "/the-beautiful-world-of-walter-mitty/"
 title: "The Beautiful World of Walter Mitty"
 date: 2025-03-28 23:09:00 +0000
+last_modified_at: 2025-04-25 17:00:31 +0100
 tags: [films]
 summary: "The 2013 Film 'The Secret Life of Walter Mitty' is visually astounding, and you should watch it!"
 featureimagecaption: "Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"

@@ -3,6 +3,7 @@ aliases:
   - "/code/10-years-frameworks/"
 title: "Looking back - 10 years writing application framework code"
 date: 2025-02-19 15:00:00 +0000
+last_modified_at: 2025-04-27 12:49:52 +0100
 categories: [code]
 tags: [architecture, engineering, "code quality"]
 

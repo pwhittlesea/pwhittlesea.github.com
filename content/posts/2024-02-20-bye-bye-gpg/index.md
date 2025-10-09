@@ -3,6 +3,7 @@ aliases:
   - "/code/bye-bye-gpg/"
 title: "Bye-Bye GPG"
 date: 2024-02-20 12:49:00 +0000
+last_modified_at: 2024-10-21 20:30:48 +0000
 categories: [code]
 tags: [gpg, ssh, security, git]
 summary: "So I have been using GPG to sign my Git commits for about 5 years now and every year, when my keys expire, it's a nightmare to renew the keys for another year. Here's how to set up SSH signing keys."
