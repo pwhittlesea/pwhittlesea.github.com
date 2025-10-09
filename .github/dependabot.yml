@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "go"
     directory: "/"
     schedule:
       interval: "weekly"
@@ -8,5 +8,3 @@ updates:
       all:
         patterns:
           - "*"
-    ignore:
-      - dependency-name: "jekyll-sass-converter"
