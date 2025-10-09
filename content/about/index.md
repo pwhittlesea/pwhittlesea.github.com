@@ -1,26 +1,44 @@
 ---
 title: About
-toc: false
-permalink: /about/
+date: 2013-01-01
+showDate: false
+showWordCount: false
+showReadingTime: false
+summary: "A brief overview of who I am and what I get up to"
+
+animals:
+  - image_path: IMG_1817.JPG
+    title: Maurice
+  - image_path: IMG_1819.JPG
+    title: Mort
+  - image_path: IMG_1823.JPG
+    title: Mally
+  - image_path: IMG_1825.JPG
+    title: Ada
+  - image_path: IMG_1824.JPG
+    title: Cara
+  - image_path: IMG_1830.JPG
+    title: Fluffy
 ---
 
 I am currently living in Southampton with my partner (whom I dote on), my 4 cats (whom I tolerate) and 2 dogs (whom I fuss over).
 
+{{< mm-gallery id="animals" caption="My Animals" >}}
+
 :christmas_tree: I have a passion for going overboard at Christmas (see below) which means November is blocked out to put the decorations up, and January to pull them down.
 
-:vampire: I am a D&D player, and DM.
+:vampire: I am a {{< term "D&D" >}} player, and {{< term "DM" >}}.
 I just finished a 4-year play through of [Curse of Strahd](https://en.wikipedia.org/wiki/Curse_of_Strahd) (which was only supposed to take a year), so I am taking a bit of a break.
 Saying that, I am keen to get started on [Storm King's Thunder](https://en.wikipedia.org/wiki/Storm_King%27s_Thunder), just in case that takes another 4 years.
-
-*[D&D]: Dungeons & Dragons
-*[DM]: Dungeon Master
 
 :video_game: If I can find the time, I try to squeeze in some time playing video games.
 [7 Days 2 Die](https://en.wikipedia.org/wiki/7_Days_to_Die) and [Split Fiction](https://en.wikipedia.org/wiki/Split_Fiction) are at the top of my roster, but I have played [Valheim](https://en.wikipedia.org/wiki/Valheim) and [ARK: Survival Evolved](https://en.wikipedia.org/wiki/Ark:_Survival_Evolved) in the past.
 
-:factory: I hate to admit it, but I have also put a _lot_ of hours into the ever-growing factory that is [Factorio](https://en.wikipedia.org/wiki/Factorio)[^1].
+:factory: I hate to admit it, but I have also put a _lot_ of hours into the ever-growing factory that is [Factorio](https://en.wikipedia.org/wiki/Factorio)[^1] [^2].
 
-[^1]: 644.1 hours as of the 20<sup>th</sup> April 2025
+[^1]: 644.1 hours as of the 20^th^ April 2025
+
+[^2]: 840.7 hours as of the 30^th^ August 2025
 
 :monkey_face: I have been known to replay [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) from time to time.
 You don't have to load it from two floppy disks anymore, but it's still nostalgic.
@@ -39,6 +57,6 @@ It all depends on what interests me and what's needed of me on a given day.
 
 I am currently at [Cirium](https://cirium.com) in Southampton (which was [Snowflake Software Ltd.](https://www.cirium.com/thoughtcloud/snowflake-software-agrees-to-join-cirium/)).
 
-For more information on my skills and job history, see my [CV]({% link _pages/cv.md %}).
+For more information on my skills and job history, see my [CV]({{< ref "/cv" >}}).
 
-![christmas-image](/assets/images/about-christmas.jpg "My House December 1st")
+![christmas-image](about-christmas.jpg "My House December 1st")
