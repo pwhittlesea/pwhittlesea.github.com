@@ -102,7 +102,7 @@ Becomes: {{< term "SSG" >}}
 
 This sources its definitions from the [terms.yaml](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/data/terms.yaml) data file.
 
-It's not as nice as the kramdown syntax &mdash; which post processes the content to replace all instances of the abbreviation with the full term &mdash; but it works.
+It's not as nice as the kramdown syntax &mdash; which post-processes the content to replace all instances of the abbreviation with the full term &mdash; but it works.
 
 ### Image Width
 
