@@ -128,3 +128,14 @@ The term {{< term "D&D" >}} and {{< term "DM" >}} in some text.
       id="one-photo"
       caption="This should be half width with a [link](https://thega.me.uk)"
       class="tw:max-w-1/2" >}}
+
+## Image Width
+
+Full width image:
+
+![This is a full width image](/new_zealand_0647.jpg)
+
+Half width image:
+
+![This is a half width image](/new_zealand_0647.jpg)
+{style="width:50%;"}
