@@ -45,67 +45,51 @@ maps:
         lon: 168.17344976743658
 
 queenstown-airport:
-  - url: new_zealand_1470.jpeg
-    image_path: new_zealand_1470.jpeg
+  - image_path: new_zealand_1470.jpeg
     title: "Our first view of the southern island from the coach"
 
 kawarau:
-  - url: new_zealand_1473.jpeg
-    image_path: new_zealand_1473.jpeg
+  - image_path: new_zealand_1473.jpeg
     title: "I've never seen a river so naturally blue"
-  - url: new_zealand_1474.jpeg
-    image_path: new_zealand_1474.jpeg
+  - image_path: new_zealand_1474.jpeg
     title: "The bungy jump from the bridge"
-  - url: 3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
-    image_path: 3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
+  - image_path: 3d3b4eb7-7303-4efb-8a2d-a303eff51565.jpg
     title: "A blurry picture of us zip lining"
 
 queenstown:
-  - url: new_zealand_1487.jpeg
-    image_path: new_zealand_1487.jpeg
+  - image_path: new_zealand_1487.jpeg
     title: "A view out over the bay at Queenstown"
-  - url: new_zealand_1489.jpeg
-    image_path: new_zealand_1489.jpeg
+  - image_path: new_zealand_1489.jpeg
     title: "The same bay at Queenstown at night"
 
 off-road-uruk-hai:
-  - url: new_zealand_1519-full.jpeg
-    image_path: new_zealand_1519-full.jpeg
+  - image_path: new_zealand_1519-full.jpeg
 
 off-road-gandalf:
-  - url: new_zealand_1679-full.jpeg
-    image_path: new_zealand_1679-full.jpeg
+  - image_path: new_zealand_1679-full.jpeg
 
 off-road-fangorn-forest:
-  - url: new_zealand_1538-full.jpeg
-    image_path: new_zealand_1538-full.jpeg
+  - image_path: new_zealand_1538-full.jpeg
 
 off-road-anduin-river:
-  - url: new_zealand_1575-full.jpeg
-    image_path: new_zealand_1575-full.jpeg
+  - image_path: new_zealand_1575-full.jpeg
 
 off-road-anduin:
-  - url: new_zealand_1565.jpeg
-    image_path: new_zealand_1565.jpeg
+  - image_path: new_zealand_1565.jpeg
     title: "The mountain range in the distance was astounding"
-  - url: new_zealand_1587.jpeg
-    image_path: new_zealand_1587.jpeg
+  - image_path: new_zealand_1587.jpeg
     title: "The canopy at the Mararoa River"
-  - url: new_zealand_1571.jpeg
-    image_path: new_zealand_1571.jpeg
+  - image_path: new_zealand_1571.jpeg
     title: "The bridge over the Mararoa River"
 
 off-road-nen-hithoel-beach:
-  - url: new_zealand_1052-full.jpeg
-    image_path: new_zealand_1052-full.jpeg
+  - image_path: new_zealand_1052-full.jpeg
 
 off-road-nen-hithoel-tree:
-  - url: new_zealand_0940-full.jpeg
-    image_path: new_zealand_0940-full.jpeg
+  - image_path: new_zealand_0940-full.jpeg
 
 off-road-nen-hithoel-log:
-  - url: new_zealand_1636-full.jpeg
-    image_path: new_zealand_1636-full.jpeg
+  - image_path: new_zealand_1636-full.jpeg
 ---
 
 > [!NOTE] Happy New Year!

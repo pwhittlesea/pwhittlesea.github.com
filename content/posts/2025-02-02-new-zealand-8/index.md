@@ -32,84 +32,63 @@ maps:
         lon: 167.9272560624858
 
 milford-coach:
-  - url: new_zealand_1887.jpeg
-    image_path: new_zealand_1887.jpeg
+  - image_path: new_zealand_1887.jpeg
     title: "Windows as far as the eye can see"
 
 milford-morning:
-  - url: new_zealand_1894.jpeg
-    image_path: new_zealand_1894.jpeg
+  - image_path: new_zealand_1894.jpeg
     title: "Not quite the right misty mountains"
-  - url: new_zealand_1895.jpeg
-    image_path: new_zealand_1895.jpeg
+  - image_path: new_zealand_1895.jpeg
     title: "A misty and rainy view out over the bay at Te Anau"
 
 milford-mirror-lakes:
-  - url: new_zealand_1928.jpeg
-    image_path: new_zealand_1928.jpeg
+  - image_path: new_zealand_1928.jpeg
     title: "The Earl Mountains reflects off the Mirror Lakes"
-  - url: new_zealand_1929.jpeg
-    image_path: new_zealand_1929.jpeg
+  - image_path: new_zealand_1929.jpeg
     title: "Low lying clouds covering the Earl Mountains"
-  - url: new_zealand_1934.jpeg
-    image_path: new_zealand_1934.jpeg
+  - image_path: new_zealand_1934.jpeg
     title: "The Earl Mountains reflects off the Mirror Lakes"
 
 milford-monkey-creek:
-  - url: new_zealand_1955.jpeg
-    image_path: new_zealand_1955.jpeg
+  - image_path: new_zealand_1955.jpeg
     title: "A Kia wandering along the ground shaking down tourists for food"
-  - url: new_zealand_1958.jpeg
-    image_path: new_zealand_1958.jpeg
+  - image_path: new_zealand_1958.jpeg
     title: "A Kia eyeing up a tasty rubber car snack"
-  - url: new_zealand_1961.jpeg
-    image_path: new_zealand_1961.jpeg
+  - image_path: new_zealand_1961.jpeg
     title: "Two Kia working in a team"
 
 milford-rainforest:
-  - url: new_zealand_1018.jpeg
-    image_path: new_zealand_1018.jpeg
+  - image_path: new_zealand_1018.jpeg
     title: "Frozen winter wonderland before Homer Tunnel"
-  - url: new_zealand_1977.jpeg
-    image_path: new_zealand_1977.jpeg
+  - image_path: new_zealand_1977.jpeg
     title: "Tropical Rainforest after Homer Tunnel"
 
 milford-boat:
-  - url: new_zealand_1997.jpeg
-    image_path: new_zealand_1997.jpeg
+  - image_path: new_zealand_1997.jpeg
     title: "The magnificent 'Haven'"
 
 milford:
-  - url: new_zealand_2009.jpeg
-    image_path: new_zealand_2009.jpeg
+  - image_path: new_zealand_2009.jpeg
     title: &milford_comment "A breathtaking shot of Milford Sound"
-  - url: new_zealand_2034.jpeg
-    image_path: new_zealand_2034.jpeg
+  - image_path: new_zealand_2034.jpeg
     title: *milford_comment
-  - url: new_zealand_2038.jpeg
-    image_path: new_zealand_2038.jpeg
+  - image_path: new_zealand_2038.jpeg
     title: *milford_comment
-  - url: new_zealand_2056.jpeg
-    image_path: new_zealand_2056.jpeg
+  - image_path: new_zealand_2056.jpeg
     title: *milford_comment
-  - url: new_zealand_1028.jpeg
-    image_path: new_zealand_1028.jpeg
+  - image_path: new_zealand_1028.jpeg
     title: *milford_comment
-  - url: new_zealand_2110.jpeg
-    image_path: new_zealand_2110.jpeg
+  - image_path: new_zealand_2110.jpeg
     title: *milford_comment
 
 milford-waterfalls:
-  - url: new_zealand_2076.jpeg
-    image_path: new_zealand_2076.jpeg
+  - image_path: new_zealand_2076.jpeg
     title: "One of the many waterfalls in Milford Sound"
-  - url: new_zealand_2117.jpeg
-    image_path: new_zealand_2117.jpeg
+  - image_path: new_zealand_2117.jpeg
     title: "Another of the many waterfalls in Milford Sound"
 
 milford-sunset:
-  - url: new_zealand_1033.jpeg
-    image_path: new_zealand_1033.jpeg
+  - image_path: new_zealand_1033.jpeg
     title: "One final sunset to bookend a beautiful day"
 ---
 

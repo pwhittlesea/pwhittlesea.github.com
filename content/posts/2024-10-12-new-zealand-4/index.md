@@ -40,39 +40,30 @@ maps:
 
 
 glow-worm:
-  - url: new_zealand_1053.jpeg
-    image_path: new_zealand_1053.jpeg
+  - image_path: new_zealand_1053.jpeg
     title: "This is my best (and only) picture of the cave"
 
 hairy-feet:
-  - url: new_zealand_0822.jpeg
-    image_path: new_zealand_0822.jpeg
+  - image_path: new_zealand_0822.jpeg
     title: "The path up to Staddle Farm"
-  - url: new_zealand_0826.jpeg
-    image_path: new_zealand_0826.jpeg
+  - image_path: new_zealand_0826.jpeg
     title: "The beautiful mountains overlooking the filming locations"
-  - url: new_zealand_1175.jpeg
-    image_path: new_zealand_1175.jpeg
+  - image_path: new_zealand_1175.jpeg
     title: "A view out across the rolling hills"
 
 hairy-sitting:
-  - url: new_zealand_0837-full.jpeg
-    image_path: new_zealand_0837-full.jpeg
+  - image_path: new_zealand_0837-full.jpeg
 
 hairy-sting:
-  - url: new_zealand_1138-full.jpeg
-    image_path: new_zealand_1138-full.jpeg
+  - image_path: new_zealand_1138-full.jpeg
 
 hairy-rock:
-  - url: new_zealand_1205-full.jpeg
-    image_path: new_zealand_1205-full.jpeg
+  - image_path: new_zealand_1205-full.jpeg
 
 hairy-swords:
-  - url: new_zealand_1073.jpeg
-    image_path: new_zealand_1073.jpeg
+  - image_path: new_zealand_1073.jpeg
     title: "My other half always looks at home holding a sword"
-  - url: new_zealand_1078.jpeg
-    image_path: new_zealand_1078.jpeg
+  - image_path: new_zealand_1078.jpeg
     title: "Me, as dabbing Gandalf"
 ---
 

@@ -32,49 +32,37 @@ maps:
         lon: 174.78748114376063
 
 off-road-nazgul:
-  - url: new_zealand_1258-full.jpeg
-    image_path: new_zealand_1258-full.jpeg
+  - image_path: new_zealand_1258-full.jpeg
 
 off-road-tree:
-  - url: new_zealand_1275-full.jpeg
-    image_path: new_zealand_1275-full.jpeg
+  - image_path: new_zealand_1275-full.jpeg
 
 off-road:
-  - url: new_zealand_1304.jpeg
-    image_path: new_zealand_1304.jpeg
+  - image_path: new_zealand_1304.jpeg
     title: "A view over Wellington from Mount Victoria"
 
 weta-cave:
-  - url: new_zealand_1316.jpeg
-    image_path: new_zealand_1316.jpeg
+  - image_path: new_zealand_1316.jpeg
     title: "Even the Trolls were celebrating"
-  - url: new_zealand_1330.jpeg
-    image_path: new_zealand_1330.jpeg
+  - image_path: new_zealand_1330.jpeg
     title: "Lurtz looks positively festive"
-  - url: new_zealand_1331.jpeg
-    image_path: new_zealand_1331.jpeg
+  - image_path: new_zealand_1331.jpeg
     title: "If there was a head, it had a birthday hat"
 
 weta-take-2:
-  - url: new_zealand_0917.jpeg
-    image_path: new_zealand_0917.jpeg
+  - image_path: new_zealand_0917.jpeg
     title: "My other half trying on a helmet"
-  - url: new_zealand_1399.jpeg
-    image_path: new_zealand_1399.jpeg
+  - image_path: new_zealand_1399.jpeg
     title: "Two models showing different stages of contruction"
-  - url: new_zealand_1400.jpeg
-    image_path: new_zealand_1400.jpeg
+  - image_path: new_zealand_1400.jpeg
     title: "A model of the Balrog"
 
 te-papa:
-  - url: new_zealand_1417.jpeg
-    image_path: new_zealand_1417.jpeg
+  - image_path: new_zealand_1417.jpeg
     title: "The first room of the exhibit"
-  - url: new_zealand_1427.jpeg
-    image_path: new_zealand_1427.jpeg
+  - image_path: new_zealand_1427.jpeg
     title: "The machine gun trio"
-  - url: new_zealand_1428.jpeg
-    image_path: new_zealand_1428.jpeg
+  - image_path: new_zealand_1428.jpeg
     title: "Another angle of the machine gun trio"
 ---
 

@@ -19,6 +19,8 @@
         {{- $resource = $.Page.Resources.GetMatch .image_path }}
       {{- else if resources.GetMatch .image_path }}
         {{- $resource = resources.Get .image_path }}
+      {{- else -}}
+        {{- errorf "Image not found: %s" .image_path -}}
       {{- end }}
       {{- with $resource }}
         <img
