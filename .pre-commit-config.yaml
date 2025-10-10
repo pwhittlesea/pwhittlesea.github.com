@@ -14,13 +14,21 @@ repos:
       entry: python3 .hooks/generate_maps.py
       language: python
       additional_dependencies: ["py-staticmaps", "python-frontmatter"]
-      always_run: true
+      types: [markdown]
     - id: trufflehog
       name: TruffleHog
       description: Detect secrets in your data.
       entry: bash -c 'docker run --rm -v "$(pwd):/workdir" -i --rm trufflesecurity/trufflehog:latest git file:///workdir --since-commit HEAD --only-verified --fail'
       language: system
       stages: ["commit", "push"]
+    - id: tailwind
+      name: Tailwind
+      description: Compile Tailwind CSS
+      entry: npx @tailwindcss/cli -i tailwind.css -o ./assets/css/custom.css -m
+      language: node
+      additional_dependencies: ["tailwindcss", "@tailwindcss/cli"]
+      pass_filenames: false
+      always_run: true
 
   # Strip all exif information from .gif files
   - repo: https://github.com/stefmolin/exif-stripper
@@ -34,6 +42,7 @@ repos:
     rev: v5.0.0
     hooks:
     - id: end-of-file-fixer
+      exclude: "assets/css/custom.css"
     - id: mixed-line-ending
     - id: trailing-whitespace
       args: ["--markdown-linebreak-ext=markdown,md"]
@@ -51,22 +60,17 @@ repos:
     rev: 7.2.0
     hooks:
     - id: flake8
+      args: ["--config=.hooks/.flake8"]
 
   # Check Markdown documents with Markdownlint(Node.js variant)
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.44.0
     hooks:
       - id: markdownlint
+        args: ["--config=.hooks/.markdownlint.yaml", "--ignore=LICENSE.md"]
 
   - repo: https://github.com/tcort/markdown-link-check
     rev: v3.13.7
     hooks:
       - id: markdown-link-check
-        args: ["--verbose", "--config=./.markdown-link-check.json"]
-
-  - repo: https://github.com/boidolr/pre-commit-images
-    rev: v1.8.6
-    hooks:
-      - id: optimize-jpg
-      - id: optimize-png
-      - id: optimize-webp
+        args: ["--verbose", "--config=.hooks/.markdown-link-check.json"]

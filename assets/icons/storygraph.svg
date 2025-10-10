@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 40 38" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="currentColor" x="1.5" y="1.6165" width="7.6031" height="29.8423" rx="1" ry="1"/>
+    <rect fill="currentColor" x="11.5636" y="1.6165" width="7.6031" height="29.8423" rx="1" ry="1"/>
+    <rect fill="currentColor" x="26.9108" y="0" width="7.6033" height="29.8418" rx="1" ry="1" transform="translate(-4.6835 11.0135) rotate(-16.9062)"/>
+    <rect fill="currentColor" x="1.5" y="34.0428" width="37" height="2.828" rx="1" ry="1"/>
+</svg>

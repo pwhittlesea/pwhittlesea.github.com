@@ -1,17 +1,16 @@
 import os.path
 import sys
+import argparse
+import re
 import s2sphere
 import staticmaps
 import PIL.ImageDraw
 import frontmatter
 
-from os import listdir
-from os.path import isfile, join
-
-POST_PATH = "./_posts"
-IMAGE_DIR = "./assets/images/maps"
+POST_PATH = "./content/posts"
 IMAGE_WIDTH = 720
 IMAGE_HEIGHT = 360
+FRONTMATTER_KEY = "maps"
 
 # Use Paul Tol's Bright color scheme for colour blind friendly colors
 # See https://cran.r-project.org/web/packages/khroma/vignettes/tol.html#bright
@@ -77,68 +76,97 @@ class TextLabel(staticmaps.Object):
         )
 
 
-exit_code = 0
+class NewMapException(Exception):
+    pass
 
-for post_file in [f for f in listdir(POST_PATH) if isfile(join(POST_PATH, f))]:
-    with open(f"{POST_PATH}/{post_file}") as f:
+
+def read_map_definitions_from_file(file_path: str) -> list:
+    with open(file_path) as f:
         post = frontmatter.loads(f.read())
-        if "maps" in post:
-            for post_map in post["maps"]:
-                context = staticmaps.Context()
+        if FRONTMATTER_KEY in post:
+            return post[FRONTMATTER_KEY]
+    return []
 
-                points = []
-                labels = []
 
-                conf_points = post_map["points"]
-                for idx, conf_point in enumerate(conf_points):
-                    point = staticmaps.create_latlng(
-                        float(conf_point["lat"]), float(conf_point["lon"])
-                    )
-                    points.append(point)
+def process_file(file_path: str):
+    post_maps = read_map_definitions_from_file(file_path)
+    output_folder = os.path.dirname(file_path)
 
-                    if "colour" in conf_point:
-                        marker_color = staticmaps.parse_color(conf_point["colour"])
-                    elif idx == 0 and len(conf_points) > 1:
-                        marker_color = green
-                    elif idx == len(conf_points) - 1:
-                        marker_color = red
-                    else:
-                        marker_color = blue
-                    context.add_object(
-                        staticmaps.Marker(point, color=marker_color, size=12)
-                    )
+    for post_map in post_maps:
+        process_map(output_folder, post_map)
 
-                    if "name" in conf_point:
-                        labels.append(TextLabel(point, conf_point["name"]))
 
-                if "line" in post_map and bool(post_map["line"]):
-                    context.add_object(
-                        staticmaps.Line(points, color=staticmaps.BLUE, width=4)
-                    )
+def process_map(directory: str, post_map: dict):
+    context = staticmaps.Context()
 
-                for label in labels:
-                    context.add_object(label)
+    points = []
+    labels = []
 
-                if "zoom" in post_map:
-                    context.set_zoom(int(post_map["zoom"]))
+    conf_points = post_map["points"]
+    for idx, conf_point in enumerate(conf_points):
+        point = staticmaps.create_latlng(
+            float(conf_point["lat"]), float(conf_point["lon"])
+        )
+        points.append(point)
 
-                map_name = post_map["name"]
-                map_path = f"{IMAGE_DIR}/{map_name}.svg"
-                exists_already = os.path.isfile(map_path)
+        if "colour" in conf_point:
+            marker_color = staticmaps.parse_color(conf_point["colour"])
+        elif idx == 0 and len(conf_points) > 1:
+            marker_color = green
+        elif idx == len(conf_points) - 1:
+            marker_color = red
+        else:
+            marker_color = blue
+        context.add_object(staticmaps.Marker(point, color=marker_color, size=12))
 
-                height = IMAGE_HEIGHT
-                width = IMAGE_WIDTH
-                if "height" in post_map:
-                    height = post_map["height"]
-                if "width" in post_map:
-                    width = post_map["width"]
+        if "name" in conf_point:
+            labels.append(TextLabel(point, conf_point["name"]))
 
-                svg_image = context.render_svg(width, height)
-                with open(map_path, "w", encoding="utf-8") as svg:
-                    svg_image.write(svg, pretty=True)
+    if "line" in post_map and bool(post_map["line"]):
+        context.add_object(staticmaps.Line(points, color=staticmaps.BLUE, width=4))
 
-                if not exists_already:
-                    exit_code = 1
-                    print(f"New map '{map_path}' generated")
+    for label in labels:
+        context.add_object(label)
 
-sys.exit(exit_code)
+    if "zoom" in post_map:
+        context.set_zoom(int(post_map["zoom"]))
+
+    map_name = post_map["name"]
+    map_path = f"{directory}/{map_name}.svg"
+    exists_already = os.path.isfile(map_path)
+
+    height = IMAGE_HEIGHT
+    width = IMAGE_WIDTH
+    if "height" in post_map:
+        height = post_map["height"]
+    if "width" in post_map:
+        width = post_map["width"]
+
+    svg_image = context.render_svg(width, height)
+    with open(map_path, "w", encoding="utf-8") as svg:
+        svg_image.write(svg, pretty=True)
+
+    if not exists_already:
+        raise NewMapException(f"New map '{map_path}' generated")
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filenames", nargs="*")
+    args = parser.parse_args()
+    map_generated = False
+
+    for argument in args.filenames:
+        pattern = re.compile(r"^content/(posts/.*|demo)/index\.md$")
+        if pattern.match(argument):
+            try:
+                process_file(argument)
+            except NewMapException as e:
+                print(e)
+                map_generated = True
+
+    return 1 if map_generated else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

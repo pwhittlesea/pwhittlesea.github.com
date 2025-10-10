@@ -1,0 +1,6 @@
+@layer theme, utilities;
+
+/** Import tailwindcss with a prefix to avoid conflicts with the theme. */
+@import "tailwindcss/theme.css" layer(theme) prefix(tw);
+@import "tailwindcss/utilities.css" layer(utilities) prefix(tw);
+@custom-variant dark (&:where(.dark, .dark *));

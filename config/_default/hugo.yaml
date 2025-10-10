@@ -1,0 +1,116 @@
+# Hugo Configuration
+# https://gohugo.io/configuration/all/
+title: "thega.me.uk"
+baseURL: "https://thega.me.uk"
+languageCode: "en-GB"
+enableGitInfo: true
+enableEmoji: true
+
+# Enable a series taxonomy (the other two are required by hugo)
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+permalinks:
+  posts: /:year/:month/:slug/
+  page: /:slug/
+
+sitemap:
+  changeFreq: "weekly"
+
+module:
+  imports:
+    disable: false
+    path: "github.com/nunocoracao/blowfish/v2"
+
+# Modify the default markdown rendering to enable superscript and subscript
+markup:
+  goldmark:
+    extensions:
+      extras:
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+        title: true
+    renderer:
+      unsafe: true
+
+# Disable RSS feeds on the section, taxonomy and term pages
+outputs:
+  home: ["RSS", "HTML", "JSON"]
+  section: ['html']
+  taxonomy: ['html']
+  term: ['html']
+
+# Maintain backwards compatibility with the old Jekyll RSS feed
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"
+
+caches:
+  images:
+    dir: :cacheDir/images
+  assets:
+    dir: :cacheDir/assets
+
+# Use the last_modified_at date from the frontmatter if it exists, otherwise use the default sources
+frontmatter:
+  lastmod:
+  - "last_modified_at"
+  - :default
+
+# Theme Configuration
+# https://blowfish.page/docs/configuration/
+params:
+  displayName: "EN"
+  isoCode: "en-GB"
+  description: "Personal blog of Phillip Whittlesea-Clark"
+  copyright: "&copy; 2013 - { year } Phillip Whittlesea-Clark - All Rights Reserved"
+
+  logo: "images/logo/logo-96x96.png"
+  author:
+    name: "Phillip Whittlesea-Clark"
+    email: "pw.github@thega.me.uk"
+    image: "images/profile_pic.png"
+    headline: &headline "Software Architect & Dungeon Master"
+    bio: *headline
+    links:
+      - email: "mailto:pw.github@thega.me.uk"
+      - bluesky: "https://bsky.app/profile/thega.me.uk"
+      - github: "https://github.com/pwhittlesea"
+      - linkedin: "https://www.linkedin.com/in/phillipwhittlesea/"
+      - mastodon: "https://mastodon.social/@pwhittlesea"
+      - storygraph: "https://app.thestorygraph.com/profile/gingerphill"
+
+  colorScheme: "avocado"
+  enableSearch: true
+  enableCodeCopy: true
+
+  homepage:
+    showRecent: true
+    showRecentItems: 3
+    showMoreLink: true
+    cardView: true
+
+  article:
+    showDateUpdated: true
+    showHero: true
+    heroStyle: "big"
+    showTableOfContents: true
+    showRelatedContent: true
+    relatedContentLimit: 3
+    showTaxonomies: true
+    showWordCount: false
+
+  list:
+    showSummary: true
+
+  taxonomy:
+    cardView: true

@@ -24,10 +24,7 @@ jobs:
         include:
         - language: actions
           build-mode: none
-        # This does not work at the moment
-        #- language: python
-        #  build-mode: none
-        - language: ruby
+        - language: python
           build-mode: none
     steps:
     - name: Checkout repository
