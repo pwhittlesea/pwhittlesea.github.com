@@ -34,55 +34,41 @@ maps:
 
 
 luggage:
-  - url: new_zealand_0602.jpg
-    image_path: new_zealand_0602.jpg
+  - image_path: new_zealand_0602.jpg
     title: "Me, at Heathrow Airport, with all of our luggage"
 
 weta-unleashed:
-  - url: new_zealand_0743.jpg
-    image_path: new_zealand_0743.jpg
+  - image_path: new_zealand_0743.jpg
     title: "I'm dying inside because I wanted to go to the All Black Experience"
-  - url: new_zealand_0748.jpg
-    image_path: new_zealand_0748.jpg
+  - image_path: new_zealand_0748.jpg
     title: "It's a good job they turned to stone"
-  - url: new_zealand_0757.jpg
-    image_path: new_zealand_0757.jpg
+  - image_path: new_zealand_0757.jpg
     title: "A special entrance for a special tour"
-  - url: new_zealand_0764.jpg
-    image_path: new_zealand_0764.jpg
+  - image_path: new_zealand_0764.jpg
     title: "The health and safety officer helping us stay safe"
-  - url: new_zealand_0766.jpg
-    image_path: new_zealand_0766.jpg
+  - image_path: new_zealand_0766.jpg
     title: "Various models and prototypes"
-  - url: new_zealand_0774.jpg
-    image_path: new_zealand_0774.jpg
+  - image_path: new_zealand_0774.jpg
     title: "Need a hand?"
-  - url: new_zealand_0778.jpg
-    image_path: new_zealand_0778.jpg
+  - image_path: new_zealand_0778.jpg
     title: "A Wētā recreation that looks lifelike"
-  - url: new_zealand_0786.jpg
-    image_path: new_zealand_0786.jpg
+  - image_path: new_zealand_0786.jpg
     title: "An example of a 'bigature'"
-  - url: new_zealand_0796.jpg
-    image_path: new_zealand_0796.jpg
+  - image_path: new_zealand_0796.jpg
     title: "A tent made from garden flotsam"
 
 tirau:
-  - url: featured.jpg
-    image_path: featured.jpg
+  - image_path: featured.jpg
     title: "Tīrau's corrugated iron 'ram' and 'sheep' buildings"
-  - url: new_zealand_0809.jpg
-    image_path: new_zealand_0809.jpg
+  - image_path: new_zealand_0809.jpg
     title: "Tīrau's corrugated iron 'dog' building"
 
 poppys:
-  - url: new_zealand_0806.jpg
-    image_path: new_zealand_0806.jpg
+  - image_path: new_zealand_0806.jpg
     title: "Tasty, and adorable!"
 
 hangi:
-  - url: new_zealand_0810.jpg
-    image_path: new_zealand_0810.jpg
+  - image_path: new_zealand_0810.jpg
     title: "The hāngī"
 ---
 
