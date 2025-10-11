@@ -2,7 +2,7 @@
 title: Replacing Jekyll
 date: 2025-10-10 11:14:28 +0100
 categories: ["update"]
-tags: ["jekyll", "github"]
+tags: ["jekyll", "hugo"]
 summary: "I have been enjoying Jekyll, but it's time to toy with another static site generator."
 ---
 
@@ -44,8 +44,8 @@ You can see the source code [here](https://github.com/pwhittlesea/pwhittlesea.gi
 
 ### Galleries
 
-Additionally, the out-of-the-box gallery support in Blowfish lacks the ability to define a caption for the images.
-I liked the way that my previous theme allowed me to define the images and their hover text in the front matter of the post, as well as the caption for the gallery.
+The out-of-the-box gallery support in Blowfish lacks the ability to define a caption for the images.
+Additionally, I liked the way that my previous theme allowed me to define the images, and their hover text, in the front matter of the post.
 
 ```markdown
 ---
@@ -63,7 +63,7 @@ Because of this I defined my own gallery '[shortcode](https://gohugo.io/content-
 
 ### Maps
 
-Finally, I had to convert my map rendering code to a Hugo shortcode.
+I had to convert my Jekyll map rendering code to a Hugo shortcode.
 It's very similar to the gallery shortcode, but there is some complex caption generation code, depending on the number of points on the map.
 
 You can see the source code [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/layouts/_shortcodes/map.html) which works in tandem with a [Python pre-commit hook](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/.hooks/generate_maps.py) to generate the maps themselves.
@@ -102,7 +102,7 @@ Becomes: {{< term "SSG" >}}
 
 This sources its definitions from the [terms.yaml](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/data/terms.yaml) data file.
 
-It's not as nice as the kramdown syntax &mdash; which post-processes the content to replace all instances of the abbreviation with the full term &mdash; but it works.
+It's not as nice as the kramdown syntax &mdash; which post-processes the content to add a hover-over to all instances of the abbreviation &mdash; but it works.
 
 ### Image Width
 
