@@ -75,6 +75,8 @@ params:
   copyright: "&copy; 2013 - { year } Phillip Whittlesea-Clark - All Rights Reserved"
 
   logo: "images/logo/logo-96x96.png"
+  defaultSocialImage: "images/splash.jpg"
+
   author:
     name: "Phillip Whittlesea-Clark"
     email: "pw.github@thega.me.uk"
