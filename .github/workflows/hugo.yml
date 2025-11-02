@@ -84,7 +84,7 @@ jobs:
           tar -xf main-artifact/artifact.tar -C main-artifact
           tar -xf new-artifact/artifact.tar -C new-artifact
           rm main-artifact/artifact.tar new-artifact/artifact.tar
-          diff -bur main-artifact new-artifact || echo "Artifacts differ"
+          diff --color=always -bur main-artifact new-artifact || echo "Artifacts differ"
 
   deploy:
     environment:
