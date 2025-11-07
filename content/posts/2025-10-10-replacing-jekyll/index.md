@@ -122,8 +122,9 @@ The built-in ['default' processor](https://github.com/gohugoio/hugo/blob/v0.151.
 It is useful to be able to reduce the size of an image in a post, as it can be quite jarring to have a huge image in the middle of some text.
 Because of this I had to override the image shortcode in my own theme, which you can see [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/layouts/_markup/render-image.html).
 
-> [!NOTE]
-> I have raised a [discussion](https://github.com/nunocoracao/blowfish/discussions/2569) on the Blowfish theme repository to get this added in the future.
+> [!NOTE] Update 7^th^ November 2025
+> My PR to add support to the Blowfish theme has been merged, so this override has been removed.
+> See the release notes for [v2.92.0](https://github.com/nunocoracao/blowfish/releases/tag/v2.92.0) which contains my [fix](https://github.com/nunocoracao/blowfish/pull/2591).
 
 ## The Migration
 
