@@ -22,7 +22,7 @@ This year's prompts are:
 
 | Day                                                  | Primary Word  | Backup Word | Genre              |
 |------------------------------------------------------|---------------|-------------|--------------------|
-| 1                                                    | `hate`        | `engineer`  | `Dystopian`        |
+| [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`  | `Dystopian`        |
 | 3                                                    | `short`       | `rich`      | `Detective`        |
 | 5                                                    | `reign`       | `descent`   | `Fantasy`          |
 | 7                                                    | `piano`       | `formula`   | `Mystery`          |
