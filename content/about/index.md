@@ -19,6 +19,16 @@ animals:
     title: Cara
   - image_path: IMG_1830.JPG
     title: Fluffy
+
+christmas:
+  - image_path: images/christmas/christmas_2022.jpg
+    title: My House December 1st 2022
+  - image_path: images/christmas/christmas_2023.jpg
+    title: My House December 1st 2023
+  - image_path: images/christmas/christmas_2024.jpg
+    title: My House December 1st 2024
+  - image_path: images/christmas/christmas_2025.jpg
+    title: My House December 1st 2025
 ---
 
 I am currently living in Southampton with my partner (whom I dote on), my 4 cats (whom I tolerate) and 2 dogs (whom I fuss over).
@@ -26,6 +36,9 @@ I am currently living in Southampton with my partner (whom I dote on), my 4 cats
 {{< mm-gallery id="animals" caption="My Animals" >}}
 
 :christmas_tree: I have a passion for going overboard at Christmas (see below) which means November is blocked out to put the decorations up, and January to pull them down.
+I have even built my own [full-size sleigh]({{< ref "/posts/2025-12-05-building-a-sleigh" >}}).
+
+{{< mm-gallery id="christmas" caption="My House, over the years, decorated for Christmas" >}}
 
 :vampire: I am a {{< term "D&D" >}} player, and {{< term "DM" >}}.
 I just finished a 4-year play through of [Curse of Strahd](https://en.wikipedia.org/wiki/Curse_of_Strahd) (which was only supposed to take a year), so I am taking a bit of a break.
@@ -58,5 +71,3 @@ It all depends on what interests me and what's needed of me on a given day.
 I am currently at [Cirium](https://cirium.com) in Southampton (which was [Snowflake Software Ltd.](https://www.cirium.com/thoughtcloud/snowflake-software-agrees-to-join-cirium/)).
 
 For more information on my skills and job history, see my [CV]({{< ref "/cv" >}}).
-
-![christmas-image](about-christmas.jpg "My House December 1st")

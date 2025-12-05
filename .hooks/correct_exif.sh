@@ -14,6 +14,7 @@ SKIP_PATHS=(
   "content/posts/2025-06-09-i-am-whittlesea-clark/success_kid.png"
   "content/posts/2025-06-09-i-am-whittlesea-clark/surprise.png"
   "content/posts/2025-06-15-long-live-the-lakehouse/iceberg-metadata.png"
+  "content/posts/2025-12-05-building-a-sleigh/full-size-santa-sleigh-cnc-vector-files-17.jpeg"
 )
 
 for file in $@
