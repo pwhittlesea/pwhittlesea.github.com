@@ -7,7 +7,7 @@ series_order: 2
 ---
 
 > [!WARNING]
-> I spent most of the day working on other _Christmas_ stuff, and then the evening in A&E after a nasty fall.
+> I spent most of the day working on other [_Christmas_ stuff]({{< ref "2025-12-05-building-a-sleigh" >}}), and then the evening in A&E after a nasty fall.
 >
 > So, this one is a day late, and a bit rushed.
 
