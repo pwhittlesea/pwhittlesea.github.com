@@ -24,8 +24,8 @@ This year's prompts are:
 |------------------------------------------------------|---------------|-------------|--------------------|
 | [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`  | `Dystopian`        |
 | [3]({{< ref "2025-12-days-of-short-stories-3" >}})   | `short`       | ~~`rich`~~  | `Detective`        |
-| 5                                                    | `reign`       | `descent`   | `Fantasy`          |
-| 7                                                    | `piano`       | `formula`   | `Mystery`          |
+| ~~5~~                                                | `reign`       | `descent`   | `Fantasy`          |
+| [7]({{< ref "2025-12-days-of-short-stories-7" >}})   | `piano`       | `formula`   | `Mystery`          |
 | 9                                                    | `theatre`     | `desk`      | `Adventure`        |
 | 11                                                   | `paint`       | `glove`     | `Sci-Fi`           |
 | 13                                                   | `abolish`     | `power`     | `Adventure`        |
