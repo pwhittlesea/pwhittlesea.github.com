@@ -96,6 +96,17 @@ This page contains a collection of markdown entities to demo/test their renderin
 > [!DANGER]
 > Advises about risks or negative outcomes of certain actions.
 
+> [!NOTE] Custom Title
+> This is a note with a custom title.
+
+> [!NOTE]- Expandable Note
+> This is a collapsible note.
+> It starts collapsed.
+
+> [!NOTE]+ Collapsible Note
+> This is a collapsible note.
+> It starts expanded.
+
 <!-- markdownlint-enable MD028 -->
 
 ## Maps
@@ -139,3 +150,18 @@ Half width image:
 
 ![This is a half width image](/new_zealand_0647.jpg)
 {style="width:50%;"}
+
+## Code Blocks
+
+```html {title="code_with_title_and_highlight.html" lineNos=inline hl_lines=[4,"7-9"]}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Test</p>
+</body>
+</html>
+```

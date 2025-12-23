@@ -92,6 +92,7 @@ params:
       - storygraph: "https://app.thestorygraph.com/profile/gingerphill"
 
   colorScheme: "avocado"
+  defaultAppearance: "dark"
   enableSearch: true
   enableCodeCopy: true
 
@@ -110,6 +111,7 @@ params:
     relatedContentLimit: 3
     showTaxonomies: true
     showWordCount: false
+    showZenMode: true
 
   list:
     showSummary: true

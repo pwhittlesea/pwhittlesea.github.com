@@ -42,6 +42,10 @@ Becomes:
 
 You can see the source code [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/90ad2e8c48fc6cef10da2e887b92804d7001c534/layouts/_markup/render-blockquote-alert.html).
 
+> [!NOTE] Update 23^rd^ December 2025
+> Native support for Admonitions has been added to the Blowfish theme, so this override has been removed.
+> See the release notes for [v2.94.0](https://github.com/nunocoracao/blowfish/releases/tag/v2.94.0).
+
 ### Galleries
 
 The out-of-the-box gallery support in Blowfish lacks the ability to define a caption for the images.
