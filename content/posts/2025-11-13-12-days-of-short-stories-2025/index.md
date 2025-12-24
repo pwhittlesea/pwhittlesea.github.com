@@ -33,7 +33,7 @@ This year's prompts are:
 | [17]({{< ref "2025-12-days-of-short-stories-17" >}}) | `cooperate`   | `manage`    | `High Fantasy`     |
 | ~~19~~                                               | `concentrate` | `zone`      | `Military Fiction` |
 | [21]({{< ref "2025-12-days-of-short-stories-21" >}}) | `bake`        | `fight`     | `Fairy Tale`       |
-| 23                                                   | `document`    | `profit`    | `Crime`            |
+| [23]({{< ref "2025-12-days-of-short-stories-23" >}}) | `document`    | `profit`    | `Crime`            |
 
 Let's see how I do!
 I will update the table above with links as I go.
