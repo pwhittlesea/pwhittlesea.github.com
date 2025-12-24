@@ -5,7 +5,7 @@ title: "Twelve Days of Short Stories"
 date: 2024-11-25 10:33:00 +0000
 last_modified_at: 2025-04-27 11:49:52 +0000
 tags: [fiction]
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 1
 
 summary: I decided to challenge myself to write 12 short stories on 12 random prompts.

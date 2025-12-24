@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 13"
 date: 2024-12-11 23:36:00 +0000
 summary: A short story based on the prompt 'devote'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 7
 ---
 

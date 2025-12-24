@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 15"
 date: 2024-12-16 20:22:00 +0000
 summary: A short story based on the prompt 'grave'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 8
 ---
 
