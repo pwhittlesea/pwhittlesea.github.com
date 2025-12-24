@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 17"
 date: 2024-12-17 21:43:00 +0000
 summary: A short story based on the prompt 'jam'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 9
 ---
 

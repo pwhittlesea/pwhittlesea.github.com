@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 23"
 date: 2024-12-23 21:32:00 +0000
 summary: A short story based on the prompt 'glimpse'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 10
 ---
 

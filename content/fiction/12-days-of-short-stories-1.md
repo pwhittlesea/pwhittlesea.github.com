@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 1"
 date: 2024-12-01 12:52:02 +0000
 summary: A short story based on the prompt 'Abundant'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 2
 ---
 

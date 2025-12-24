@@ -2,7 +2,7 @@
 title: "Twelve Days of Short Stories - Day 3"
 date: 2024-12-03 21:07:37 +0000
 summary: A short story based on the prompt 'Point'
-series: ["12 of Short Stories - 2024"]
+series: ["12 Days of Short Stories - 2024"]
 series_order: 3
 ---
 
