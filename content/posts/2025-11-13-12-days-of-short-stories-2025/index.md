@@ -20,20 +20,20 @@ As a small change on last year, instead of selecting a point of view for the sto
 
 This year's prompts are:
 
-| Day                                                  | Primary Word  | Backup Word | Genre              |
-|------------------------------------------------------|---------------|-------------|--------------------|
-| [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`  | `Dystopian`        |
-| [3]({{< ref "2025-12-days-of-short-stories-3" >}})   | `short`       | ~~`rich`~~  | `Detective`        |
-| ~~5~~                                                | `reign`       | `descent`   | `Fantasy`          |
-| [7]({{< ref "2025-12-days-of-short-stories-7" >}})   | `piano`       | `formula`   | `Mystery`          |
-| ~~9~~                                                | `theatre`     | `desk`      | `Adventure`        |
-| ~~11~~                                               | `paint`       | `glove`     | `Sci-Fi`           |
-| ~~13~~                                               | `abolish`     | `power`     | `Adventure`        |
-| ~~15~~                                               | `mirror`      | `kneel`     | `Romance`          |
-| [17]({{< ref "2025-12-days-of-short-stories-17" >}}) | `cooperate`   | `manage`    | `High Fantasy`     |
-| ~~19~~                                               | `concentrate` | `zone`      | `Military Fiction` |
-| [21]({{< ref "2025-12-days-of-short-stories-21" >}}) | `bake`        | `fight`     | `Fairy Tale`       |
-| [23]({{< ref "2025-12-days-of-short-stories-23" >}}) | `document`    | `profit`    | `Crime`            |
+| Day                                                  | Primary Word  | Backup Word   | Genre              |
+|------------------------------------------------------|---------------|---------------|--------------------|
+| [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`    | `Dystopian`        |
+| [3]({{< ref "2025-12-days-of-short-stories-3" >}})   | `short`       | ~~`rich`~~    | `Detective`        |
+| ~~5~~                                                | `reign`       | `descent`     | `Fantasy`          |
+| [7]({{< ref "2025-12-days-of-short-stories-7" >}})   | `piano`       | ~~`formula`~~ | `Mystery`          |
+| ~~9~~                                                | `theatre`     | `desk`        | `Adventure`        |
+| ~~11~~                                               | `paint`       | `glove`       | `Sci-Fi`           |
+| ~~13~~                                               | `abolish`     | `power`       | `Adventure`        |
+| ~~15~~                                               | `mirror`      | `kneel`       | `Romance`          |
+| [17]({{< ref "2025-12-days-of-short-stories-17" >}}) | `cooperate`   | ~~`manage`~~  | `High Fantasy`     |
+| ~~19~~                                               | `concentrate` | `zone`        | `Military Fiction` |
+| [21]({{< ref "2025-12-days-of-short-stories-21" >}}) | `bake`        | ~~`fight`~~   | `Fairy Tale`       |
+| [23]({{< ref "2025-12-days-of-short-stories-23" >}}) | `document`    | ~~`profit`~~  | `Crime`            |
 
 Let's see how I do!
 I will update the table above with links as I go.
