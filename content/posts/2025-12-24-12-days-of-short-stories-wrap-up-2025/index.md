@@ -54,13 +54,13 @@ In future, I think I will have to pick one to focus on, or change my approach fr
 
 ### Too Few Words
 
-I think the majority of the stories that I have written stuffer from being far too short.
+I think the majority of the stories that I have written suffer from being far too short.
 Writing these stories in the evenings, I can hit about 1000-1500 words.
 Many of the genres that were randomly generated, just need more than that to set the background, or tone.
 
 Take day [7]({{< ref "2025-12-days-of-short-stories-7" >}}), for example.
 I came up with the &mdash; frankly stupid &mdash; idea of having a 'piano killer' on the loose, but by the time I had finished the intro, I was 'out of time'.
-There was more to tell in my 'Poirot-esqe' day [3]({{< ref "2025-12-days-of-short-stories-3" >}}), but alas, I needed to wrap it up.
+There was more to tell in my 'Poirot-esque' day [3]({{< ref "2025-12-days-of-short-stories-3" >}}), but alas, I needed to wrap it up.
 
 By day [17]({{< ref "2025-12-days-of-short-stories-17" >}}) I had realized that there was no way I was going to be able to set up a High Fantasy universe, and then tell a story, in so few words.
 I solved this by latching onto the High Fantasy world of [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) (which, if I am honest, felt a bit like cheating).
