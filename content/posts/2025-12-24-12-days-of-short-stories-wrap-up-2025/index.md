@@ -18,20 +18,20 @@ This is a wash-up of how I thought it went, what I did well, and what I could ha
 
 ## Results
 
-| Day                                                  | Primary Word  | Backup Word | Genre              | Result        |
-|------------------------------------------------------|---------------|-------------|--------------------|---------------|
-| [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`  | `Dystopian`        | :+1:          |
-| [3]({{< ref "2025-12-days-of-short-stories-3" >}})   | `short`       | ~~`rich`~~  | `Detective`        | :+1:          |
-| ~~5~~                                                | `reign`       | `descent`   | `Fantasy`          | :exclamation: |
-| [7]({{< ref "2025-12-days-of-short-stories-7" >}})   | `piano`       | `formula`   | `Mystery`          | :+1:          |
-| ~~9~~                                                | `theatre`     | `desk`      | `Adventure`        | :exclamation: |
-| ~~11~~                                               | `paint`       | `glove`     | `Sci-Fi`           | :exclamation: |
-| ~~13~~                                               | `abolish`     | `power`     | `Adventure`        | :exclamation: |
-| ~~15~~                                               | `mirror`      | `kneel`     | `Romance`          | :exclamation: |
-| [17]({{< ref "2025-12-days-of-short-stories-17" >}}) | `cooperate`   | `manage`    | `High Fantasy`     | :+1:          |
-| ~~19~~                                               | `concentrate` | `zone`      | `Military Fiction` | :exclamation: |
-| [21]({{< ref "2025-12-days-of-short-stories-21" >}}) | `bake`        | `fight`     | `Fairy Tale`       | :+1:          |
-| [23]({{< ref "2025-12-days-of-short-stories-23" >}}) | `document`    | `profit`    | `Crime`            | :+1:          |
+| Day                                                  | Primary Word  | Backup Word   | Genre              | Result        |
+|------------------------------------------------------|---------------|---------------|--------------------|---------------|
+| [1]({{< ref "2025-12-days-of-short-stories-1" >}})   | ~~`hate`~~    | `engineer`    | `Dystopian`        | :+1:          |
+| [3]({{< ref "2025-12-days-of-short-stories-3" >}})   | `short`       | ~~`rich`~~    | `Detective`        | :+1:          |
+| ~~5~~                                                | `reign`       | `descent`     | `Fantasy`          | :exclamation: |
+| [7]({{< ref "2025-12-days-of-short-stories-7" >}})   | `piano`       | ~~`formula`~~ | `Mystery`          | :+1:          |
+| ~~9~~                                                | `theatre`     | `desk`        | `Adventure`        | :exclamation: |
+| ~~11~~                                               | `paint`       | `glove`       | `Sci-Fi`           | :exclamation: |
+| ~~13~~                                               | `abolish`     | `power`       | `Adventure`        | :exclamation: |
+| ~~15~~                                               | `mirror`      | `kneel`       | `Romance`          | :exclamation: |
+| [17]({{< ref "2025-12-days-of-short-stories-17" >}}) | `cooperate`   | ~~`manage`~~  | `High Fantasy`     | :+1:          |
+| ~~19~~                                               | `concentrate` | `zone`        | `Military Fiction` | :exclamation: |
+| [21]({{< ref "2025-12-days-of-short-stories-21" >}}) | `bake`        | ~~`fight`~~   | `Fairy Tale`       | :+1:          |
+| [23]({{< ref "2025-12-days-of-short-stories-23" >}}) | `document`    | ~~`profit`~~  | `Crime`            | :+1:          |
 
 So, as you can see I managed half of the days, completing 6/12 or 50%.
 
@@ -51,6 +51,23 @@ Just before December started, not only did I set myself this challenge, but I al
 I found quite quickly that my limited time in the evenings held just enough time to do one or the other, but not both.
 
 In future, I think I will have to pick one to focus on, or change my approach from one every two days.
+
+### Too Few Words
+
+I think the majority of the stories that I have written suffer from being far too short.
+Writing these stories in the evenings, I can hit about 1000-1500 words.
+Many of the genres that were randomly generated, just need more than that to set the background, or tone.
+
+Take day [7]({{< ref "2025-12-days-of-short-stories-7" >}}), for example.
+I came up with the &mdash; frankly stupid &mdash; idea of having a 'piano killer' on the loose, but by the time I had finished the intro, I was 'out of time'.
+There was more to tell in my 'Poirot-esque' day [3]({{< ref "2025-12-days-of-short-stories-3" >}}), but alas, I needed to wrap it up.
+
+By day [17]({{< ref "2025-12-days-of-short-stories-17" >}}) I had realized that there was no way I was going to be able to set up a High Fantasy universe, and then tell a story, in so few words.
+I solved this by latching onto the High Fantasy world of [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) (which, if I am honest, felt a bit like cheating).
+
+Maybe a more seasoned writer wouldn't have this issue.
+Maybe they would be able to take the pre-existing cues that people associate with given genres and skip a lot of the set-up.
+But, it does beg the question if I should change the format in future to be fewer stories; maybe one every 4 days.
 
 ### Illness
 
