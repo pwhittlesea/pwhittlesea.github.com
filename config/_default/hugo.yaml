@@ -96,6 +96,10 @@ params:
   enableSearch: true
   enableCodeCopy: true
 
+  # Don't open external links in a new tab
+  # https://limey.io/blog/why-we-avoid-using-target_blank-and-when-we-should-use-it
+  externalLinkForceNewTab: false
+
   homepage:
     showRecent: true
     showRecentItems: 3
