@@ -1,0 +1,5 @@
+{{- if lt (len .Params) 2 -}}
+  {{- errorf "book shortcode requires 2 parameters - title and book ID" -}}
+{{- else -}}
+  <a href="https://app.thestorygraph.com/books/{{- .Get 1 }}" target="_blank" rel="noreferrer">{{- .Get 0 }}</a>
+{{- end -}}
