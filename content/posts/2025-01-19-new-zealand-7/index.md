@@ -351,7 +351,6 @@ It was worth every penny, and more.
 After our farewell dinner, we headed out for some drinks with two of the tour group.
 Unfortunately the two people they had planned to go with had fallen ill, so we were picked as the B-team.
 
-<!-- markdown-link-check-disable-next-line -->
 We visited [Minus 5º ICE BAR](https://minus5icebar.com/), which brands itself as the "coolest experience and an adventure you’ll never forget".
 Big enough to host around thirty people, the bar had walls of ice, furniture made of ice, and even glasses made of ice.
 

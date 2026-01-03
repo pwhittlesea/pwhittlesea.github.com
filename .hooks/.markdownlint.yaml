@@ -10,11 +10,6 @@ MD013:
   # 'Disable' the line length
   line_length: 800
 
-MD033:
-  # The only way to do superscript is with 'sup'
-  allowed_elements:
-    - sup
-
 MD046:
   # Block style
   style: "fenced"

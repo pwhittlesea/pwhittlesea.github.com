@@ -1,0 +1,20 @@
+dirs:
+  - .
+useGitIgnore: true
+baseUrl: https://thega.me.uk
+ignorePatterns:
+  - pattern: '^https://thega.me.uk/pwhittlesea.com$'
+  - pattern: '^https://thega.me.uk/pwhittlesea.co.uk$'
+  - pattern: '^https://thega.me.uk/wedfest-2017.uk$'
+
+  # The following sites block link checkers
+  - pattern: '^https://www.reddit.com/.*$'
+  - pattern: '^https://www.longleat.co.uk/safari$'
+  - pattern: '^https://news.ycombinator.com/.*$'
+aliveStatusCodes:
+  - 200
+  - 201
+  - 204
+
+  # Acceptable rate limiting response
+  - 429

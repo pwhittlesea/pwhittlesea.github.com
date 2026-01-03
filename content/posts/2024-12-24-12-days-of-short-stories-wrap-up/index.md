@@ -15,20 +15,20 @@ This is a wash-up of how I thought it went, what I did well, and what I could ha
 
 ## Results
 
-| Day                                              | Primary Word | Backup Word          | Point of View  | Result        |
-|:------------------------------------------------:|--------------|----------------------|:--------------:|:-------------:|
-| [1]({{< ref "12-days-of-short-stories-1" >}})   | `abundant`   | ~~`benefit`~~        | 3^rd^ | :+1:          |
-| [3]({{< ref "12-days-of-short-stories-3" >}})   | `point`      | ~~`ideal`~~          | 1^st^ | :+1:          |
-| [5]({{< ref "12-days-of-short-stories-5" >}})   | `piano`      | ~~`snow`~~           | 3^rd^ | :+1:          |
-| [7]({{< ref "12-days-of-short-stories-7" >}})   | ~~`north`~~  | `sound`              | 1^st^ | :+1:          |
-| 9                                               | `dare`       | `style`              | 3^rd^ | :exclamation: |
-| [11]({{< ref "12-days-of-short-stories-11" >}}) | `link`       | ~~`representative`~~ | 1^st^ | :+1:          |
-| [13]({{< ref "12-days-of-short-stories-13" >}}) | `devote`     | ~~`virus`~~          | 1^st^ | :+1:          |
-| [15]({{< ref "12-days-of-short-stories-15" >}}) | `grave`      | ~~`brink`~~          | 1^st^ | :+1:          |
-| [17]({{< ref "12-days-of-short-stories-17" >}}) | `jam`        | ~~`rib`~~            | 1^st^ | :+1:          |
-| 19                                              | `injury`     | `ghost`              | 2^nd^ | :exclamation: |
-| 21                                              | `flat`       | `radical`            | 1^st^ | :exclamation: |
-| [23]({{< ref "12-days-of-short-stories-23" >}}) | `glimpse`    | ~~`reasonable`~~     | 3^rd^ | :+1:          |
+| Day                                             | Primary Word | Backup Word          | Point of View  | Result        |
+|:-----------------------------------------------:|--------------|----------------------|:--------------:|:-------------:|
+| [1]({{< ref "12-days-of-short-stories-1" >}})   | `abundant`   | ~~`benefit`~~        | 3^rd^          | :+1:          |
+| [3]({{< ref "12-days-of-short-stories-3" >}})   | `point`      | ~~`ideal`~~          | 1^st^          | :+1:          |
+| [5]({{< ref "12-days-of-short-stories-5" >}})   | `piano`      | ~~`snow`~~           | 3^rd^          | :+1:          |
+| [7]({{< ref "12-days-of-short-stories-7" >}})   | ~~`north`~~  | `sound`              | 1^st^          | :+1:          |
+| 9                                               | `dare`       | `style`              | 3^rd^          | :exclamation: |
+| [11]({{< ref "12-days-of-short-stories-11" >}}) | `link`       | ~~`representative`~~ | 1^st^          | :+1:          |
+| [13]({{< ref "12-days-of-short-stories-13" >}}) | `devote`     | ~~`virus`~~          | 1^st^          | :+1:          |
+| [15]({{< ref "12-days-of-short-stories-15" >}}) | `grave`      | ~~`brink`~~          | 1^st^          | :+1:          |
+| [17]({{< ref "12-days-of-short-stories-17" >}}) | `jam`        | ~~`rib`~~            | 1^st^          | :+1:          |
+| 19                                              | `injury`     | `ghost`              | 2^nd^          | :exclamation: |
+| 21                                              | `flat`       | `radical`            | 1^st^          | :exclamation: |
+| [23]({{< ref "12-days-of-short-stories-23" >}}) | `glimpse`    | ~~`reasonable`~~     | 3^rd^          | :+1:          |
 
 So, as you can see I managed _most_ of the days, completing 9/12 or 75%.
 
@@ -92,13 +92,13 @@ Now, I'm not a master of genre definitions, so these are probably incorrect, but
 
 <!-- markdownlint-disable MD037 -->
 
-| Genre     | Count | Days                                                                                                                                           |
-|-----------|:-----:|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Genre     | Count | Days                                                                                                                                        |
+|-----------|:-----:|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Horror    | 3     | [5]({{< ref "12-days-of-short-stories-5" >}}) [7]({{< ref "12-days-of-short-stories-7" >}}) [23]({{< ref "12-days-of-short-stories-23" >}}) |
-| Adventure | 2     | [3]({{< ref "12-days-of-short-stories-3" >}}) [15]({{< ref "12-days-of-short-stories-15" >}})                                                |
-| Sci-fi    | 2     | [1]({{< ref "12-days-of-short-stories-1" >}}) [13]({{< ref "12-days-of-short-stories-13" >}})                                                |
-| Crime     | 1     | [11]({{< ref "12-days-of-short-stories-11" >}})                                                                                               |
-| Thriller  | 1     | [17]({{< ref "12-days-of-short-stories-17" >}})                                                                                               |
+| Adventure | 2     | [3]({{< ref "12-days-of-short-stories-3" >}}) [15]({{< ref "12-days-of-short-stories-15" >}})                                               |
+| Sci-fi    | 2     | [1]({{< ref "12-days-of-short-stories-1" >}}) [13]({{< ref "12-days-of-short-stories-13" >}})                                               |
+| Crime     | 1     | [11]({{< ref "12-days-of-short-stories-11" >}})                                                                                             |
+| Thriller  | 1     | [17]({{< ref "12-days-of-short-stories-17" >}})                                                                                             |
 
 <!-- markdownlint-enable MD022 -->
 
@@ -117,8 +117,7 @@ Notably absent are Romance, and Fantasy.
 The main takeaway I have about _what_ I wrote, is that the style of my writing does not differ much.
 All characters speak the same way and lack a lot of individual traits.
 I'm not sure if you can get that kind of uniqueness in a thousand words all the time, but I have seen it done effectively.
-<!-- markdown-link-check-disable-next-line -->
-[All Systems Red](https://app.thestorygraph.com/books/0885d5f1-edc2-435f-b17c-7e881829dbc6) did this really well; within the first 5 pages I had a good idea of the personality of the main character.
+{{< book "All Systems Red" "0885d5f1-edc2-435f-b17c-7e881829dbc6" >}} did this really well; within the first 5 pages I had a good idea of the personality of the main character.
 
 This is an area I really want to improve on.
 

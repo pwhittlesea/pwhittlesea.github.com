@@ -106,7 +106,6 @@ We swapped pleasantries, but it was obvious we were all holidayed out, waiting t
 Just like the flight from Wellington, the short two-hour flight back to Auckland passed without note.
 I did not do any better at the in-flight trivia questions.
 
-<!-- markdown-link-check-disable-next-line -->
 Unlike our fellow LoTR travellers who were catching connecting flights, we were headed into Auckland for one final night in the [voco in Auckland City Centre](https://www.ihg.com/voco/hotels/gb/en/auckland/aklcn/hoteldetail).
 
 ### Sushi, at last

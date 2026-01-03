@@ -63,11 +63,11 @@ You can head over to [The StoryGraph](https://app.thestorygraph.com/profile/ging
 
 :mortar_board: I graduated from the University of Southampton in 2012 and have since worked my way up the ranks to my current role as Lead Architect.
 
-I'm _supposed_ to be defining the technical strategy of the business but I still enjoy being in the thick of it; my excuse being that it keeps me in touch with the needs of the teams.
+I'm _supposed_ to be defining the technical strategy of the business, but I still enjoy being in the thick of it; my excuse being that it keeps me in touch with the needs of the teams.
 Some days I am writing library code that will be used in a handful of applications, other days I am coaching engineers on good software practice.
 Occasionally I might be doing my actual job and designing solutions that will have wide-ranging impact on the way the business works.
 It all depends on what interests me and what's needed of me on a given day.
 
-I am currently at [Cirium](https://cirium.com) in Southampton (which was [Snowflake Software Ltd.](https://www.cirium.com/thoughtcloud/snowflake-software-agrees-to-join-cirium/)).
+I am currently at [Cirium](https://cirium.com) in Southampton.
 
 For more information on my skills and job history, see my [CV]({{< ref "/cv" >}}).
