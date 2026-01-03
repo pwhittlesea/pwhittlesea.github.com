@@ -149,7 +149,6 @@ Wētā really gave off the vibe of a fun place to be and was 'the place to work'
 
 It was time to head south.
 
-<!-- markdown-link-check-disable-next-line -->
 We were spending the night in the [Millennium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/) in a town called Rotorua which was a paltry 230 km away by coach.
 
 It was about 3 hours door-to-door and, although _Shadowfax_ (that's what the tour called the coach) was comfortable, 3 hours is a lot to do in one go.

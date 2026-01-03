@@ -88,10 +88,9 @@ This blog is going to exclude a lot of the details of the tour days because I th
 
 The tour organised all the evening accommodation for us and I feared that they would have booked us in the worst hotels to increase their profit[^2].
 This could not have been further from the truth.
-Every hotel room we stayed in was spacious and many had [phenomenal views](new_zealand_0862.jpg).
+Every hotel room we stayed in was spacious and many had [phenomenal views](featured.jpg).
 They were centrally located in every town we stayed in, and I doubt I could have booked nicer ones myself.
 
-<!-- markdown-link-check-disable-next-line -->
 [^2]: #capitalism
 
 The worst part of the tour was a dates mix-up in the initial email that gave us the 13^th^ as the departure day, when it was actually the 12^th^.
@@ -128,7 +127,6 @@ We promptly dozed on and off for the next 6 hours; catching up on at least one n
 Upon rising, our body clocks having given up guessing what time it was, we did the only thing one can do.
 We went to the rooftop bar.
 
-<!-- markdown-link-check-disable-next-line -->
 If you are ever in Auckland I can recommend the [voco in Auckland City Centre](https://www.ihg.com/voco/hotels/gb/en/auckland/aklcn/hoteldetail).
 They let us check in early and check out late.
 Maybe they were taking pity on us having travelled halfway around the planet, but it was appreciated.
